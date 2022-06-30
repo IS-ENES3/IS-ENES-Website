@@ -187,7 +187,7 @@ Calls are open twice a year, approximately every 6 months. Find the application 
 OASIS Dedicated User Support
 *2nd call for applicants - 2020-2021*
 
-[Summary of the 2020-2021 2nd OASIS dedicated support](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/odus_report_5_geom_ISENES.pdf)
+[Summary of the 2020-2021 2nd OASIS dedicated support](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/odus_report_5_geom_ISENES.pdf)
 
 Within IS-ENES3, work package 6 "Services on European ESMs and Software Tool", a transnational access action proposes to provide technical help at user site to design, upgrade or enhance the implementation of the OASIS3-MCT interface in your model(s) and/or set up a tailored and computationally efficient coupled system.
 
@@ -204,7 +204,7 @@ This year, a total of 3 person-months of Dedicated User Support will be offered 
 OASIS Dedicated User Support
 *1st call for applicants - 2019*
 
-[Summary of the 2019 1st OASIS dedicated support](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/summary_OASIS_dedicated_support_2019.pdf)
+[Summary of the 2019 1st OASIS dedicated support](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/summary_OASIS_dedicated_support_2019.pdf)
 
 Within IS-ENES3, work package 6 "Services on European ESMs and Software Tool", a transnational access action proposes to provide technical help at user site to design, upgrade or enhance the implementation of the OASIS3-MCT interface in your model(s) and/or set up a tailored and computationally efficient coupled system.
 

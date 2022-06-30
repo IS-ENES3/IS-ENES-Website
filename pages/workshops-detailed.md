@@ -45,7 +45,7 @@ Session 3 | Performance
 Session 4 | Heterogeneous architectures (accelerators)
 Session 5 | Data Worflows
 
-- Agenda: you can download the detailed preliminary agenda [here](https://github.com/valeriupredoi/is-enes3.github.io/IS-ENES-Website/raw/main/pdf_documents/Preliminar-Agenda-7th-ENES-Workshop.xlsx).
+- Agenda: you can download the detailed preliminary agenda [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Preliminar-Agenda-7th-ENES-Workshop.xlsx).
 - Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdaTpORsHkO-OQzfG50vWFnuyhzP8hcGXWVC5hRotYtPYVqiw/viewform) before April 25th, 2022!
 - In order to organise your stay, you can find the instructions to access the BSC venue [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Barcelona2022-Venue%20details.pdf) and a list of hotels in Barcelona [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Barcelona2022-Hotels%20near%20BSC.pdf).
 
@@ -115,8 +115,8 @@ Time Slot | Author(s) and presentation
 :--------:|:--------------------------:
 9h30-10h15 | [Overview of IS-ENES3](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_GA2_overview_v2.pdf) - Sylvie Joussaume & Bryan Lawrence
            | [Update on sustainability (WP2-NA1)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES_GA2_WP2-NA1_sustain.pdf) - Fanny Adloff
-10h15-10h55 | [NextGEMS – Next Generation Earth Modelling Systems](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/20211004_NextGEMSENES.pdf) - Björn Stevens, MPI-M
-            | [ESM2025 – Earth System Models for the future](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/ESM2025_ISENES3_AGM_RolandSfrian.pdf) - Roland Séférian, MF-CNRM
+10h15-10h55 | [NextGEMS – Next Generation Earth Modelling Systems](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/20211004_NextGEMSENES.pdf) - Björn Stevens, MPI-M
+            | [ESM2025 – Earth System Models for the future](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESM2025_ISENES3_AGM_RolandSfrian.pdf) - Roland Séférian, MF-CNRM
 10h55-11h10 | [Results from the HPC survey](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_GA2_CarbonFootprint_Action7.pdf) – Claire Lévy, IPSL-LOCEAN
             | [About the estimation of energy-cost of data transfer](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_GA2_About_the_estimation_of_the_energy-cost_of_data_transfer.pdf) – Jean-Claude André
 11h25-12h30 | General project information, budget assessment for 2022 and reallocations – Sophie Morellon & Sylvie Joussaume
