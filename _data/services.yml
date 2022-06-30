@@ -1,0 +1,13 @@
+- menu_name: "Services"
+
+- name: "Contact"
+  url: "/contact/"
+  title: "ISENES3 contact"
+
+- name: "Mailinglist"
+  url: "https://lists.enes.org/mailman/listinfo/is-enes3"
+  title: "Subscribe to mailinglist"
+
+- name: "Privacy Policy"
+  url: "/privacy/"
+  title: "ISENES3 privacy policy"

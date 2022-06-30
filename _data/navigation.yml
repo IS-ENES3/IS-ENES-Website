@@ -1,0 +1,92 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About ISENES3
+  url: "/about-isenes3/"
+  side: left
+  dropdown:
+  - title: "Objectives"
+    url: "/objectives/"
+  - title: "Description of Work"
+    url: "/description-of-work/"
+  - title: "Partners"
+    url: "/partners/"
+
+- title: "Events and News"
+  url: "/events-and-news/"
+  side: left
+  dropdown:
+  - title: "Access Calls"
+    url: "/access-calls"
+  - title: "Training"
+    url: "/training"
+  - title: "Workshops"
+    url: "/workshops"
+  - title: "Newsletters"
+    url: "/design/newsletters"
+
+- title: "Services on Models&Tools"
+  url: "/services-models-tools/"
+  side: left
+  dropdown:
+  - title: "European Earth System Models"
+    url: "/smt-european-esms"
+  - title: "European Ocean Platform"
+    url: "/smt-european-ocean-platform"
+  - title: "Common Software Tools"
+    url: "/smt-common-software-tools"
+
+- title: "Services on Data&Metadata"
+  url: "/services-data-metadata/"
+  side: left
+  dropdown:
+  - title: "Which Model Data?"
+    url: "/sdm-which-model-data"
+  - title: "How to Access and Use Model Data?"
+    url: "/sdm-access-use-data"
+  - title: "How to Access Metadata?"
+    url: "/sdm-access-metadata"
+  - title: "How to Provide Data?"
+    url: "/sdm-how-to-provide-data"
+
+- title: "Dissemination"
+  url: "/dissemination/"
+  side: left
+  dropdown:
+  - title: "Deliverables and Milestones"
+    url: "/deliverables-milestones/"
+  - title: "Publications"
+    url: "/publications-table/"
+  - title: "Presentations and Posters"
+    url: "/presentations-posters/"
+  - title: "Lectures Tutorials Webinars"
+    url: "/lectures-tutorials-webinars/"
+
+- title: Archive
+  url: "/isenes-archive/"
+  side: left
+  dropdown:
+  - title: "IS-ENES Phase 1"
+    url: "/isenes-phase-1/"
+  - title: "IS-ENES Phase 2"
+    url: "/isenes-phase-2/"
+
+#- title: Blog
+#  url: "/blog/"
+#  side: left
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Privacy Policy"
+  url: "/privacy/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

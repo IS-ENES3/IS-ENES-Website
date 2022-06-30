@@ -1,0 +1,111 @@
+---
+layout: default
+format: video
+---
+<div class="row">
+	<div class="small-12 columns">
+		<article itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
+			<div class="flex-video">
+				{{ page.iframe}}
+			</div>
+
+			<div class="row">
+				<div class="medium-offset-2 medium-8 end columns">
+
+					{% if page.video.thumbnailUrl %}<meta itemprop="thumbnailUrl" content="{{ page.video.thumbnailUrl }}" />{% endif %}
+					{% if page.video.contentURL %}<meta itemprop="contentURL" content="{{ page.video.contentURL }}" />{% endif %}
+					{% if page.video.embedURL %}<meta itemprop="embedURL" content="{{ page.video.embedURL }}" />{% endif %}
+				</div><!-- /.medium-8.columns -->
+			</div><!-- /.row -->
+		</article>
+                <article itemprop="video1" itemscope itemtype="http://schema.org/VideoObject">
+                        <div class="flex-video">
+                                {{ page.iframe}}
+                        </div>
+
+                        <div class="row">
+                                <div class="medium-offset-2 medium-8 end columns">
+
+                                        {% if page.video1.thumbnailUrl %}<meta itemprop="thumbnailUrl" content="{{ page.video1.thumbnailUrl }}" />{% endif %}
+                                        {% if page.video1.contentURL %}<meta itemprop="contentURL" content="{{ page.video1.contentURL }}" />{% endif %}
+                                        {% if page.video1.embedURL %}<meta itemprop="embedURL" content="{{ page.video1.embedURL }}" />{% endif %}
+                                </div><!-- /.medium-8.columns -->
+                        </div><!-- /.row -->
+                </article>
+                <article itemprop="video2" itemscope itemtype="http://schema.org/VideoObject">
+                        <div class="flex-video">
+                                {{ page.iframe}}
+                        </div>
+
+                        <div class="row">
+                                <div class="medium-offset-2 medium-8 end columns">
+
+                                        {% if page.video2.thumbnailUrl %}<meta itemprop="thumbnailUrl" content="{{ page.video2.thumbnailUrl }}" />{% endif %}
+                                        {% if page.video2.contentURL %}<meta itemprop="contentURL" content="{{ page.video2.contentURL }}" />{% endif %}
+                                        {% if page.video2.embedURL %}<meta itemprop="embedURL" content="{{ page.video2.embedURL }}" />{% endif %}
+
+                                </div><!-- /.medium-8.columns -->
+                        </div><!-- /.row -->
+                </article>
+                <article itemprop="video3" itemscope itemtype="http://schema.org/VideoObject">
+                        <div class="flex-video">
+                                {{ page.iframe}}
+                        </div>
+
+                        <div class="row">
+                                <div class="medium-offset-2 medium-8 end columns">
+
+                                        {% if page.video3.thumbnailUrl %}<meta itemprop="thumbnailUrl" content="{{ page.video3.thumbnailUrl }}" />{% endif %}
+                                        {% if page.video3.contentURL %}<meta itemprop="contentURL" content="{{ page.video3.contentURL }}" />{% endif %}
+                                        {% if page.video3.embedURL %}<meta itemprop="embedURL" content="{{ page.video3.embedURL }}" />{% endif %}
+
+                                </div><!-- /.medium-8.columns -->
+                        </div><!-- /.row -->
+                </article>
+                <article itemprop="video4" itemscope itemtype="http://schema.org/VideoObject">
+                        <div class="flex-video">
+                                {{ page.iframe}}
+                        </div>
+
+                        <div class="row">
+                                <div class="medium-offset-2 medium-8 end columns">
+
+                                        {% if page.video4.thumbnailUrl %}<meta itemprop="thumbnailUrl" content="{{ page.video4.thumbnailUrl }}" />{% endif %}
+                                        {% if page.video4.contentURL %}<meta itemprop="contentURL" content="{{ page.video4.contentURL }}" />{% endif %}
+                                        {% if page.video4.embedURL %}<meta itemprop="embedURL" content="{{ page.video4.embedURL }}" />{% endif %}
+
+                                </div><!-- /.medium-8.columns -->
+                        </div><!-- /.row -->
+                </article>
+                <article itemprop="videoi5" itemscope itemtype="http://schema.org/VideoObject">
+                        <div class="flex-video">
+                                {{ page.iframe}}
+                        </div>
+
+                        <div class="row">
+                                <div class="medium-offset-2 medium-8 end columns">
+                                        <header>
+                                                {% if page.subheadline %}<p class="subheadline t30">{{ page.subheadline }}</p>{% endif %}
+                                                <h1 itemprop="name">{{ page.title }}</h1>
+                                        </header>
+
+                                        {% if page.video5.thumbnailUrl %}<meta itemprop="thumbnailUrl" content="{{ page.video5.thumbnailUrl }}" />{% endif %}
+                                        {% if page.video5.contentURL %}<meta itemprop="contentURL" content="{{ page.video5.contentURL }}" />{% endif %}
+                                        {% if page.video5.embedURL %}<meta itemprop="embedURL" content="{{ page.video5.embedURL }}" />{% endif %}
+
+                                        {% if page.teaser %}
+                                        <p class="teaser" itemprop="description">
+                                                {{ page.teaser }}
+                                        </p>
+                                        {% endif %}
+
+                                        {{ content }}
+                                        {% if page.show_meta == true %}
+                                        {% include _meta_information.html %}
+                                        {% endif %}
+                                </div><!-- /.medium-8.columns -->
+                        </div><!-- /.row -->
+                </article>
+
+	</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
