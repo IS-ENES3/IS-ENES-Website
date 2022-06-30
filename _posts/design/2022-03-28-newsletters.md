@@ -27,12 +27,12 @@ image:
 
 #### [Newsletter 6 - December 2020](https://mailchi.mp/c13ba9a7ab4e/is-enes3-newsletter-december-2020?e=%5BUNIQID%5D)
 
-#### [Newsletter 5 - September 2020](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/IS-ENES3%20Newsletter%20-%20September%202020.pdf)
+#### [Newsletter 5 - September 2020](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Newsletter_September_2020.pdf)
 
-#### [Newsletter 4 - April 2020](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/IS-ENES3%20Newsletter%20-%20April%202020.pdf)
+#### [Newsletter 4 - April 2020](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Newsletter_April_2020.pdf)
 
-#### [Newsletter 3 - February 2020](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/IS-ENES3%20Newsletter%20February%202020.pdf)
+#### [Newsletter 3 - February 2020](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Newsletter_February_2020.pdf)
 
-#### [Newsletter 2 - October 2019](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/IS-ENES3_Newsletter_2_October_2019.pdf)
+#### [Newsletter 2 - October 2019](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Newsletter_2_October_2019.pdf)
 
-#### [Newsletter 1 - June 2019](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/IS-ENES3_Newsletter_1_June_2019.pdf)
+#### [Newsletter 1 - June 2019](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Newsletter_1_June_2019.pdf)
