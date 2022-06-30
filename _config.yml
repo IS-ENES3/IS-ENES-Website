@@ -17,7 +17,7 @@
 description: 'IS-ENES3 Website'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p><img src="https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/images/flag_eu_h40px.png" alt="EU flag"> IS-ENES3 has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No <a href="https://cordis.europa.eu/project/id/824084" target="_blank">824084</a>.</p>'
+credits: '<p><img src="https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/images/flag_eu_h40px.png" alt="EU flag"> IS-ENES3 has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No <a href="https://cordis.europa.eu/project/id/824084" target="_blank">824084</a>.</p>'
 
 # Main author of the website
 # See > authors.yml

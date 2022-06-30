@@ -25,7 +25,7 @@ header:
 
 The ENES Climate Analytics Service (ECAS) provides free of charge access to server-side near-data processing capabilities through four different installations hosted at [DKRZ](https://www.dkrz.de/de), [CMCC](https://www.cmcc.it/), [CNRS-IPSL](https://www.ipsl.fr/en/) and [UKRI](https://www.ukri.org/)-[CEDA](https://www.ceda.ac.uk/) premises, which offer a virtual climate research environment for Jupyter notebooks and parallel back-end compute capabilities.
 
-| **News! Find the link to the scripts and the recordings of the demos in the page of our [last online training](https://valeriupredoi.github.io/workshops-detailed#compute-analytics).** |
+| **News! Find the link to the scripts and the recordings of the demos in the page of our [last online training](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#compute-analytics).** |
 
 The ECAS integrates data and tools for scientific data analysis, manipulation and visualization, offering access to CMIP5, CMIP6 as well as CORDEX datasets from ESGF. Look at the benefits:
 
@@ -43,7 +43,7 @@ The ECAS is a service with institutional-based deployments addressing national r
 
 Visit the service FAQs [PAGE TO BE CREATED] and find our contact and the link to use cases.
 
-**Important note**: unfortunately we cannot offer unlimited resources. The ECAS only provides computer resources for pre- and post-processing (not suitable for simulation runs) in shared computing nodes. If you would like to use exclusive extensive resources, please apply to our [Analysis Platforms service](https://valeriupredoi.github.io/sdm-analysis-platforms-service). 
+**Important note**: unfortunately we cannot offer unlimited resources. The ECAS only provides computer resources for pre- and post-processing (not suitable for simulation runs) in shared computing nodes. If you would like to use exclusive extensive resources, please apply to our [Analysis Platforms service](https://is-enes3.github.io/IS-ENES-Website/sdm-analysis-platforms-service). 
 
 Find training material and useful scripts [here](https://github.com/IS-ENES-Data/Climate-data-analysis-service) and the list of recorded videos of the demos in the IS-ENES3 Youtube channel [here](https://www.youtube.com/playlist?list=PLFvev1W5vG7P1VGITP3ys1GpXnhL--jIc).
 
@@ -139,7 +139,7 @@ For questions about the CNRS-IPSL ECAS, please contact us at espri-mod[a]listes.
 
 By applying to use the ECAS:
 - you agree to include the following acknowledgement when presenting your results in scientific articles, conferences,...: *"This [insert type of result] is part of the IS-ENES3 project that has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 824084".*
-- you agree that your personal data will be processed according to the [IS-ENES privacy policy](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pages/privacy.md). 
+- you agree that your personal data will be processed according to the [IS-ENES privacy policy](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pages/privacy.md). 
 
 ECAS DKRZ and CMCC instances are also EOSC-enabled thanks to its interoperability with EGI and EUDAT services, find ECAS in the [EOSC](https://www.eosc-hub.eu/) service portfolio.
 
@@ -316,7 +316,7 @@ B2DROP limit should be 20GB per user (2GB per file). See EUDAT page [here](https
 
 **- In linear regression notebook, what does the "showtime" option refer to? Here it is the command line: trendCoeff = trendCube.export_array(show_time='yes')**
 
-In show_time, if "no" (default), the values of time dimension are shown as numbers. With "yes", the values are converted as a string with date and time. Example: [1, 2] VS ['2096-01-02 00:00:00', '2096-01-03 00:00:00']. The plots are eventually the same no matter if it is yes or no, this is something affecting only the internal structure/properties of the imported data. For example, in the notebook #3 in the CMCC ECAS [github repository](https://github.com/ECAS-Lab/ecas-training/tree/master/online_training_data_analytics_enes_2021) the plot will the same for both
+In show_time, if "no" (default), the values of time dimension are shown as numbers. With "yes", the values are converted as a string with date and time. Example: [1, 2] VS ['2096-01-02 00:00:00', '2096-01-03 00:00:00']. The plots are eventually the same no matter if it is yes or no, this is something affecting only the internal structure/properties of the imported data. For example, in the notebook #3 in the CMCC ECAS [github repository](https://github.com/ECAS-Lab/ecas-training/tree/main/online_training_data_analytics_enes_2021) the plot will the same for both
 
 data = singleTS.export_array(show_time='no')
 

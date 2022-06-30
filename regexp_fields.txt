@@ -1,6 +1,8 @@
 These are the current fields that changed when moving site
 ----------------------------------------------------------
+Add them here as we find broken stuff, and mark them fixed if we fix them!
 
-https://valeriupredoi.github.io/ -> https://is-enes3.github.io/IS-ENES-Website/
-valeriupredoi.github.io -> is-enes3.github.io/IS-ENES-Website
-https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master -> 
+## WAS RUN valeriupredoi.github.io -> is-enes3.github.io/IS-ENES-Website
+## WAS RUN is-enes3.github.io/IS-ENES-Website/master -> is-enes3.github.io/IS-ENES-Website/main
+## WAS RUN /master/ -> /main/
+## WAS RUN raw.githubusercontent.com/valeriupredoi/is-enes3.github.io/IS-ENES-Website -> raw.githubusercontent.com/IS-ENES3/IS-ENES-Website

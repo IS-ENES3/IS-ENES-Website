@@ -238,7 +238,7 @@ window.Modernizr = (function( window, document, undefined ) {
       };
     }
 
-    // Adapted from ES5-shim https://github.com/kriskowal/es5-shim/blob/master/es5-shim.js
+    // Adapted from ES5-shim https://github.com/kriskowal/es5-shim/blob/main/es5-shim.js
     // es5.github.com/#x15.3.4.5
 
     if (!Function.prototype.bind) {

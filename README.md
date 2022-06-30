@@ -147,7 +147,7 @@ gem 'coderay', '1.1.1'
 
 **WARNING**: I had issues with permissions with this type of installation!
 
-Use the Jekyll [container](https://github.com/envygeeks/jekyll-docker/blob/master/README.md) and
+Use the Jekyll [container](https://github.com/envygeeks/jekyll-docker/blob/main/README.md) and
 specifically, run:
 
 ```bash

@@ -33,10 +33,10 @@ By clicking on the **Acronym** in the Table below, you will find a brief descrip
 
 Acronym | Name of the modelling group | Level | Contact
 :-------: | :------------------------: | :--------: | :--------:
-[CMCC-ESM2](https://valeriupredoi.github.io/smt-european-esms-detailed#cmcc-esm2) | Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC) | Level 1 | Pier Giuseppe Fogli: <piergiuseppe.fogli@cmcc.it>
-[CNRM-CM6](https://valeriupredoi.github.io/smt-european-esms-detailed#cnrm-cm6) | CNRM-CERFACS | Level 1 & 2 | CNRM-CM6 mail: <contact.cmip@meteo.fr>
-[EC-Earth3](https://valeriupredoi.github.io/smt-european-esms-detailed#ec-earth3) | EC-Earth consortium | Level 1 & 2 | Shuting Yang: <shuting@dmi.dk>
-[IPSL-CM6](https://valeriupredoi.github.io/smt-european-esms-detailed#ipsl-cm6) | Institute Pierre-Simon Laplace (IPSL) | Level 1 | Arnaud Caubel: <arnaud.caubel@lsce.ipsl.fr>
-[MPI-ESM](https://valeriupredoi.github.io/smt-european-esms-detailed#mpi-esm) | Max-Planck-Institut für Meteorologie (MPI-M) | Level 1 | Michael Botzet: <michael.botzet@mpimet.mpg.de>
-[UKESM](https://valeriupredoi.github.io/smt-european-esms-detailed#ukesm) | UK Met Office | Level 1 & 2 | UKESM help desk: <ukesm@ncas.ac.uk>
-[NorESM](https://valeriupredoi.github.io/smt-european-esms-detailed#noresm) | Norwegian Climate Center (NCC) | Level 1 & 2 | NCC help desk: <noresm-ncc@met.no>
+[CMCC-ESM2](https://is-enes3.github.io/IS-ENES-Website/smt-european-esms-detailed#cmcc-esm2) | Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC) | Level 1 | Pier Giuseppe Fogli: <piergiuseppe.fogli@cmcc.it>
+[CNRM-CM6](https://is-enes3.github.io/IS-ENES-Website/smt-european-esms-detailed#cnrm-cm6) | CNRM-CERFACS | Level 1 & 2 | CNRM-CM6 mail: <contact.cmip@meteo.fr>
+[EC-Earth3](https://is-enes3.github.io/IS-ENES-Website/smt-european-esms-detailed#ec-earth3) | EC-Earth consortium | Level 1 & 2 | Shuting Yang: <shuting@dmi.dk>
+[IPSL-CM6](https://is-enes3.github.io/IS-ENES-Website/smt-european-esms-detailed#ipsl-cm6) | Institute Pierre-Simon Laplace (IPSL) | Level 1 | Arnaud Caubel: <arnaud.caubel@lsce.ipsl.fr>
+[MPI-ESM](https://is-enes3.github.io/IS-ENES-Website/smt-european-esms-detailed#mpi-esm) | Max-Planck-Institut für Meteorologie (MPI-M) | Level 1 | Michael Botzet: <michael.botzet@mpimet.mpg.de>
+[UKESM](https://is-enes3.github.io/IS-ENES-Website/smt-european-esms-detailed#ukesm) | UK Met Office | Level 1 & 2 | UKESM help desk: <ukesm@ncas.ac.uk>
+[NorESM](https://is-enes3.github.io/IS-ENES-Website/smt-european-esms-detailed#noresm) | Norwegian Climate Center (NCC) | Level 1 & 2 | NCC help desk: <noresm-ncc@met.no>

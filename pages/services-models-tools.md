@@ -20,17 +20,17 @@ header:
     image_fullwidth: "Banner_website_IS-ENES3.png"
 widget1:
   title: "European Earth System Models"
-  url: 'https://valeriupredoi.github.io/smt-european-esms/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/smt-european-esms/'
   image: Banner_website_IS-ENES3.png
   # text: 'IS-ENES3 is divided into 4 main objectives.'
 widget2:
   title: "NEMO European Ocean Platform"
-  url: 'https://valeriupredoi.github.io/smt-european-ocean-platform/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/smt-european-ocean-platform/'
   image: Banner_website_IS-ENES3.png
   # text: 'Detailed description of the project Work Packages.'
 widget3:
   title: "Common Software Tools"
-  url: 'https://valeriupredoi.github.io/smt-common-software-tools/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/smt-common-software-tools/'
   image: Banner_website_IS-ENES3.png
   # text: 'The consortium comprises 22 partners from 11 countries.'
 

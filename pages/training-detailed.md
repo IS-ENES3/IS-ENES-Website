@@ -52,7 +52,7 @@ When: | September 1-7, 2022
 Where: | Athens, Greece
 Fee: | Free of charge
 
-Organised by the [IS-ENES3 consortium](https://valeriupredoi.github.io/partners/), this school aims to increase expertise and skills on theoretical and practical concepts of Data Science, building upon and mainly targeting how to accelerate scientific discovery from data. Early stage researchers will learn how to analyse, visualise and report on massive datasets, in the scientific domain as well as how to apply data-intensive and data-oriented paradigms and solutions to address scientific discovery in climate science.
+Organised by the [IS-ENES3 consortium](https://is-enes3.github.io/IS-ENES-Website/partners/), this school aims to increase expertise and skills on theoretical and practical concepts of Data Science, building upon and mainly targeting how to accelerate scientific discovery from data. Early stage researchers will learn how to analyse, visualise and report on massive datasets, in the scientific domain as well as how to apply data-intensive and data-oriented paradigms and solutions to address scientific discovery in climate science.
 
 Driven by the theoretical background provided by domain, data and computer science experts, the school will adopt a hands-on approach for maximising results focusing on the usage of datasets linked to the IS-ENES3 data services. The school will strengthen the individual expertise of the participating climate and computer scientists, as well as, leverage and emphasise the need of collaboration between them, helping early career scientists with different backgrounds to meet and network.
 
@@ -125,7 +125,7 @@ DR2XML is a python package useful for climate models whose I/O are handled by XI
 
 If you are interested in following the XIOS&dr2xml training, please fill up the [registration form](https://framaforms.org/2021-xios-training-registration-1610983252).
 
-By applying to the XIOS virtual trainings, you agree that the IS-ENES3 project and its selection committee will collect your personal data according to the IS-ENES3 data [privacy policy](https://valeriupredoi.github.io/privacy/). Your data will only be used in the purpose of the organization of the IS-ENES3 XIOS virtual trainings. If you want to modify or erase your personal data, please send an email to <is-enes@ipsl.fr>
+By applying to the XIOS virtual trainings, you agree that the IS-ENES3 project and its selection committee will collect your personal data according to the IS-ENES3 data [privacy policy](https://is-enes3.github.io/IS-ENES-Website/privacy/). Your data will only be used in the purpose of the organization of the IS-ENES3 XIOS virtual trainings. If you want to modify or erase your personal data, please send an email to <is-enes@ipsl.fr>
 
 If you have any questions about this training, please contact Yushan Wang <yushan.wang@lsce.ipsl.fr>.
 
@@ -141,7 +141,7 @@ If you have any questions about this training, please contact Yushan Wang <yusha
 
 ![eoscBanner](../images/IS-ENES3-EOSCjointonlinetrainingMarch2021banner-vf2.png)
 
-The infrastructure for the European Network of Earth System modelling ([ENES](https://portal.enes.org/)) has a new service for you! Thanks to the ENES Climate Analytics Service ([ECAS](https://portal.enes.org/data/data-metadata-service/climate-analytics-service)), which is also one of the thematic services included in the [EOSC-hub](https://www.eosc-hub.eu/) service portfolio, you can load just the data you need and straightforwardly process them. With this free of charge service, you can request computing time through the [IS-ENES](https://valeriupredoi.github.io/) infrastructure project, which hosts and maintains more than 6 Petabytes of CMIP data as the European part of the Earth System Grid Federation ([ESGF](https://esgf.llnl.gov/)).
+The infrastructure for the European Network of Earth System modelling ([ENES](https://portal.enes.org/)) has a new service for you! Thanks to the ENES Climate Analytics Service ([ECAS](https://portal.enes.org/data/data-metadata-service/climate-analytics-service)), which is also one of the thematic services included in the [EOSC-hub](https://www.eosc-hub.eu/) service portfolio, you can load just the data you need and straightforwardly process them. With this free of charge service, you can request computing time through the [IS-ENES](https://is-enes3.github.io/IS-ENES-Website/) infrastructure project, which hosts and maintains more than 6 Petabytes of CMIP data as the European part of the Earth System Grid Federation ([ESGF](https://esgf.llnl.gov/)).
 
 Join our online training on March 8-9 and learn how to run your Jupyter notebooks at the German Climate Computing Center ([DKRZ](https://www.dkrz.de/de)) and the Euro-Mediterranean Center on Climate Change Foundation ([CMCC](https://www.cmcc.it/)), two of the IS-ENES compute service providers and ESGF data centers. 
 
@@ -197,7 +197,7 @@ The total length of the Autumn School is six weeks. **In the first three weeks, 
 
 *Webinar 1 Wednesday morning 4th of November* |
 :--------------------------------------------:|:--------------:
-10 min | [Introduction to the course: aim, learning objectives, set-up](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS1_IS-ENES3_Autumnschool_intro.pdf)
+10 min | [Introduction to the course: aim, learning objectives, set-up](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/AS1_IS-ENES3_Autumnschool_intro.pdf)
 20 min | Interactive session (wrap up of the preparation material):
        | - What different sources of climate data are there?
        | - What are the main advantages and disadvantages of the various data sources
@@ -205,17 +205,17 @@ The total length of the Autumn School is six weeks. **In the first three weeks, 
        | - What methods exist to deal with these uncertainties?
        | (Those with little background knowledge on climate data are asked to follow some of the lessens provided by C3S User Learning Service as preparation)
 60 min | **Presentations:**
-       | **Sylvie Joussaume**: [Climate models and the international landscape of climate research and modelling and current developments](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS2_201104_IS-ENES3_school_Joussaume_VF.pdf)
-       | **Klaus Zimmerman**: [Climate model evaluation and the ESMValTool](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS3_202010_is-enes3_esm-evaluation.pdf)
+       | **Sylvie Joussaume**: [Climate models and the international landscape of climate research and modelling and current developments](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/AS2_201104_IS-ENES3_school_Joussaume_VF.pdf)
+       | **Klaus Zimmerman**: [Climate model evaluation and the ESMValTool](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/AS3_202010_is-enes3_esm-evaluation.pdf)
 30 min | Further questions and discussion on how to use the presented information for climate impact studies (questions can also be posed during the presentations)
 
 *Webinar 2 Friday morning 6th of November* |
 :-----------------------------------------:|:------------:
 20 min | Questions related to the information presented in Webinar 1
 70 min | **Presentations:**
-       | **Tomas Halenka**: [Downscaling techniques and regional modelling, and bias-correction](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS4_IS-ENES3_Autumnschool_Downscaling_fin.pdf)
-       | **Eric Guilyardi**: [Standards for climate data, CMIP experiments](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS5_standards_Eric_G.pdf)
-       | **Vladimir Djurdjevic**: [Climate indices and standards, uncertainties/ensembles, challenges in use of climate data](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS6_Vladimir_6_11_2020_Webinar_2.pdf)
+       | **Tomas Halenka**: [Downscaling techniques and regional modelling, and bias-correction](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/AS4_IS-ENES3_Autumnschool_Downscaling_fin.pdf)
+       | **Eric Guilyardi**: [Standards for climate data, CMIP experiments](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/AS5_standards_Eric_G.pdf)
+       | **Vladimir Djurdjevic**: [Climate indices and standards, uncertainties/ensembles, challenges in use of climate data](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/AS6_Vladimir_6_11_2020_Webinar_2.pdf)
 30 min | Further questions and discussion on how to use the presented information for climate impact studies.
        | Wrap-up: what do the participants consider the most important information/messages for their work, and what information is missing?
 
@@ -228,8 +228,8 @@ The total length of the Autumn School is six weeks. **In the first three weeks, 
        | - What are the main uncertainties in impact modelling in this sector and how do people deal with it?
        | (Those with little background knowledge on climate impacts in various sectors are asked to follow some of the lessens provided by C3S User Learning Service as preparation)
 70 min | **Presentations:**
-       | **Rutger Dankers**: [Approaches used in impact modelling and examples of impact studies for water](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS7_Impact_Modelling_11Nov2020.pdf)
-       | **Vladimir Djurdjevic**: [Impact modelling and examples: agriculture/forestry](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS8_ISENES-ImpactSchool-Djurdjevic_11_11_2020.pdf) 
+       | **Rutger Dankers**: [Approaches used in impact modelling and examples of impact studies for water](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/AS7_Impact_Modelling_11Nov2020.pdf)
+       | **Vladimir Djurdjevic**: [Impact modelling and examples: agriculture/forestry](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/AS8_ISENES-ImpactSchool-Djurdjevic_11_11_2020.pdf) 
 30 min | Further questions and discussion how to use the presented information for climate impact studies. 
 
 *Webinar 4 Friday 13th November* |
@@ -239,8 +239,8 @@ The total length of the Autumn School is six weeks. **In the first three weeks, 
        | - What climate services do they know, use and/or produce?
        | - What climate services do they require for their work?
 75 min | **Presentations:**
-       | **Rutger Dankers**: [Climate services (types, uncertainties, examples, etc.)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS9_Climate_Services_13Nov2020.pdf)
-       | **Christian Pagé**: [Landscape of portals, tools with climate data and other data: ESGF, Copernicus, etc.](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS10_accessing_climate_data_final.pdf) |
+       | **Rutger Dankers**: [Climate services (types, uncertainties, examples, etc.)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/AS9_Climate_Services_13Nov2020.pdf)
+       | **Christian Pagé**: [Landscape of portals, tools with climate data and other data: ESGF, Copernicus, etc.](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/AS10_accessing_climate_data_final.pdf) |
 30 min | Further questions and discussion on how to use the presented information for climate impact studies. 
        | Wrap-up: what do the participants consider the most important information/messages for their work,and what information is missing?
 
@@ -250,7 +250,7 @@ The total length of the Autumn School is six weeks. **In the first three weeks, 
 :------------------------------------------:|:------------:
 15 min | Judith Klostermann: Aim of the case studies, set-up of the work, forming small groups.
 45 min | **Presentation:**
-       | **Janette Bessembinder/Judith Klostermann**: [Introduction to the steps required for case studies](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS11_IS-ENES3_Autumnschool_case_study_setup.pdf) (mainly impact analysis, but also some attention for adaptation) and problems and challenges in inter/multi/transdisciplinary work.
+       | **Janette Bessembinder/Judith Klostermann**: [Introduction to the steps required for case studies](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/AS11_IS-ENES3_Autumnschool_case_study_setup.pdf) (mainly impact analysis, but also some attention for adaptation) and problems and challenges in inter/multi/transdisciplinary work.
        | Selection of case studies. Case studies can be impact studies or development of a climate service.
 60 min | Short presentation of the research question of each group.
        | Interactive session: in general we discuss what the participants should think of (e.g. how will the results of the case study be used, who are the stakeholders, context of the question, what climate data are needed, time horizon, resolution, dealing with uncertainties), use of google docs.
@@ -259,8 +259,8 @@ The total length of the Autumn School is six weeks. **In the first three weeks, 
 :---------------------------------------:|:------------:
 30 min | Interactive session on what was treated in webinar 5. Could participants answer most of the questions for their case study? What was difficult?
 60 min | **Presentations:**
-       | **Christian Pagé**: [Introduction to the Climate4Impact portal and some examples on possible analyses (current version of the portal)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS12_icclim_c4i.pdf)
-       | **Alessandro Spinuso**: [Introduction to the new version of the new Climate4Impact portal (under development)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AS12_icclim_c4i.pdf)
+       | **Christian Pagé**: [Introduction to the Climate4Impact portal and some examples on possible analyses (current version of the portal)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/AS12_icclim_c4i.pdf)
+       | **Alessandro Spinuso**: [Introduction to the new version of the new Climate4Impact portal (under development)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/AS12_icclim_c4i.pdf)
 10:30-11:00 | Further questions and discussion on how to use the presented information for climate impact studies.
 
 **Week 4-5: Work on case studies** |

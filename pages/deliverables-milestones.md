@@ -20,12 +20,12 @@ header:
     image_fullwidth: "Banner_website_IS-ENES3.png"
 widget1:
   title: "Deliverables"
-  url: 'https://valeriupredoi.github.io/deliverables/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/deliverables/'
   image: Banner_website_IS-ENES3.png
   text: 'IS-ENES3 deliverables.'
 widget2:
   title: "Milestones"
-  url: 'https://valeriupredoi.github.io/milestones/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/milestones/'
   image: Banner_website_IS-ENES3.png
   text: 'IS-ENES3 Milestones.'
 

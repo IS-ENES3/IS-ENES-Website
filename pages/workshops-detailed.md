@@ -45,9 +45,9 @@ Session 3 | Performance
 Session 4 | Heterogeneous architectures (accelerators)
 Session 5 | Data Worflows
 
-- Agenda: you can download the detailed preliminary agenda [here](https://github.com/valeriupredoi/valeriupredoi.github.io/raw/master/pdf_documents/Preliminar-Agenda-7th-ENES-Workshop.xlsx).
+- Agenda: you can download the detailed preliminary agenda [here](https://github.com/valeriupredoi/is-enes3.github.io/IS-ENES-Website/raw/main/pdf_documents/Preliminar-Agenda-7th-ENES-Workshop.xlsx).
 - Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdaTpORsHkO-OQzfG50vWFnuyhzP8hcGXWVC5hRotYtPYVqiw/viewform) before April 25th, 2022!
-- In order to organise your stay, you can find the instructions to access the BSC venue [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Barcelona2022-Venue%20details.pdf) and a list of hotels in Barcelona [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Barcelona2022-Hotels%20near%20BSC.pdf).
+- In order to organise your stay, you can find the instructions to access the BSC venue [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Barcelona2022-Venue%20details.pdf) and a list of hotels in Barcelona [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Barcelona2022-Hotels%20near%20BSC.pdf).
 
 <hr style="border:2px solid gray">
 
@@ -80,7 +80,7 @@ Session 5 | Data Worflows
 - open when: **Nov 23, 2021**
 - duration: **Nov 23, 2021 10:00 AM to Nov 25, 2021 05:00 PM**
 
-**You can find the summary report of the workshop** [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Summary_ESMValTool_Workshop_Nov_2021.pdf)
+**You can find the summary report of the workshop** [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Summary_ESMValTool_Workshop_Nov_2021.pdf)
 
 The Second Technical ESMValTool Workshop 2021 took place via video call from 23-25 November 2021 with 34 participants from BSC, DLR, Met Office, NLeSC, PML, SMHI, U Bremen and U Reading. The main goal of the workshop was to bring together the development community, discuss future strategies and provide updates on progress since the last workshop in May 2021. Specifically, the workshop included the following topics and side meetings:
 
@@ -103,8 +103,8 @@ The Second Technical ESMValTool Workshop 2021 took place via video call from 23-
 
 ![isenes3GA](../images/isenes3GA-2021.png)
 
-- **You can find the event report of the workshop** [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M1.4.pdf)
-- **You can find the agenda of the workshop** [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Agenda_IS-ENES3_Virtual_GA2_v4.pdf)
+- **You can find the event report of the workshop** [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M1.4.pdf)
+- **You can find the agenda of the workshop** [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Agenda_IS-ENES3_Virtual_GA2_v4.pdf)
 
 **Table of presentations:**
 
@@ -113,22 +113,22 @@ The Second Technical ESMValTool Workshop 2021 took place via video call from 23-
 
 Time Slot | Author(s) and presentation
 :--------:|:--------------------------:
-9h30-10h15 | [Overview of IS-ENES3](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_overview_v2.pdf) - Sylvie Joussaume & Bryan Lawrence
-           | [Update on sustainability (WP2-NA1)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES_GA2_WP2-NA1_sustain.pdf) - Fanny Adloff
+9h30-10h15 | [Overview of IS-ENES3](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_GA2_overview_v2.pdf) - Sylvie Joussaume & Bryan Lawrence
+           | [Update on sustainability (WP2-NA1)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES_GA2_WP2-NA1_sustain.pdf) - Fanny Adloff
 10h15-10h55 | [NextGEMS – Next Generation Earth Modelling Systems](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/20211004_NextGEMSENES.pdf) - Björn Stevens, MPI-M
             | [ESM2025 – Earth System Models for the future](https://raw.githubusercontent.com/valeriupredoi/isenes3-website-old/main/old-site/files/ESM2025_ISENES3_AGM_RolandSfrian.pdf) - Roland Séférian, MF-CNRM
-10h55-11h10 | [Results from the HPC survey](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_CarbonFootprint_Action7.pdf) – Claire Lévy, IPSL-LOCEAN
-            | [About the estimation of energy-cost of data transfer](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_About_the_estimation_of_the_energy-cost_of_data_transfer.pdf) – Jean-Claude André
+10h55-11h10 | [Results from the HPC survey](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_GA2_CarbonFootprint_Action7.pdf) – Claire Lévy, IPSL-LOCEAN
+            | [About the estimation of energy-cost of data transfer](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_GA2_About_the_estimation_of_the_energy-cost_of_data_transfer.pdf) – Jean-Claude André
 11h25-12h30 | General project information, budget assessment for 2022 and reallocations – Sophie Morellon & Sylvie Joussaume
 
 **14h30-16h30: Session 2 - Model Evaluation**
 
 Time Slot | Author(s) and presentation
 :--------:|:--------------------------:
-14h30-14h55 | [WP debriefings WP3-NA2, WP5-NA4, WP6-VA1, WP7-VA2, WP9-JRA2](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_WP3_WP5_WP6_WP7_WP9.pdf) - Kim Serradell & Rémi Kazeroni
-14h55-15h45 | [Survey results on model evaluation and perspectives](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/SurveyAG_ISENES3_2021.pdf) – Jérôme Servonnat
-            | [Overview of ESMValTool progress – Rémi Kazeroni](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_ESMValTool_Kazeroni.pdf)
-            | [Provenance and technical standards (WP3-NA2, WP5-NA4](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_DiagnosticStandards_JavierVegas.pdf) – Kim Serradell & Javier Vegas
+14h30-14h55 | [WP debriefings WP3-NA2, WP5-NA4, WP6-VA1, WP7-VA2, WP9-JRA2](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_GA2_WP3_WP5_WP6_WP7_WP9.pdf) - Kim Serradell & Rémi Kazeroni
+14h55-15h45 | [Survey results on model evaluation and perspectives](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/SurveyAG_ISENES3_2021.pdf) – Jérôme Servonnat
+            | [Overview of ESMValTool progress – Rémi Kazeroni](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_GA2_ESMValTool_Kazeroni.pdf)
+            | [Provenance and technical standards (WP3-NA2, WP5-NA4](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_GA2_DiagnosticStandards_JavierVegas.pdf) – Kim Serradell & Javier Vegas
 15h45-16h30 | Model Evaluation: cross-workpackage issues
 
 ##### Tuesday, October 5th
@@ -136,22 +136,22 @@ Time Slot | Author(s) and presentation
 
 Time Slot | Author(s) and presentation
 :--------:|:--------------------------:
-10h-10h25 | [WP debriefings (WP5-NA4, WP7-VA2, WP10-JRA3)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_WP5-WP7-WP10.pdf)
-10h25-11h25 | [ESGF architecture](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_ESGF_Architecture.pdf) – Philip Kershaw
-            | [Climate4impact portal 2.0](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_Climate4Impact.pdf) – Alessandro Spinuso
-            | [Update on user requirements (including climate indices)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/WP_debriefing_GA2_WP3_NA2_user_requirements.pdf) – Janette Bessembinder
-            | [ES-DOC](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_ES-DOC_status_update.pdf) – Sadie Bartholomew
+10h-10h25 | [WP debriefings (WP5-NA4, WP7-VA2, WP10-JRA3)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_GA2_WP5-WP7-WP10.pdf)
+10h25-11h25 | [ESGF architecture](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_GA2_ESGF_Architecture.pdf) – Philip Kershaw
+            | [Climate4impact portal 2.0](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_GA2_Climate4Impact.pdf) – Alessandro Spinuso
+            | [Update on user requirements (including climate indices)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/WP_debriefing_GA2_WP3_NA2_user_requirements.pdf) – Janette Bessembinder
+            | [ES-DOC](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_GA2_ES-DOC_status_update.pdf) – Sadie Bartholomew
 11h25-12h | Data, metadata and other data software: cross-workpackage issues and introduction to breakout groups
 
 **14h30-16h30: Session 4 - Models, Tools and HPC**
 
 Time Slot | Author(s) and presentation
 :--------:|:--------------------------:
-14h30-14h55 | [WP debriefings (WP4-NA3, WP6-VA1, WP8-JRA1)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_WP4-WP6-WP8.pdf)
-14h55-15h55 | [Recent developments in XIOS](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AG-ISENES3-recent_developments_in_xios.pdf) – Yann Meurdesoif
-            | [Update on Cylc/Rose](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_Cylc_Rose_Update.pdf) – David Matthews
-            | [Update on NEMO Sea Ice model](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_NEMO-sea-ice_Blockley_Vancoppenolle.pdf) – Ed Blockley & Martin Vancoppenolle
-            | [NEMO HPC Working Group](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_Epicoco_NEMO_HPC-WG.pdf) – Italo Epicoco
+14h30-14h55 | [WP debriefings (WP4-NA3, WP6-VA1, WP8-JRA1)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_GA2_WP4-WP6-WP8.pdf)
+14h55-15h55 | [Recent developments in XIOS](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/AG-ISENES3-recent_developments_in_xios.pdf) – Yann Meurdesoif
+            | [Update on Cylc/Rose](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_GA2_Cylc_Rose_Update.pdf) – David Matthews
+            | [Update on NEMO Sea Ice model](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_GA2_NEMO-sea-ice_Blockley_Vancoppenolle.pdf) – Ed Blockley & Martin Vancoppenolle
+            | [NEMO HPC Working Group](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_GA2_Epicoco_NEMO_HPC-WG.pdf) – Italo Epicoco
 15h55-16h35 | Models, Tools and HPC: cross-workpackage issues and introduction to breakout groups
 
 <hr style="border:2px solid gray">
@@ -173,39 +173,39 @@ Find the presentations within the agenda, by clicking on the title of the presen
 
 Time Slot | Author(s) and presentation
 :----------:|:--------------------------:
-10h-10h15 | [Overview of IS-ENES3](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S11_IS-ENES3_GA1_overview.pdf) - Sylvie Joussaume & Bryan Lawrence
-10h20-10h35 | [Introduction to sustainability (WP2-NA1)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S12_IS-ENES3_GA1_Sustainability.pdf) - Michael Lautenschlager, Fanny Adloff
-10h50-11h00 | [Introduction to user engagement](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S13_IS-ENES3_GA1_user_engagement_v2.pdf) - Janette Bessembinder, Eric Guilyardi
-11h00-11h15 | [Downstream data usage](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S14_IS-ENES3_GA1_Downstream_data_usage.pdf) – Janette Bessembinder
-11h45-12h05 | [Introduction to innovation (including Copernicus C3S)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S15_IS-ENES3_GA1_Innovation.pdf) – Martin Juckes, Fanny Adloff
-12h20-12h20 | [Preparing the RP1 report](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Preparing_the_Reporting_Period_1_Sophie_Morellon_v2_SJ.pdf) – Sophie Morellon
-12h30-12h40 | [Autumn Data School](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S17_IS-ENES3_GA1_Autumn_School.pdf) – Judith Klostermann
-12h40-12h50 | [Carbon Footprint working group](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S18_IS-ENES3_GA1_CarbonFootprint-comp.pdf) – Sophie Valcke et al.
+10h-10h15 | [Overview of IS-ENES3](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S11_IS-ENES3_GA1_overview.pdf) - Sylvie Joussaume & Bryan Lawrence
+10h20-10h35 | [Introduction to sustainability (WP2-NA1)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S12_IS-ENES3_GA1_Sustainability.pdf) - Michael Lautenschlager, Fanny Adloff
+10h50-11h00 | [Introduction to user engagement](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S13_IS-ENES3_GA1_user_engagement_v2.pdf) - Janette Bessembinder, Eric Guilyardi
+11h00-11h15 | [Downstream data usage](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S14_IS-ENES3_GA1_Downstream_data_usage.pdf) – Janette Bessembinder
+11h45-12h05 | [Introduction to innovation (including Copernicus C3S)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S15_IS-ENES3_GA1_Innovation.pdf) – Martin Juckes, Fanny Adloff
+12h20-12h20 | [Preparing the RP1 report](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Preparing_the_Reporting_Period_1_Sophie_Morellon_v2_SJ.pdf) – Sophie Morellon
+12h30-12h40 | [Autumn Data School](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S17_IS-ENES3_GA1_Autumn_School.pdf) – Judith Klostermann
+12h40-12h50 | [Carbon Footprint working group](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S18_IS-ENES3_GA1_CarbonFootprint-comp.pdf) – Sophie Valcke et al.
 
 *14h30-17h30 Session 2: Data, metadata and other software*
 
 Time Slot | Author(s) and presentation
 :----------:|:--------------------------:
-14h30-14h45 | [WP debriefings: WP5-NA4, WP7-VA2, WP10-JRA3](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S21_IS-ENES3_GA1_WP5_WP7_WP10.pdf) - Phil Kershaw, Klaus Zimmermann, Stephan Kindermann, Wim Som de Cerff, Sandro Fiore, Christian Pagé
-14h55-15h10 | [Status of ESGF for CMIP6](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S22_IS-ENES3_GA1_CMIP6-ESGF.pdf) - Stephan Kindermann
-15h10-15h25 | [Status of ES-DOC for CMIP6](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents//S23_IS-ENES3_GA1_ES-DOC-v2.pdf) - David Hassell
-15h25-15h40 | [Perspectives on possible Future architecture for ESGF](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_GA2_CarbonFootprint_Action7.pdf) – Philip Kershaw
-15h40-15h55 | [Perspectives on compute services for ESGF](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S25_IS-ENES3_GA1_ComputeService_Fiore.pdf) – Sandro Fiore
-16h35-16h45 | [Data, metadata and other data software: presentation of cross-WP issues](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S26_Cross-WP_Data_Session.pdf) 
+14h30-14h45 | [WP debriefings: WP5-NA4, WP7-VA2, WP10-JRA3](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S21_IS-ENES3_GA1_WP5_WP7_WP10.pdf) - Phil Kershaw, Klaus Zimmermann, Stephan Kindermann, Wim Som de Cerff, Sandro Fiore, Christian Pagé
+14h55-15h10 | [Status of ESGF for CMIP6](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S22_IS-ENES3_GA1_CMIP6-ESGF.pdf) - Stephan Kindermann
+15h10-15h25 | [Status of ES-DOC for CMIP6](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents//S23_IS-ENES3_GA1_ES-DOC-v2.pdf) - David Hassell
+15h25-15h40 | [Perspectives on possible Future architecture for ESGF](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_GA2_CarbonFootprint_Action7.pdf) – Philip Kershaw
+15h40-15h55 | [Perspectives on compute services for ESGF](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S25_IS-ENES3_GA1_ComputeService_Fiore.pdf) – Sandro Fiore
+16h35-16h45 | [Data, metadata and other data software: presentation of cross-WP issues](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S26_Cross-WP_Data_Session.pdf) 
 
 - **Thursday 26th March**
 *10h-13h - Session 3: Models, Tools and HPC*
 
 Time Slot | Author(s) and presentation
 :----------:|:--------------------------:
-10h-10h15 | [WP debriefings: WP4-NA3, WP6-VA1, WP8-JRA1](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S31_IS-ENES3_GA1_WP4_WP6_WP8.pdf) - Jean-Christophe Rioual, Mario Acosta, Uwe Fladrich, Eric Maisonnave, Sophie Valcke, Italo Epicoco
-10h25-10h35 | [Cylc and Rose: latest news)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S32_IS-ENES3_GA1_Cylc.pdf) - David Matthews
-10h35-10h45 | [XIOS: where are we and example of use](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S33_IS-ENES3_GA1-XIOS.pdf) - Yann Meuredesoif
-10h45-10h55 | [OASIS3-MCT latest news](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S34_IS-ENES3_GA1_OASIS3-MCT.pdf) – Sophie Valcke
-11h20-11h35 | [European sea ice modelling integrated initiative](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/EdBlockley_IS-ENES3-GA_March2020-trim.pdf) – Ed Blockley, Martin Vancopenolle
-11h35-11h50 | [NEMO: improving performance results from IS-ENES3 and other projects (ESiWACE2, IMMERSE)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S36_IS-ENES3_GA1_Epicoco_NEMO_improvements.pdf) – Italo Epicoco
-11h50-12h05 | [Model performance: results for CMIP6](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S37_IS-ENES3_GA1_MarioAcostaCPMIP_presentation_final.pdf) – Mario Acosta
-12h20-12h30 | [Models, tools, HPC: presentation of cross-WP issues](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S38_IS-ENES3_GA1_cross-WP-issues_ModelsToolsHPC-comp.pdf) – Sophie Valcke et al.
+10h-10h15 | [WP debriefings: WP4-NA3, WP6-VA1, WP8-JRA1](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S31_IS-ENES3_GA1_WP4_WP6_WP8.pdf) - Jean-Christophe Rioual, Mario Acosta, Uwe Fladrich, Eric Maisonnave, Sophie Valcke, Italo Epicoco
+10h25-10h35 | [Cylc and Rose: latest news)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S32_IS-ENES3_GA1_Cylc.pdf) - David Matthews
+10h35-10h45 | [XIOS: where are we and example of use](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S33_IS-ENES3_GA1-XIOS.pdf) - Yann Meuredesoif
+10h45-10h55 | [OASIS3-MCT latest news](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S34_IS-ENES3_GA1_OASIS3-MCT.pdf) – Sophie Valcke
+11h20-11h35 | [European sea ice modelling integrated initiative](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/EdBlockley_IS-ENES3-GA_March2020-trim.pdf) – Ed Blockley, Martin Vancopenolle
+11h35-11h50 | [NEMO: improving performance results from IS-ENES3 and other projects (ESiWACE2, IMMERSE)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S36_IS-ENES3_GA1_Epicoco_NEMO_improvements.pdf) – Italo Epicoco
+11h50-12h05 | [Model performance: results for CMIP6](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S37_IS-ENES3_GA1_MarioAcostaCPMIP_presentation_final.pdf) – Mario Acosta
+12h20-12h30 | [Models, tools, HPC: presentation of cross-WP issues](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S38_IS-ENES3_GA1_cross-WP-issues_ModelsToolsHPC-comp.pdf) – Sophie Valcke et al.
 12h30-12h45 | Innovation for “Models, Tools and HPC” – Graham Riley
 12h45-13h   | Machine learning/AI – Graham Riley
 
@@ -213,10 +213,10 @@ Time Slot | Author(s) and presentation
 
 Time Slot | Author(s) and presentation
 :----------:|:--------------------------:
-14h30-14h50 | [WP debriefings: WP3-NA2, WP5-NA4, WP6-VA1, WP7-VA2, WP9-JRA2](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S41_IS-ENES3_GA1_WP3_WP5_WP6_WP7_WP9.pdf) - Eric Guilyardi, Klaus Zimmermann, Uwe Fladrich, Stephan Kindermann, Björn Brötz, Kim Serradell
-15h05-15h25 | [ESMValTool (IS-ENES3 and CRESCENDO)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S42_IS-ENES3_GA1_ESMValTool_Broetz.pdf) - Björn Brötz
-15h25-15h40 | [Update on interfacing the CLIVAR ENSO package with ESMValTool](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S43_IS-ENES3_GA1_ENSO_interface.pdf) - Eric Guilyardi, Javier Vegas-Regidor, Kim Serradell, Yann Planton
-16h10-16h20 | [Model Evaluation: Presentation of cross-workpackage issues](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/S44_IS-ENES3_GA1_Evaluation_breakout_group.pdf)
+14h30-14h50 | [WP debriefings: WP3-NA2, WP5-NA4, WP6-VA1, WP7-VA2, WP9-JRA2](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S41_IS-ENES3_GA1_WP3_WP5_WP6_WP7_WP9.pdf) - Eric Guilyardi, Klaus Zimmermann, Uwe Fladrich, Stephan Kindermann, Björn Brötz, Kim Serradell
+15h05-15h25 | [ESMValTool (IS-ENES3 and CRESCENDO)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S42_IS-ENES3_GA1_ESMValTool_Broetz.pdf) - Björn Brötz
+15h25-15h40 | [Update on interfacing the CLIVAR ENSO package with ESMValTool](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S43_IS-ENES3_GA1_ENSO_interface.pdf) - Eric Guilyardi, Javier Vegas-Regidor, Kim Serradell, Yann Planton
+16h10-16h20 | [Model Evaluation: Presentation of cross-workpackage issues](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/S44_IS-ENES3_GA1_Evaluation_breakout_group.pdf)
 
 - **Friday 27th March**
 *10h-13h Session 5: Cross-WP issue discussions*
@@ -267,31 +267,31 @@ The IS-ENES3 consortium organizes an online workshop ‘Climate indices - Easter
 
 Contact: vdj[at]ff.bg.ac.rs
 
-***Find the final report "M3.5 - Workshop on climate indice - Eastern Europe perspective" [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_M3.5_vf.pdf)***
+***Find the final report "M3.5 - Workshop on climate indice - Eastern Europe perspective" [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M3.5_vf.pdf)***
 
 -  **Presentations from the initial meeting (May 17th)**
 
 Presentation | Author(s) 
 :-----------:|:---------:
-[IS-ENES3 project introduction](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/01_JoussaumeS_IS-ENES_European_research_infrastructure_for_Earth_System_Models_s.pdf) | WP debriefings (WP4-NA3, WP6-VA1, WP8-JRA1)
-[Indices workshop goals](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/02_DjurdjevicV_Indices_workshop_goals.pdf) | Vladimir Djurdjevic (FPUB)
-[ETCCDI indices: recap and usage examples](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/03_BarringL_Climate_indices_latest_developments_and_application_examples_s.pdf) | Lars Bärring (SHMI)
-[ICCLIM and Climate4impact tool](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/04_PageC_ICCLIM_and_Climate4impact_Tool.pdf) | Christian Pagé (CERFACS)
-[Regional perspective: Previous analysis (presentation of ORIENTGATE survey and analysis report)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/05_KrzicA_Regional_perspective_Previous_analysis_ORIENTGATE_survey_and_analysis_report.pdf) | Aleksandra Krzic (RHMSS/FPUB)
-[Next steps: survey, interviews and the planned content of the final report](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/06_DjurdjevicV_Next_steps.pdf) | Vladimir Djurdjevic (FPUB)
+[IS-ENES3 project introduction](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/01_JoussaumeS_IS-ENES_European_research_infrastructure_for_Earth_System_Models_s.pdf) | WP debriefings (WP4-NA3, WP6-VA1, WP8-JRA1)
+[Indices workshop goals](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/02_DjurdjevicV_Indices_workshop_goals.pdf) | Vladimir Djurdjevic (FPUB)
+[ETCCDI indices: recap and usage examples](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/03_BarringL_Climate_indices_latest_developments_and_application_examples_s.pdf) | Lars Bärring (SHMI)
+[ICCLIM and Climate4impact tool](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/04_PageC_ICCLIM_and_Climate4impact_Tool.pdf) | Christian Pagé (CERFACS)
+[Regional perspective: Previous analysis (presentation of ORIENTGATE survey and analysis report)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/05_KrzicA_Regional_perspective_Previous_analysis_ORIENTGATE_survey_and_analysis_report.pdf) | Aleksandra Krzic (RHMSS/FPUB)
+[Next steps: survey, interviews and the planned content of the final report](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/06_DjurdjevicV_Next_steps.pdf) | Vladimir Djurdjevic (FPUB)
 
 - **Presentations from the final meeting (September 27th)**
 
 Presentation | Author(s) 
 :-----------:|:---------:
-[Workshop Climate indices - past activities and next steps](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/1_Workshop_Climate_indices_past_activities_and_next_steps.pdf) | Vladimir Djurdjevic (FPUB)
-[Changes in temperature extremes in Romania](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/2_Changes_in_temperature_extremes_in_Romania.pdf) | Adina-Eliza Croitoru et al. (1) Babes-Bolyai University, Romania; 2) JRC, Italy)
-[Application of Climate Indices in the Regional Climatology over Southeast Europe](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/3_Application_of_Climate_Indices_in_the_Regional_Climatology_over_Southeast_Europe.pdf) | Hristo Chervenkov (National Institute of Meteorology and Hydrology, Bulgaria)
-[Use of Climate Indices in R. N. Macedonia: ClimDex and ClimPACT](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/4_Use_of_Climate_Indices_in_R_N_Macedonia_ClimDex_and_ClimPACT.pdf) | Aleksandar D. Prodanov (National Hydrometeorological Service, N. Macedonia)
-[Sectoral climate indices studies in Turkey](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/5_Sectoral_climate_indices_studies_in_Turkey.pdf) | Serhat Şensoy (Turkish State Meteorological Service)
-[Operational use of climate indices in RHMSS](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/6_Operational_use_of_climate_indices_in_RHMSS.pdf) | Dragan Mihic (Republic Hydrometeorological Service, Serbia)
-[Climate indices - Presentation of the survey results](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/7_Climate_indices_Presentation_of_the_survey_results.pdf) | Aleksandra Krzic (RHMSS/FPUB)
-[Climate indices report - main conclusions](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/8_Climate_indices_report_main_conclusions.pdf) | Vladimir Djurdjevic (FPUB)
+[Workshop Climate indices - past activities and next steps](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/1_Workshop_Climate_indices_past_activities_and_next_steps.pdf) | Vladimir Djurdjevic (FPUB)
+[Changes in temperature extremes in Romania](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/2_Changes_in_temperature_extremes_in_Romania.pdf) | Adina-Eliza Croitoru et al. (1) Babes-Bolyai University, Romania; 2) JRC, Italy)
+[Application of Climate Indices in the Regional Climatology over Southeast Europe](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/3_Application_of_Climate_Indices_in_the_Regional_Climatology_over_Southeast_Europe.pdf) | Hristo Chervenkov (National Institute of Meteorology and Hydrology, Bulgaria)
+[Use of Climate Indices in R. N. Macedonia: ClimDex and ClimPACT](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/4_Use_of_Climate_Indices_in_R_N_Macedonia_ClimDex_and_ClimPACT.pdf) | Aleksandar D. Prodanov (National Hydrometeorological Service, N. Macedonia)
+[Sectoral climate indices studies in Turkey](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/5_Sectoral_climate_indices_studies_in_Turkey.pdf) | Serhat Şensoy (Turkish State Meteorological Service)
+[Operational use of climate indices in RHMSS](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/6_Operational_use_of_climate_indices_in_RHMSS.pdf) | Dragan Mihic (Republic Hydrometeorological Service, Serbia)
+[Climate indices - Presentation of the survey results](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/7_Climate_indices_Presentation_of_the_survey_results.pdf) | Aleksandra Krzic (RHMSS/FPUB)
+[Climate indices report - main conclusions](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/8_Climate_indices_report_main_conclusions.pdf) | Vladimir Djurdjevic (FPUB)
 
 <hr style="border:2px solid gray">
 
@@ -319,33 +319,33 @@ The workshop aims to bring together leading researchers and software engineers i
 
 In this workshop, current and future requirements (such as input data size, memory footprint, reproducibility and computation time, among others) will be gathered, producing a complete set of specifications. This will include feedback from the users obtained from the survey performed by Assimila.
 
-**Find the detailed agenda [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Agenda-IS-ENES3_Virtual_workshop_on_requirements_for_a_fast_and_scalable_evaluation_workflow-v2.pdf)**
+**Find the detailed agenda [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Agenda-IS-ENES3_Virtual_workshop_on_requirements_for_a_fast_and_scalable_evaluation_workflow-v2.pdf)**
 
 **Day 1 (May 18th)**
 
 Presentation | Author(s) 
 :-----------:|:---------:
-[Welcome and general overview from IPCC and other projects](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS1_Introduction.pptx.pdf) | Pierre-Antoine Bretonnière/Kim Serradell, Francisco Doblas-Reyes (BSC)
-[Results of the Assimila survey](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS2_Stott-Assimila-ESM_evaluation_survey-virtual_workshop-hardware.pptx.pdf) | Zofia Stott (Assimila)
-[Analysing CMIP in small groups](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS3_Rodriguez-AnalysingCMIPinSmallGroups.pptx.pdf) | Belen Rodríguez de Fonseca (UCM)
-[JASMIN: Infrastructure to support a diverse range of scientific use cases](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS4_JASMIN.pdf) | Ag Stephens (STFC)
-[BoG1: data storage and distribution](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS5_BoG1.pptx.pdf) | Chair: Pierre-Antoine Bretonnière
-[BoG2: data processing machines](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS6_BoG2.pptx.pdf) | Chair: Kim Serradell
+[Welcome and general overview from IPCC and other projects](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/FS1_Introduction.pptx.pdf) | Pierre-Antoine Bretonnière/Kim Serradell, Francisco Doblas-Reyes (BSC)
+[Results of the Assimila survey](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/FS2_Stott-Assimila-ESM_evaluation_survey-virtual_workshop-hardware.pptx.pdf) | Zofia Stott (Assimila)
+[Analysing CMIP in small groups](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/FS3_Rodriguez-AnalysingCMIPinSmallGroups.pptx.pdf) | Belen Rodríguez de Fonseca (UCM)
+[JASMIN: Infrastructure to support a diverse range of scientific use cases](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/FS4_JASMIN.pdf) | Ag Stephens (STFC)
+[BoG1: data storage and distribution](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/FS5_BoG1.pptx.pdf) | Chair: Pierre-Antoine Bretonnière
+[BoG2: data processing machines](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/FS6_BoG2.pptx.pdf) | Chair: Kim Serradell
 
 **Day 2 (May 19th**
 
 Presentation | Author(s) 
 :-----------:|:---------:
-[Results of the Assimila survey](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS7_Stott-ResultsSurvey-workflows.pptx.pdf) | Zofia Stott (Assimila)
-[CMIP5 and CMIP6 Mediterranean climate change projections](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS8_Cos-MediterraneanClimateChangeProjections.pptx.pdf) | Josep Cos (BSC)
-[User engagement](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS9_Drost-UserEngagement.pdf) | Niels Drost (NLeSC)
-[ESMValTool vs multiple languages](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS10_VPredoi_MultiProgLang_ISENES3-19May2021.pdf) | Valeriu Predoi (NCAS)
-[Ophidia](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS11_Elia-Ophidia.pdf) | Donatello Elia (CMCC)
-[Results of the Assimila survey](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS12_Stott-ResultsSurvey-software.pptx.pdf) | Zofia Stott (Assimila)
-[Synda integration in ESMValTool](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS13_Andela-syndaIntegration.pdf) | Bowe Andela (NLeSC)
-[Online model evaluation](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS14_Vegas-OnlineModelEvaluation.pdf) | Javier Vegas (BSC)
-[BoG1: Workflow and Performance](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS15_BoG1.pdf) | Javier Vegas, Kim Serradell
-[BoG2: Reproducibility and provenance](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS16_BoG2.pdf) | Saskia Loosveldt
+[Results of the Assimila survey](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/FS7_Stott-ResultsSurvey-workflows.pptx.pdf) | Zofia Stott (Assimila)
+[CMIP5 and CMIP6 Mediterranean climate change projections](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/FS8_Cos-MediterraneanClimateChangeProjections.pptx.pdf) | Josep Cos (BSC)
+[User engagement](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/FS9_Drost-UserEngagement.pdf) | Niels Drost (NLeSC)
+[ESMValTool vs multiple languages](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/FS10_VPredoi_MultiProgLang_ISENES3-19May2021.pdf) | Valeriu Predoi (NCAS)
+[Ophidia](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/FS11_Elia-Ophidia.pdf) | Donatello Elia (CMCC)
+[Results of the Assimila survey](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/FS12_Stott-ResultsSurvey-software.pptx.pdf) | Zofia Stott (Assimila)
+[Synda integration in ESMValTool](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/FS13_Andela-syndaIntegration.pdf) | Bowe Andela (NLeSC)
+[Online model evaluation](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/FS14_Vegas-OnlineModelEvaluation.pdf) | Javier Vegas (BSC)
+[BoG1: Workflow and Performance](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/FS15_BoG1.pdf) | Javier Vegas, Kim Serradell
+[BoG2: Reproducibility and provenance](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/FS16_BoG2.pdf) | Saskia Loosveldt
 
 <hr style="border:2px solid gray">
 
@@ -364,7 +364,7 @@ Specifically, the workshop included the following topics and presentations:
 • Presentation: Update on improving automated testing of diagnostics
 • Presentation: Update on Jupyter Notebook capabilities for the ESMValTool
 
-**You can find the summary report of the workshop [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Summary_ESMValTool_Workshop_May_2021.pdf)**
+**You can find the summary report of the workshop [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Summary_ESMValTool_Workshop_May_2021.pdf)**
 
 <hr style="border:2px solid gray">
 
@@ -373,7 +373,7 @@ Specifically, the workshop included the following topics and presentations:
 
 ![egu2021](../images/egu-2022.png)
 
-**Find all the presentations of the EGU2021 [here](https://valeriupredoi.github.io/presentations-posters/#egu2021)**
+**Find all the presentations of the EGU2021 [here](https://is-enes3.github.io/IS-ENES-Website/presentations-posters/#egu2021)**
 
 <hr style="border:2px solid gray">
 
@@ -391,10 +391,10 @@ The workshop was organised around three sessions:
 - 17 March (Day 2): ML/AI Software Technologies
 -18 March (Day 3): High performance, Infrastructure and Big data Challenges
 
-**The final agenda is available [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/VirtualWorkshopNewOpportunitiesinML_AIforWeatherandClimatedraftagendav6.pdf).**
+**The final agenda is available [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/VirtualWorkshopNewOpportunitiesinML_AIforWeatherandClimatedraftagendav6.pdf).**
 **Find the recording of the talks on the IS-ENES3 Youtube channel, under the [event playlist](https://www.youtube.com/watch?v=P0RtRdLvAGA&list=PLFvev1W5vG7NP2xSRRorQabHWKKwJqw54) !
 
-The participants' personal data used for the organisation of the workshop was covered by the [following privacy policy](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/GDPR_ESiWACE2_and_IS-ENES3_ML-AI_Workshop_vf.pdf.)
+The participants' personal data used for the organisation of the workshop was covered by the [following privacy policy](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/GDPR_ESiWACE2_and_IS-ENES3_ML-AI_Workshop_vf.pdf.)
 
 **Presentations**
 
@@ -402,37 +402,37 @@ The participants' personal data used for the organisation of the workshop was co
 
 Presentation | Author(s) 
 :--------------:|:---------:
-[New approaches based on ML for a range of climate prediction problems](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML1_Mar-2021.pdf) | Emily Shuckburgh (U. Cambridge)
-[Philosophy and Targeted Applications of ML/AI Techniques for Climate Risk Analytics at Jupiter](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML2_Madaus_MLandAIatJupiter.pdf) | Luke Madaus & Steve Sain (Jupiter Intel.)
-[The optimization dichotomy: Why is it so hard to improve climate models with machine learning](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML3_Rasp_OptimizationDichotomy.pdf) | Stephan Rasp (ClimateAI)
-[Improving convection parameterizations with a library of large-eddy simulations](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML4_new_opportunities_shen.pdf) | Zhaoyi Shen (Caltech)
-[Stochastic Super-Resolution for Convective Regimes using Gaussian Random Fields](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML5_downscaling_newopportunities.pdf) | Rachel Prudden (Met Office Inf. Lab)
-[Subseasonal Forecasts of Opportunity Identified by an Explainable Neural Network](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML6_ISENES3_ESiWACE2_KMayer.pdf) | Kirsten Mayer (CSU)
-[Using transfer learning and backscattering analysis to build stable, generalizable data-driven subgrid-scale models: A 2D turbulence test case](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML7_ISENES3v2_Pedram.pdf) | Pedram Hassanzadeh (U. Rice)
+[New approaches based on ML for a range of climate prediction problems](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML1_Mar-2021.pdf) | Emily Shuckburgh (U. Cambridge)
+[Philosophy and Targeted Applications of ML/AI Techniques for Climate Risk Analytics at Jupiter](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML2_Madaus_MLandAIatJupiter.pdf) | Luke Madaus & Steve Sain (Jupiter Intel.)
+[The optimization dichotomy: Why is it so hard to improve climate models with machine learning](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML3_Rasp_OptimizationDichotomy.pdf) | Stephan Rasp (ClimateAI)
+[Improving convection parameterizations with a library of large-eddy simulations](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML4_new_opportunities_shen.pdf) | Zhaoyi Shen (Caltech)
+[Stochastic Super-Resolution for Convective Regimes using Gaussian Random Fields](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML5_downscaling_newopportunities.pdf) | Rachel Prudden (Met Office Inf. Lab)
+[Subseasonal Forecasts of Opportunity Identified by an Explainable Neural Network](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML6_ISENES3_ESiWACE2_KMayer.pdf) | Kirsten Mayer (CSU)
+[Using transfer learning and backscattering analysis to build stable, generalizable data-driven subgrid-scale models: A 2D turbulence test case](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML7_ISENES3v2_Pedram.pdf) | Pedram Hassanzadeh (U. Rice)
 
 *Session 2: ML/AI Software technologies*
 
 Presentation | Author(s) 
 :--------------:|:---------:
-[Stochastic machine learning for atmospheric fields with generative adversarial networks](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML7_ISENES3-Workshop-20210317-JL.pdf) | Jussi Leinonen (MeteoSwiss)
-[Causal discovery in time series with unobserved confounders](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML8_causal_discovery_time_series_unobserved_confounders_Gerhardus.pdf) | Andreas Gerhardus (DLR Jena)
-[Estimating stochastic closures using sparsity-promoting ensemble Kalman inversion](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML9_Estimating_stochastic_closures-Jinlong_WU.pdf) | Jinlong Wu (Caltech)
-[Deep Learning on the sphere for weather/climate applications](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML10_DeepSphere-Weather_ESIWACE_Ghiggi.pdf) | Gionata Ghiggi and Michaël Defferrard (EPFL)
-Deep learning-based remote sensing for infrastructure damage assessment(https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ | Thomas Chen (AMSE)
-[Leveraging physics information in neural networks for fluid flow problems](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML11_Subramaniam_leveraging_physics_information_in_neural_newtworks.pdf) | Akshay Subramaniam (NVIDIA)
-[Sub-seasonal forecasting with a large ensemble of deep-learning weather prediction models](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML12_Weyn_S2S_forecasting_ML.pdf) | Jonathan Weyn (U. of Washington)
+[Stochastic machine learning for atmospheric fields with generative adversarial networks](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML7_ISENES3-Workshop-20210317-JL.pdf) | Jussi Leinonen (MeteoSwiss)
+[Causal discovery in time series with unobserved confounders](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML8_causal_discovery_time_series_unobserved_confounders_Gerhardus.pdf) | Andreas Gerhardus (DLR Jena)
+[Estimating stochastic closures using sparsity-promoting ensemble Kalman inversion](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML9_Estimating_stochastic_closures-Jinlong_WU.pdf) | Jinlong Wu (Caltech)
+[Deep Learning on the sphere for weather/climate applications](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML10_DeepSphere-Weather_ESIWACE_Ghiggi.pdf) | Gionata Ghiggi and Michaël Defferrard (EPFL)
+Deep learning-based remote sensing for infrastructure damage assessment(https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ | Thomas Chen (AMSE)
+[Leveraging physics information in neural networks for fluid flow problems](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML11_Subramaniam_leveraging_physics_information_in_neural_newtworks.pdf) | Akshay Subramaniam (NVIDIA)
+[Sub-seasonal forecasting with a large ensemble of deep-learning weather prediction models](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML12_Weyn_S2S_forecasting_ML.pdf) | Jonathan Weyn (U. of Washington)
 
 *Session 3: High performance, Infrastructure and Big data challenges*
 
 Presentation | Author(s) 
 :--------------:|:---------:
-[Scaling Up Deep Learning Workloads - A Data-Centric View](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML13_Scaling_Up_Deep_Learning_Workloads.pdf) | Tal Ben-Nun (ETHZ)
-[Radar QPE and Machine Learning](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML14_Radar_QPE_andMachine_Learning_Simpson.pdf) | Micheal Simpson (NOAA)
-[Using ML at the Edge to Improve Data Gathering](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML15_Warden.pdf) | Pete Warden (Google)
-[An Overview of ML and AI on Arm Based HPC Systems for Weather and Climate Applications](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML16_Ridley.pdf) | Phil Ridley (Arm)
-[Machine-Learned Preconditioners for Linear Solvers in Geophysical Fluid Flows](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML17_Ackmann.pdf) | Jan Ackmann (U. Oxford)
-[You do you. How next-gen data platforms can stop weather and climate scientists from being software engineers and other perversions](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML18_McCaie.pdf) | Theo McCaie (MO Informatics Lab)
-[3D bias correction with deep learning in the Integrated Forecasting System](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ML19_Kurth.pdf) | Thorsten Kurth (NVIDIA)
+[Scaling Up Deep Learning Workloads - A Data-Centric View](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML13_Scaling_Up_Deep_Learning_Workloads.pdf) | Tal Ben-Nun (ETHZ)
+[Radar QPE and Machine Learning](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML14_Radar_QPE_andMachine_Learning_Simpson.pdf) | Micheal Simpson (NOAA)
+[Using ML at the Edge to Improve Data Gathering](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML15_Warden.pdf) | Pete Warden (Google)
+[An Overview of ML and AI on Arm Based HPC Systems for Weather and Climate Applications](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML16_Ridley.pdf) | Phil Ridley (Arm)
+[Machine-Learned Preconditioners for Linear Solvers in Geophysical Fluid Flows](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML17_Ackmann.pdf) | Jan Ackmann (U. Oxford)
+[You do you. How next-gen data platforms can stop weather and climate scientists from being software engineers and other perversions](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML18_McCaie.pdf) | Theo McCaie (MO Informatics Lab)
+[3D bias correction with deep learning in the Integrated Forecasting System](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ML19_Kurth.pdf) | Thorsten Kurth (NVIDIA)
 
 <hr style="border:2px solid gray">
 
@@ -463,7 +463,7 @@ Specifically, the workshop included the following topics:
 - ESMValTool related IS-ENES3 tasks and deliverables
 - Reviewing and merging openpull requests
 
-**See the full workshop report [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Summary_ESMValTool_Workshop_Nov_2020.pdf).**
+**See the full workshop report [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Summary_ESMValTool_Workshop_Nov_2020.pdf).**
 
 <hr style="border:2px solid gray">
 
@@ -525,7 +525,7 @@ Because of the COVID-19 pandemic situation, the meeting will be virtual from the
 
 ![egu2021](../images/egu-2022.png)
 
-**Find all the presentations of the EGU2020 [here](https://valeriupredoi.github.io/presentations-posters/#egu2020)**
+**Find all the presentations of the EGU2020 [here](https://is-enes3.github.io/IS-ENES-Website/presentations-posters/#egu2020)**
 
 <hr style="border:2px solid gray">
 
@@ -534,7 +534,7 @@ Because of the COVID-19 pandemic situation, the meeting will be virtual from the
 
 ![isenes3KO](../images/KO_Group_Picture.JPG)
 
-**Find the agenda [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_agenda_vf.pdf)**
+**Find the agenda [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_agenda_vf.pdf)**
 
 **Presentations**
 
@@ -542,47 +542,47 @@ Because of the COVID-19 pandemic situation, the meeting will be virtual from the
 
 Presentation | Author(s) 
 :-----------:|:---------:
-[IPSL/Climate Modelling center](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_IPSL_Presentation.pdf) | Olivier Boucher
-[IS-ENES3 Overview](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_Overview.pdf) | Sylvie Joussaume
-[Challenges related with infrastructure ](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_Challenges_Infrastructures.pdf) | Bryan Lawrence
-[Lessons from the WIP/Vision for the future](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_Lessons_WIP.pdf) | V. Balaji
-[ExtremeEarth Challenge](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_ExtremeEarth_Challenge.pdf) | Peter Bauer
-[WP2-NA1](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_WP2_NA1.pdf) | Bryan Lawrence, Martin Lautenschlager
-[WP3-NA2](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_WP3_NA2.pdf) | Eric Guilyardi, Janette Bessembinder
-[WP4-NA3](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_WP4_NA3.pdf) | Mick Carter, Mario Acosta
-[WP6-VA1](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_WP6_VA1.pdf) | Uwe Fladrich, Eric Maisonnave
-[WP8-JRA1](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_WP8_JRA1.pdf) | Sophie Valcke, Italo Epicoco
-[IMMERSE (NEMO)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO-IMMERSE.pdf) | Julien le Sommer
-[ESiWACE2](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_ESiWACE2.pdf) | Joachim Biercamp
+[IPSL/Climate Modelling center](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_IPSL_Presentation.pdf) | Olivier Boucher
+[IS-ENES3 Overview](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_Overview.pdf) | Sylvie Joussaume
+[Challenges related with infrastructure ](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_Challenges_Infrastructures.pdf) | Bryan Lawrence
+[Lessons from the WIP/Vision for the future](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_Lessons_WIP.pdf) | V. Balaji
+[ExtremeEarth Challenge](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_ExtremeEarth_Challenge.pdf) | Peter Bauer
+[WP2-NA1](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_WP2_NA1.pdf) | Bryan Lawrence, Martin Lautenschlager
+[WP3-NA2](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_WP3_NA2.pdf) | Eric Guilyardi, Janette Bessembinder
+[WP4-NA3](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_WP4_NA3.pdf) | Mick Carter, Mario Acosta
+[WP6-VA1](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_WP6_VA1.pdf) | Uwe Fladrich, Eric Maisonnave
+[WP8-JRA1](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_WP8_JRA1.pdf) | Sophie Valcke, Italo Epicoco
+[IMMERSE (NEMO)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO-IMMERSE.pdf) | Julien le Sommer
+[ESiWACE2](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_ESiWACE2.pdf) | Joachim Biercamp
 
 - *Day 2*
 
 Presentation | Author(s) 
 :---------:|:-----------------:
-[WP5-NA4](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_WP5_NA4.pdf) | Sébastien Denvil, Klaus Zimmermann
-[WP7-VA2](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_WP7-VA2.pdf) | Stephan Kindermann, Wim Som de Cerff
-[WP9-JRA2](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_WP9-JRA2.pdf) | Veronika Eyring, Kim Serradell
-[WP10-JRA3](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/FS10_VPredoi_MultiProgLang_ISENES3-19May2021.pdf) | Sandro Fiore, Christian Pagé
-[ESGF in next 3 years](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_ESGF_3_years.pdf) | Sébastien Denvil
-[Copernicus and C4I portal](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_Copernicus_&_C4I.pdf) | Wim Som de Cerff, Christian Pagé
-[Involvement of ENES in EOSC and other data project](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_EOSC.pdf) | Stephan Kindermann
-[ESMValTool: Legacy of ENES projects](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_ESMValTool.pdf) | Mick Carter, Björn Brötz
-[BoG1: Models, tools and HPC](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/WP4T3_BoG_Theme2.pdf) | Mick Carter, Sophie Valcke, Mario Acosta
-[BoG2: Data and metadata](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ISENES3_KO_BoG2_Data_&_Metadata.pdf) | Sébastien Denvil, Sandro Fiore, Stephan Kindermann
-[Virtual WP - Innovation](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_VWP_Innovation.pdf) | Martin Juckes
-[H2020 Financial and legal aspects](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_Financial_&_legal_aspects.pdf) | Federico Esu
-[IS-ENES3 Communication and Dissemination](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_Communication_Dissemination.pdf) | Sylvie Joussaume, Nada Caud
+[WP5-NA4](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_WP5_NA4.pdf) | Sébastien Denvil, Klaus Zimmermann
+[WP7-VA2](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_WP7-VA2.pdf) | Stephan Kindermann, Wim Som de Cerff
+[WP9-JRA2](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_WP9-JRA2.pdf) | Veronika Eyring, Kim Serradell
+[WP10-JRA3](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/FS10_VPredoi_MultiProgLang_ISENES3-19May2021.pdf) | Sandro Fiore, Christian Pagé
+[ESGF in next 3 years](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_ESGF_3_years.pdf) | Sébastien Denvil
+[Copernicus and C4I portal](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_Copernicus_&_C4I.pdf) | Wim Som de Cerff, Christian Pagé
+[Involvement of ENES in EOSC and other data project](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_EOSC.pdf) | Stephan Kindermann
+[ESMValTool: Legacy of ENES projects](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_ESMValTool.pdf) | Mick Carter, Björn Brötz
+[BoG1: Models, tools and HPC](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/WP4T3_BoG_Theme2.pdf) | Mick Carter, Sophie Valcke, Mario Acosta
+[BoG2: Data and metadata](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ISENES3_KO_BoG2_Data_&_Metadata.pdf) | Sébastien Denvil, Sandro Fiore, Stephan Kindermann
+[Virtual WP - Innovation](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_VWP_Innovation.pdf) | Martin Juckes
+[H2020 Financial and legal aspects](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_Financial_&_legal_aspects.pdf) | Federico Esu
+[IS-ENES3 Communication and Dissemination](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Communication_Dissemination.pdf) | Sylvie Joussaume, Nada Caud
 
 - *Day 3*
 
 Presentation | Author(s) 
 :-----------:|:---------:
-[General discussion on Integration (NA2)](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_Integration.pdf) | Eric Guilyardi, Janette Bessembinder
-[Data Management Plan](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_Data_Management_Plan.pdf) | Bryan Lawrence, Francesca Guglielmo
-[Low Carbon](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_Low_Carbon.pdf) | Casimir de Lavergne
-[BoG3: Model Evaluaton](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_BoG_Model_Evaluation.pdf) | Eric Guilyardi, Björn Brötz, Kim Serradell
-[BoG4: Preparing Sustainability](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_BoG4_Sustainability.pdf) | Bryan Lawrence, Martin Lautenschlager
-[BoG5: Technical meetings](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/IS-ENES3_KO_BoG5_Technical_Meetings.pdf) | Philip Kershaw
+[General discussion on Integration (NA2)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_Integration.pdf) | Eric Guilyardi, Janette Bessembinder
+[Data Management Plan](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_Data_Management_Plan.pdf) | Bryan Lawrence, Francesca Guglielmo
+[Low Carbon](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_Low_Carbon.pdf) | Casimir de Lavergne
+[BoG3: Model Evaluaton](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_BoG_Model_Evaluation.pdf) | Eric Guilyardi, Björn Brötz, Kim Serradell
+[BoG4: Preparing Sustainability](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_BoG4_Sustainability.pdf) | Bryan Lawrence, Martin Lautenschlager
+[BoG5: Technical meetings](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_KO_BoG5_Technical_Meetings.pdf) | Philip Kershaw
 
 <hr style="border:2px solid gray">
 
@@ -598,7 +598,7 @@ The Technical ESMValTool Coding Workshop took place via video call from 9-12 Mar
 - Quicklooks and other IS-ENES3 tasks
 - Preparation ESMValTool workshop at EGU
 
-**Find the Summary of the coding workshop [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Summary_ESMValTool_Workshop_Mar_2020.pdf)**
+**Find the Summary of the coding workshop [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Summary_ESMValTool_Workshop_Mar_2020.pdf)**
 
 <hr style="border:2px solid gray">
 
@@ -626,19 +626,19 @@ Talks on state of the art implementations in this field as well as applications 
 
 Time Slot | Author(s) and presentation
 :----------:|:--------------------------:
-16:05-16h20 | [Compute and Analytics services at DKRZ: status and plans](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/CW1_DKRZ-is-enes-compute-ws.pdf) - Stephan Kindermann and Carsten Ehbrecht, DKRZ
-16h20-16h35 | [An open “data-side” platform for climate analytics and services](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/CW2_IPSL.pdf) - Guillaume Levavasseur, IPSL
-16h35-16h50 | [Robust and Reliable WPS for climate simulations – nothing clever, just test, test, test!](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/CW3_CEDA_Robust_and_Reliable_WPS.pdf) - Ag Stephens, UKRI
-16h50-17h05 | [A Climate Analytics Hub for multi-model analysis](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/CW4_CMCC_Analytics_Hub-Elia_ISENES3_Final.pdf) - Donatello Elia, CMCC
+16:05-16h20 | [Compute and Analytics services at DKRZ: status and plans](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/CW1_DKRZ-is-enes-compute-ws.pdf) - Stephan Kindermann and Carsten Ehbrecht, DKRZ
+16h20-16h35 | [An open “data-side” platform for climate analytics and services](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/CW2_IPSL.pdf) - Guillaume Levavasseur, IPSL
+16h35-16h50 | [Robust and Reliable WPS for climate simulations – nothing clever, just test, test, test!](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/CW3_CEDA_Robust_and_Reliable_WPS.pdf) - Ag Stephens, UKRI
+16h50-17h05 | [A Climate Analytics Hub for multi-model analysis](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/CW4_CMCC_Analytics_Hub-Elia_ISENES3_Final.pdf) - Donatello Elia, CMCC
 
 *Session 2 - State of the art on the climate compute and analytics services: requirements, solutions and gaps - Chair: Ghaleb M. Abdulla*
 
 Time Slot | Author(s) and presentation
 :----------:|:--------------------------:
-17:15-17h30 | [Compute Services requirements for the climate impact community using C4I](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/CW5_KNMI_CERFACS_Climate4Impact.pdf) - Maarten Plieger, Wim Som de Cerff, Janette Bessembinder, KNMI, Christian Pagé, CERFACS
-17h30-17h45 | [Packaging, deployment and interfacing of machine learning applications in scientific workflow environments](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/CW6_CRIM_IS-ENES3_ESGF-Tom_Landry.pdf) - Tom Landry, CRIM
-17h45-18h00 | [The Earth Data Analytic Services (EDAS) Framework](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/CW7_NASA-EDAS.pdf) - Thomas P. Maxwell, NASA
-18h00-18h15 | [Compute with Kubernetes](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/CW8_LLNL-Compute_on_Kubernetes.pdf) - Jason Jerome Boutte, LLNL
+17:15-17h30 | [Compute Services requirements for the climate impact community using C4I](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/CW5_KNMI_CERFACS_Climate4Impact.pdf) - Maarten Plieger, Wim Som de Cerff, Janette Bessembinder, KNMI, Christian Pagé, CERFACS
+17h30-17h45 | [Packaging, deployment and interfacing of machine learning applications in scientific workflow environments](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/CW6_CRIM_IS-ENES3_ESGF-Tom_Landry.pdf) - Tom Landry, CRIM
+17h45-18h00 | [The Earth Data Analytic Services (EDAS) Framework](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/CW7_NASA-EDAS.pdf) - Thomas P. Maxwell, NASA
+18h00-18h15 | [Compute with Kubernetes](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/CW8_LLNL-Compute_on_Kubernetes.pdf) - Jason Jerome Boutte, LLNL
 18h15-18h30 | Talk by NCI - Ben Evans, NCI
 
 *Session 3 - Discussion session on Compute and Analytics - Chair: Sandro Fiore*
@@ -707,7 +707,7 @@ ESMValTool Development Team • [esmvaltool.org](https://www.esmvaltool.org/)
 
 ![5thESMValTool](../images/
 
-**You can find the summary report of the workshop [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Summary_ESMValTool_Workshop_Oct_2019.pdf)**
+**You can find the summary report of the workshop [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Summary_ESMValTool_Workshop_Oct_2019.pdf)**
 
 <hr style="border:2px solid gray">
 
@@ -764,7 +764,7 @@ The 4th Technical ESMValTool coding workshop took place at DLR Oberpfaffenhofen 
 
 The two main goals of the workshop have been the preparation of the v2.0 beta release and the finalization of the input for the three planned publications on the new ESMValTool version. 
 
-**Find the summary of the 4th Technical ESMValTool Coding Workshop [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/4thTechnicalESMValToolWorkshop_190603.pdf).**
+**Find the summary of the 4th Technical ESMValTool Coding Workshop [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/4thTechnicalESMValToolWorkshop_190603.pdf).**
 
 <hr style="border:2px solid gray">
 
@@ -774,4 +774,4 @@ The two main goals of the workshop have been the preparation of the v2.0 beta re
 
 The workshop was organized at DLR Oberpfaffenhofen (Germany), from the 6th to 8th of February in order to address **several high priority issues in the ESMValTool v2, to set the basis for the next release and to prepare for the upcoming hot phase of CMIP6**, with most modeling groups submitting their data. 
 
-**Find the summary of the 3rd ESMValTool Coding Workshop [here](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/ESMValTool_Workshop_Summary_201902.pdf).**
+**Find the summary of the 3rd ESMValTool Coding Workshop [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESMValTool_Workshop_Summary_201902.pdf).**

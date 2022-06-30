@@ -21,12 +21,12 @@ header:
     image_fullwidth: "Banner_website_IS-ENES3.png"
 widget1:
   title: "IS-ENES Phase 1"
-  url: 'https://valeriupredoi.github.io/isenes-phase-1/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-1/'
   image: Photo_IS-ENES_GA1_Barcelone_2010_0526.JPG
   text: 'Pahase 1 of the project.'
 widget2:
   title: "IS-ENES Phase 2"
-  url: 'https://valeriupredoi.github.io/isenes-phase-2/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-2/'
   image: Photo_IS-ENES2_GA3_Paris_2017_0117.JPG
   text: 'Phase 2 of the project.'
 

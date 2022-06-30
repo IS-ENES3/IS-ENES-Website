@@ -21,17 +21,17 @@ header:
     image_fullwidth: "Banner_website_IS-ENES3.png"
 widget1:
   title: "Objectives"
-  url: 'https://valeriupredoi.github.io/objectives/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/objectives/'
   image: Banner_website_IS-ENES3.png
   text: 'IS-ENES3 is divided into 3 main objectives.'
 widget2:
   title: "Description of Work"
-  url: 'https://valeriupredoi.github.io/description-of-work/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/description-of-work/'
   image: Banner_website_IS-ENES3.png
   text: 'Detailed description of the project Work Packages.'
 widget3:
   title: "Partners"
-  url: 'https://valeriupredoi.github.io/partners/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/partners/'
   image: Banner_website_IS-ENES3.png
   text: 'The consortium comprises 22 partners from 11 countries.'
 ---

@@ -20,22 +20,22 @@ header:
     image_fullwidth: "Banner_website_IS-ENES3.png"
 widget1:
   title: "Deliverables and Milestones"
-  url: 'https://valeriupredoi.github.io/deliverables-milestones/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/deliverables-milestones/'
   image: Banner_website_IS-ENES3.png
   text: 'IS-ENES3 deliverables and milestones.'
 widget2:
   title: "Publications"
-  url: 'https://valeriupredoi.github.io/publications-table/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/publications-table/'
   image: Banner_website_IS-ENES3.png
   text: 'IS-ENES3 publications.'
 widget3:
   title: "Presentations and Posters"
-  url: 'https://valeriupredoi.github.io/presentations-posters/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/presentations-posters/'
   image: Banner_website_IS-ENES3.png
   text: 'IS-ENES3 presentations and posters.'
 widget4:
   title: "Lectures, Tutorials, and Webinars"
-  url: 'https://valeriupredoi.github.io/lectures-tutorials-webinars/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/lectures-tutorials-webinars/'
   image: Banner_website_IS-ENES3.png
   text: 'IS-ENES3 lectures, tutorials, and webinars.'
 

@@ -23,4 +23,4 @@ header:
     image_fullwidth: "Banner_website_IS-ENES3.png"
 ---
 
-This is the website of the IS-ENES3 project. Please see our [contact](https://valeriupredoi.github.io/contact/) page for more details. and if you have any questions about the project. Enjoy browsing!
+This is the website of the IS-ENES3 project. Please see our [contact](https://is-enes3.github.io/IS-ENES-Website/contact/) page for more details. and if you have any questions about the project. Enjoy browsing!

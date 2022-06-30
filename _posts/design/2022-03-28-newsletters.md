@@ -14,7 +14,7 @@ image:
     thumb: claudio-schwarz-bMzpGDkUAmc-unsplash.jpg
     homepage: claudio-schwarz-bMzpGDkUAmc-unsplash.jpg
     # caption: Our News team.
-    caption_url: https://valeriupredoi.github.io/newsletters/
+    caption_url: https://is-enes3.github.io/IS-ENES-Website/newsletters/
 ---
 
 #### [Newsletter 10 - March 2022](https://mailchi.mp/4dec2a91d400/is-enes3-march-15926664?e=669a346a59)

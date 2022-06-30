@@ -49,16 +49,16 @@ No. | Conference
 
 Title | Type
 :----:|:----:
-[IS-ENES3 Kick-off meeting](https://valeriupredoi.github.io/workshops#kickoff) | Internal Link
-[IS-ENES3 Virtual 1st General Assembly](https://valeriupredoi.github.io/workshops#isenes3ga1) | Internal Link
-[IS-ENES3 2nd General Assembly](https://valeriupredoi.github.io/workshops#isenes3ga2) | Internal Link
-[IS-ENES3 Virtual workshop on Compute and Analytics (2 Dec. 2019)](https://valeriupredoi.github.io/workshops#compute-analytics) | Internal Link
-[IS-ENES3 Webinar on Access to CORDEX and CMIP6 climate data](https://valeriupredoi.github.io/workshops#cordex-webinar) | Internal Link
-[First IS-ENES3 virtual Autumn School on Climate data use for impact assessments](https://valeriupredoi.github.io/training#autumn-school) | Internal Link
-[IS-ENES3 Workshop: Climate indices - an Eastern European perspective](https://valeriupredoi.github.io/workshops#climate-indices) | Internal Link
+[IS-ENES3 Kick-off meeting](https://is-enes3.github.io/IS-ENES-Website/workshops#kickoff) | Internal Link
+[IS-ENES3 Virtual 1st General Assembly](https://is-enes3.github.io/IS-ENES-Website/workshops#isenes3ga1) | Internal Link
+[IS-ENES3 2nd General Assembly](https://is-enes3.github.io/IS-ENES-Website/workshops#isenes3ga2) | Internal Link
+[IS-ENES3 Virtual workshop on Compute and Analytics (2 Dec. 2019)](https://is-enes3.github.io/IS-ENES-Website/workshops#compute-analytics) | Internal Link
+[IS-ENES3 Webinar on Access to CORDEX and CMIP6 climate data](https://is-enes3.github.io/IS-ENES-Website/workshops#cordex-webinar) | Internal Link
+[First IS-ENES3 virtual Autumn School on Climate data use for impact assessments](https://is-enes3.github.io/IS-ENES-Website/training#autumn-school) | Internal Link
+[IS-ENES3 Workshop: Climate indices - an Eastern European perspective](https://is-enes3.github.io/IS-ENES-Website/workshops#climate-indices) | Internal Link
 [Fifth Workshop on Coupling Technologies for Earth System Models (CW2020)](https://portal.enes.org/community/community-workshops/fifth-workshop-on-coupling-technologies-for-earth-system-models) | ENES Portal Link
 [Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling](https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling) | ENES Portal Link
-[IS-ENES3 virtual workshop on requirements for a fast and scalable evaluation workflow (18-19 May 2021)](https://valeriupredoi.github.io/workshops#fast-scalable-evaluation) | Internal Link
+[IS-ENES3 virtual workshop on requirements for a fast and scalable evaluation workflow (18-19 May 2021)](https://is-enes3.github.io/IS-ENES-Website/workshops#fast-scalable-evaluation) | Internal Link
 
 ### AGU2019
 
@@ -72,14 +72,14 @@ Title | Type
 Title | Type
 :----:|:----:
 [Cloud futures for CMIP data – Evaluating object storage models and re-evaluating federation for data distribution](https://zenodo.org/record/4670017#.YkwjbCbTVD9) | Zenodo Link
-[ESMValCore and ESMValTool : analyzing CMIP data made easy](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Hassler_ESMValTool_AGU2020_FINAL_novoice.pdf) | PDF File
+[ESMValCore and ESMValTool : analyzing CMIP data made easy](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Hassler_ESMValTool_AGU2020_FINAL_novoice.pdf) | PDF File
 
 ### AGU2021
 
 Title | Type
 :----:|:----:
 [Access to Analysis and Climate Indices Tools for Climate Researchers and End Users](https://zenodo.org/record/5907026#.YkwlxibTVD9) | Zenodo Link
-[Evaluation of CMIP6 and quantifying progress of climate models across different CMIP phases with the ESMValTool](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/AGU2021_ESMValTool_Bock_v3.pdf) | PDF File
+[Evaluation of CMIP6 and quantifying progress of climate models across different CMIP phases with the ESMValTool](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/AGU2021_ESMValTool_Bock_v3.pdf) | PDF File
 [Developing Community standards-based Search Tools for Earth System Model Data using STAC](https://zenodo.org/record/5930282#.Ykwl7SbTVD9) | Zenodo Link
 
 ### AGU2022
@@ -112,9 +112,9 @@ Title | Type
 [From climate models to informing policy decisions: the end-to-end importance of an effective research infrastructure](https://zenodo.org/record/4737232#.Yk3BzMhBw2z) | Zenodo Link
 [Making Cyclone Tracking accessible to end users for Climate Research and Applications](https://zenodo.org/record/4737276#.Yk3B4chBw2y) | Zenodo Link
 [Skip high-volume data transfer and access free computing resources for your CMIP6 multi-model analyses](https://zenodo.org/record/4738991#.Yk3B8shBw2z) | Zenodo Link
-[New scientific diagnostics in the ESMValTool an overview](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/EGU_ESMValTool_Bock_20210426_al_lb_lb.pdf) | PDF File
-[Recent developments on the Earth System Model Evaluation Tool](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/EGU21-3476_presentation1.pdf) | PDF File
-[Model evaluation expectations of European ESM communities: first results from a survey](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/SurveyEGU_v2.pdf) | PDF File
+[New scientific diagnostics in the ESMValTool an overview](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/EGU_ESMValTool_Bock_20210426_al_lb_lb.pdf) | PDF File
+[Recent developments on the Earth System Model Evaluation Tool](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/EGU21-3476_presentation1.pdf) | PDF File
+[Model evaluation expectations of European ESM communities: first results from a survey](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/SurveyEGU_v2.pdf) | PDF File
 
 ### EGU2022
 *Future*
@@ -123,7 +123,7 @@ Title | Type
 
 Title | Type
 :----:|:----:
-[Experiences with virtual schools on “Climate data for impact assessments”](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/EMS2021-353_presentation.pdf) | PDF File
+[Experiences with virtual schools on “Climate data for impact assessments”](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/EMS2021-353_presentation.pdf) | PDF File
 
 ### EOSC HubWeek 2020
 
@@ -160,8 +160,8 @@ Title | Type
 [Climate Science2Policy 2020](https://zenodo.org/record/4282167#.YlAiPybTVD9) | Zenodo Link
 [Research Data Alliance (RDA) Plenary Meeting 2020](https://zenodo.org/record/4282222#.YlAiWybTVD9) | Zenodo Link
 [C3S Workshops](https://zenodo.org/record/4674539#.YlAieybTVD9) | Zenodo Link
-[EOSC Symposium 2021](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/Implications_for_EOSC_Architecture_A_Common_Approach_to_Data_Ecosystems_and_Data_Spaces_v0.5.pdf) | PDF File
-[Scientific Gateways 2021](https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master/pdf_documents/c4i_icclim_SG2021_CPAGE.pdf) | PDF File
+[EOSC Symposium 2021](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Implications_for_EOSC_Architecture_A_Common_Approach_to_Data_Ecosystems_and_Data_Spaces_v0.5.pdf) | PDF File
+[Scientific Gateways 2021](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/c4i_icclim_SG2021_CPAGE.pdf) | PDF File
 [ClimateData.ca Conference](https://zenodo.org/record/5930348#.YlAi9SbTVD9) | Zenodo Link
 [WGCM-24](https://zenodo.org/record/5930437#.YlAjFibTVD9) | Zenodo Link
 [EuroHPC Summit week (March 2022)](https://zenodo.org/record/6394413#.YlAjLybTVD9) | Zenodo Link

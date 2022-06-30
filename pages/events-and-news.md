@@ -22,17 +22,17 @@ header:
     image_fullwidth: "Banner_website_IS-ENES3.png"
 widget1:
   title: "Access Calls"
-  url: 'https://valeriupredoi.github.io/access-calls/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/access-calls/'
   image: Banner_website_IS-ENES3.png
   # text: 'Past and present access calls.'
 widget2:
   title: "Training"
-  url: 'https://valeriupredoi.github.io/training/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/training/'
   image: Banner_website_IS-ENES3.png
   # text: 'Past and present training sessions.'
 widget3:
   title: "Workshops"
-  url: 'https://valeriupredoi.github.io/workshops/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/workshops/'
   image: Banner_website_IS-ENES3.png
   # text: 'Past and present workshops.'
 

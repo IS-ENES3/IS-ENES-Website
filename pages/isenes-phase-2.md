@@ -22,27 +22,27 @@ header:
     image_fullwidth: "Banner_website_IS-ENES3.png"
 widget1:
   title: "About"
-  url: 'https://valeriupredoi.github.io/isenes-phase-2-project/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-2-project/'
   image: Banner_website_IS-ENES3.png
   text: 'Phase 2 About.'
 widget2:
   title: "Deliverables and Milestones"
-  url: 'https://valeriupredoi.github.io/isenes-phase-2-deliverables/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-2-deliverables/'
   image: Banner_website_IS-ENES3.png
   text: 'Phase 2 Deliverables and Milestones.'
 widget3:
   title: "Publications"
-  url: 'https://valeriupredoi.github.io/isenes-phase-2-publications/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-2-publications/'
   image: Banner_website_IS-ENES3.png
   text: 'Phase 2 Publications.'
 widget4:
   title: "Final Report"
-  url: 'https://valeriupredoi.github.io/isenes-phase-2-final-report/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-2-final-report/'
   image: Banner_website_IS-ENES3.png
   text: 'Phase 2 Final Report.'
 widget5:
   title: "Strategy"
-  url: 'https://valeriupredoi.github.io/isenes-phase-2-strategy/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-2-strategy/'
   image: Banner_website_IS-ENES3.png
   text: 'Phase 2 Strategy.'
 

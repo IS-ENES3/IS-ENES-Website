@@ -13,18 +13,18 @@ header:
     image_fullwidth: "Banner_website_IS-ENES3_FULL.png"
 widget1:
   title: "Objectives"
-  url: 'https://valeriupredoi.github.io/objectives/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/objectives/'
   image: nick-fewings-zF_pTLx_Dkg-unsplash.jpg
   #text: 'Widget about <em>sciencey shtuff</em> that makes you smarter.'
 widget2:
   title: "Description of Work"
-  url: 'https://valeriupredoi.github.io/description-of-work/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/description-of-work/'
   image: headway-5QgIuuBxKwM-unsplash.jpg
   # text: 'Widget with <em>ISENES3</em> embedded video.<br/>1. Sciencey Shtuff 1<br/>2. Sciencey Shtuff 2'
-  # video: '<a href="#" data-reveal-id="videoModal"><img src="https://valeriupredoi.github.io/images/porsche962Cvideo.jpg" width="302" height="182" alt=""/></a>'
+  # video: '<a href="#" data-reveal-id="videoModal"><img src="https://is-enes3.github.io/IS-ENES-Website/images/porsche962Cvideo.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Partners"
-  url: 'https://valeriupredoi.github.io/partners/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/partners/'
   image: cytonn-photography-n95VMLxqM2I-unsplash.jpg 
   #text: 'Widget with <em>ISENES3</em> link and Twitter. Have a look at our <a href="https://is.enes.org/project/partners">ISENES3 Partners List</a> and call us at Twitter <a href="https://twitter.com/search?q=%23ISENES3">@ISENES3</a>.'
 permalink: /index.html
