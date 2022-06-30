@@ -1,7 +1,7 @@
 # IS-ENES3 Web Site
 
 This site (see Github Pages deployment at <https://is-enes3.github.io/IS-ENES-Website/>) uses the [Feeling Responsive](https://phlow.github.io/feeling-responsive/) template. It is
-built along the lines of this [schematic](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/IS-ENES3_website_detailed_templates_version_4_20220411.pdf) provided by Sophie and Fanny.
+built along the lines of this [schematic](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/structural_diagrams/IS-ENES3_website_detailed_templates_version_4_20220411.pdf) provided by Sophie and Fanny.
 
 Maintenance is done by Valeriu Predoi. Automatic build tests happen with every push to repository, and are
 run in a [Github Actions](https://github.com/IS-ENES3/IS-ENES-Website/actions).
