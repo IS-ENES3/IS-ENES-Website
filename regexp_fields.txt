@@ -1,0 +1,6 @@
+These are the current fields that changed when moving site
+----------------------------------------------------------
+
+https://valeriupredoi.github.io/ -> https://is-enes3.github.io/IS-ENES-Website/
+valeriupredoi.github.io -> is-enes3.github.io/IS-ENES-Website
+https://raw.githubusercontent.com/valeriupredoi/valeriupredoi.github.io/master -> 
