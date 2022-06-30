@@ -1,24 +1,24 @@
-# ISENES3 Web Site Test Domain
+# IS-ENES3 Web Site
 
-This site (see deployment at https://valeriupredoi.github.io/ ) uses the [Feeling Responsive](https://phlow.github.io/feeling-responsive/) template. It is
-built along the lines of this [schematic](https://github.com/valeriupredoi/valeriupredoi.github.io/blob/master/Website_new_architecture_V1.pdf) provided by Sophie and Fanny.
+This site (see Github Pages deployment at <https://is-enes3.github.io/IS-ENES-Website/>) uses the [Feeling Responsive](https://phlow.github.io/feeling-responsive/) template. It is
+built along the lines of this [schematic]() provided by Sophie and Fanny.
 
 Maintenance is done by Valeriu Predoi. Automatic build tests happen with every push to repository, and are
-run in a [Github Actions Test](https://github.com/valeriupredoi/valeriupredoi.github.io/actions).
+run in a [Github Actions](https://github.com/IS-ENES3/IS-ENES-Website/actions).
 
 **NOTE** don't push too many times with very small changes, that'd trigger a lot of Github Actions tests; wait until you
 have a fair bit of changes, then build locally to test, then push to remote.
 
-# How to use this repository
+# How to make changes (as developer)
 
 - clone the source:
 ```
-git clone https://github.com/valeriupredoi/valeriupredoi.github.io.git
+git clone https://github.com/IS-ENES3/IS-ENES-Website.git
 ```
 - enter directory and grab the latest version:
 ```
-cd valeriupredoi.github.io
-git pull origin master
+cd IS-ENES-Website
+git pull origin main
 ```
 - create a new branch where your changes are to be staged:
 ```
@@ -143,16 +143,7 @@ gem 'asciidoctor', '~> 1.5.4'
 gem 'coderay', '1.1.1'
 ```
 
-## 5. Toy website (valeriupredoi pages, lots of Porsche 956C and 962C)
-
-This is a sandbox (toy) [website](https://valeriupredoi.github.io/) built by me, with a 
-Feeling Responsive base, see the modified [source](https://github.com/valeriupredoi/valeriupredoi.github.io).
-
-The Feeling Responsive base template can be forked or gitballed from its [source](https://github.com/Phlow/feeling-responsive)
-and set up for the ISENES3 website needs.
-
-
-## 6. Building Jekyll from Docker
+## 5. Building Jekyll from Docker
 
 **WARNING**: I had issues with permissions with this type of installation!
 
