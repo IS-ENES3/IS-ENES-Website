@@ -21,30 +21,25 @@ header:
     #caption_url: https://unsplash.com/
     image_fullwidth: "Banner_website_IS-ENES3.png"
 widget1:
-  title: "About"
+  title: "The project"
   url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-2-project/'
   image: Banner_website_IS-ENES3.png
-  text: 'Phase 2 About.'
 widget2:
   title: "Deliverables and Milestones"
   url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-2-deliverables/'
   image: Banner_website_IS-ENES3.png
-  text: 'Phase 2 Deliverables and Milestones.'
 widget3:
   title: "Publications"
   url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-2-publications/'
   image: Banner_website_IS-ENES3.png
-  text: 'Phase 2 Publications.'
 widget4:
   title: "Final Report"
   url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-2-final-report/'
   image: Banner_website_IS-ENES3.png
-  text: 'Phase 2 Final Report.'
 widget5:
   title: "Strategy"
   url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-2-strategy/'
   image: Banner_website_IS-ENES3.png
-  text: 'Phase 2 Strategy.'
 
 ---
 
