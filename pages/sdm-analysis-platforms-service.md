@@ -21,9 +21,9 @@ header:
 
 **Apply for direct access to compute facilities:**
 
-**1. Discover the model data you are interested on**
-**2. Run your scripts in the supercomputer**
-**3. Download the results**
+**- 1. Discover the model data you are interested on**
+**- 2. Run your scripts in the supercomputer**
+**- 3. Download the results**
 
 The ENES e-infrastructure project IS-ENES3 [H2020-INFRAIA](https://cordis.europa.eu/project/id/824084) addresses the Coupled Model Intercomparison Project ([CMIP](https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6)) challenges by developing, documenting, and deploying new and advanced models and tools, standards, and services to deal with unprecedented data volumes and model complexity. Data near processing capabilities at the IS-ENES3 High Performance Computing centers are now made accessible to a broader user community via the new Trans-national Access (TA) service.
 
