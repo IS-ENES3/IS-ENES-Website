@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Long-term Archive
-# teaser: "ISENES3 workshops are wonderous."
+# teaser: 
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/sdm-long-term-data/"
