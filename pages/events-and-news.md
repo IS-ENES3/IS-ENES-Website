@@ -38,4 +38,4 @@ widget3:
 
 ---
 
-Watch our training and workshops on [YouTube](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents)
+Watch our training and workshops on [YouTube](https://is-enes3.github.io/IS-ENES-Website/lectures-tutorials-webinars/)
