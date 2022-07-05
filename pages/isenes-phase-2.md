@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth-6widgets
-title: Archive - IS-ENES Phase 2
+title: IS-ENES Phase 2 (2013-2017)
 # subheadline: ISENES3 Key Workshops
 # teaser: "ISENES3 workshops are wonderous."
 header:
