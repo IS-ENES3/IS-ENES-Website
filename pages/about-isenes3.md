@@ -27,11 +27,11 @@ widget1:
 widget2:
   title: "Description of Work"
   url: 'https://is-enes3.github.io/IS-ENES-Website/description-of-work/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Objectives_50.jpg
   text: 'Detailed description of the project Work Packages.'
 widget3:
   title: "Partners"
   url: 'https://is-enes3.github.io/IS-ENES-Website/partners/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Objectives_60.jpg
   text: 'The consortium comprises 22 partners from 11 countries.'
 ---
