@@ -24,12 +24,12 @@ widget1:
   title: "Access Calls"
   url: 'https://is-enes3.github.io/IS-ENES-Website/access-calls/'
   image: Banner_website_IS-ENES3.png
-  # text: 'Past and present access calls.'
+  # text: 'Dedicated access to IS-ENES3 services on model tools and data analytics service'
 widget2:
   title: "Training"
   url: 'https://is-enes3.github.io/IS-ENES-Website/training/'
   image: Banner_website_IS-ENES3.png
-  # text: 'Past and present training sessions.'
+  # text: 'Browse through our training material on software and model data'
 widget3:
   title: "Workshops"
   url: 'https://is-enes3.github.io/IS-ENES-Website/workshops/'
@@ -37,3 +37,5 @@ widget3:
   # text: 'Past and present workshops.'
 
 ---
+
+Watch our training and workshops on [YouTube](https://is-enes3.github.io/IS-ENES-Website/lectures-tutorials-webinars.md)
