@@ -83,17 +83,12 @@ CORDEX provides global coordination of regional climate downscaling for improved
 - CORDEX Data structure
 - CORDEX Data citation
 - [CORDEX homepage](https://cordex.org/) (including the descriptions of domains and coordinate systems)
-- CORDEX data management pages [BROKEN LINK]
 - [GitHub page to collect the various repositories](https://github.com/IS-ENES-Data)
 - Users support email: datasupport(at)cordex.org
  
 **Access to CORDEX Data**
 
 Find here the instructions to access CORDEX data at ESGF portals. Besides, the regional CORDEX data portals can be reached via the [CORDEX homepage](https://cordex.org/).
-
-**CORDEX Errata**
-
-Known Issues with CORDEX data at DKRZ [BROKEN LINK]
 
 ### <a name="cmip3-detailed"></a>CMIP3 & AR4
 
