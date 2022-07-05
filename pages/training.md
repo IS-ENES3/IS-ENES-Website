@@ -23,7 +23,7 @@ header:
 
 ---
 
-Some of our past training and schools are recorded on our [YouTube (YT)](https://is-enes3.github.io/IS-ENES-Website/lectures-tutorials-webinars/) !
+### Some of our past training and schools are recorded on our [YouTube (YT)](https://is-enes3.github.io/IS-ENES-Website/lectures-tutorials-webinars/) !
 
 ## Upcoming
 
@@ -34,9 +34,9 @@ Some of our past training and schools are recorded on our [YouTube (YT)](https:/
 #### [IS-ENES3 Eastern Europe Spring Schools on Climate data and Impact assessments (17-19 May 2022)](https://is-enes3.github.io/IS-ENES-Website/training-detailed#ee-school)
 #### [IS-ENES3 Virtual clinic on bias-adjustment of climate model data (14-21 Oct 2021)](https://is-enes3.github.io/IS-ENES-Website/training-detailed#virt-clinic)
 #### [XIOS training sessions (15 Mar 2021 - 16 Apr 2021)](https://is-enes3.github.io/IS-ENES-Website/training-detailed#xios)
-#### [Online Training on Data Analytics: How to skip high-volume data transfer and access free computing resources for your CMIP analyses (08-09 Mar 2021) (YT)](https://is-enes3.github.io/IS-ENES-Website/training-detailed#da-cmip)
+#### [Online Training on Data Analytics: How to skip high-volume data transfer and access free computing resources for your CMIP analyses (08-09 Mar 2021)](https://is-enes3.github.io/IS-ENES-Website/training-detailed#da-cmip) (YT)
 #### [Second and Third IS-ENES3 virtual Autumn School on Climate data use for impact assessments (03 Mar 2021 - 14 June 2021)](https://is-enes3.github.io/IS-ENES-Website/training-detailed#spring-school)
-#### [First IS-ENES3 virtual Autumn School on Climate data use for impact assessments (04 Nov 2020 - 10 Dec 2020) (YT)](https://is-enes3.github.io/IS-ENES-Website/training-detailed#autumn-school)
+#### [First IS-ENES3 virtual Autumn School on Climate data use for impact assessments (04 Nov 2020 - 10 Dec 2020)](https://is-enes3.github.io/IS-ENES-Website/training-detailed#autumn-school) (YT)
 #### [1st Webinar of the demonstration of the Climate4Impact portal (16 Sep 2019)](https://is-enes3.github.io/IS-ENES-Website/training-detailed#C41-web-1)
 #### [EMS 2019: Second demonstration session of the Climate4Impact portal (12 Sep 2019)](https://is-enes3.github.io/IS-ENES-Website/training-detailed#C4I-demo-2)
 #### [EGU 2019: First demonstration session Climate4Impact portal for the IS-ENES3 project (09 Apr 2019)](https://is-enes3.github.io/IS-ENES-Website/training-detailed#EGU2019-C4I)
