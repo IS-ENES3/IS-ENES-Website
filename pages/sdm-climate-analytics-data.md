@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Climate Analytics Service
-# subheadline: ISENES3 Key Workshops
-# teaser: "ISENES3 workshops are wonderous."
+# subheadline: 
+# teaser: 
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/sdm-climate-analytics-data/"
