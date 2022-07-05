@@ -1,8 +1,8 @@
 ---
 layout: page
 title: ESGF Data
-subheadline: Earth System Grid Federation Data
-# teaser: "ISENES3 workshops are wonderous."
+subheadline:
+# teaser:
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/sdm-esgf-data/"
@@ -15,7 +15,7 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: ESGF Data
+    title: Earth System Grid Federation (ESGF) Data
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
