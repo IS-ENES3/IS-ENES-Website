@@ -32,7 +32,7 @@ header:
 ## Past
 
 #### [IS-ENES3 Eastern Europe Spring Schools on Climate data and Impact assessments](https://is-enes3.github.io/IS-ENES-Website/training-detailed#ee-school) (17-19 May 2022)
-#### [IS-ENES3 Virtual clinic on bias-adjustment of climate model data](https://is-enes3.github.io/IS-ENES-Website/training-detailed#virt-clinic)(14-21 Oct 2021)
+#### [IS-ENES3 Virtual clinic on bias-adjustment of climate model data](https://is-enes3.github.io/IS-ENES-Website/training-detailed#virt-clinic) (14-21 Oct 2021)
 #### [XIOS training sessions](https://is-enes3.github.io/IS-ENES-Website/training-detailed#xios) (15 Mar 2021 - 16 Apr 2021)
 #### [Online Training on Data Analytics: How to skip high-volume data transfer and access free computing resources for your CMIP analyses](https://is-enes3.github.io/IS-ENES-Website/training-detailed#da-cmip) (08-09 Mar 2021)(YT)
 #### [Second and Third IS-ENES3 virtual Autumn School on Climate data use for impact assessments](https://is-enes3.github.io/IS-ENES-Website/training-detailed#spring-school) (03 Mar 2021 - 14 June 2021)
