@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Climate4Impact Portal
-subheadline: Climate4Impact data archive
-# teaser: "ISENES3 workshops are wonderous."
+subheadline: 
+# teaser: 
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/sdm-c4i-portal/"
