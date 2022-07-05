@@ -38,7 +38,7 @@ Except replications, which are treated differently, ESGF data ingestion consists
 
 **Steps of ESGF data ingestion**
 
-At the end of the publishing step, the data are visible in the ESGF and can be downloaded from there. For long-term archiving and [DataCite](https://datacite.org/) DOI assignment, additional ingestion steps[LINK to Codex DATA CITATION] have to be appended.
+At the end of the publishing step, the data are visible in the ESGF and can be downloaded from there. For long-term archiving and [DataCite](https://datacite.org/) DOI assignment, [additional ingestion steps](https://is-enes3.github.io/IS-ENES-Website/sdm-how-to-provide-data/#datacitation) have to be appended.
 
 **Aggregation, format and unit conversion, generation of metadata, and additional data***
 
@@ -71,7 +71,7 @@ This last step can only be launched by an ESGF data node administrator. The ESGF
 
 - [CMIP6 Model Output Requirements: File Contents and Format, Data Structure and Metadata](https://docs.google.com/document/d/1os9rZ11U0ajY7F8FWtgU4B49KcB59aFlBVGfLC4ahXs/edit)
 - [CMIP6 ESGF Publication Requirements](https://docs.google.com/document/d/1oFie37HV0cCpKrcOEVc_ATTAoeklm2zc3ZEfzCdWC4M/edit#heading=h.ssqo7vyqs8qz) 
-- [CMIP6 Data Request]LINKED BROKEN
+- [CMIP6 Data Request]( https://wcrp-cmip.github.io/WGCM_Infrastructure_Panel/CMIP6/data_request.html)
 - [Quality check software](https://qa-dkrz.readthedocs.io/en/latest/)
 
 **CMIP5**
