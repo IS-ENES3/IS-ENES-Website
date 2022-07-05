@@ -22,22 +22,22 @@ widget1:
   title: "Deliverables and Milestones"
   url: 'https://is-enes3.github.io/IS-ENES-Website/deliverables-milestones/'
   image: Banner_website_IS-ENES3.png
-  text: 'IS-ENES3 deliverables and milestones.'
+  text: 
 widget2:
   title: "Publications"
   url: 'https://is-enes3.github.io/IS-ENES-Website/publications-table/'
   image: Banner_website_IS-ENES3.png
-  text: 'IS-ENES3 publications.'
+  text: 
 widget3:
   title: "Presentations and Posters"
   url: 'https://is-enes3.github.io/IS-ENES-Website/presentations-posters/'
   image: Banner_website_IS-ENES3.png
-  text: 'IS-ENES3 presentations and posters.'
+  text: 
 widget4:
   title: "Lectures, Tutorials, and Webinars"
   url: 'https://is-enes3.github.io/IS-ENES-Website/lectures-tutorials-webinars/'
   image: Banner_website_IS-ENES3.png
-  text: 'IS-ENES3 lectures, tutorials, and webinars.'
+  text: 
 
 ---
 
