@@ -32,7 +32,7 @@ header:
 - [Documenting numerical experiments in support of the Coupled Model Intercomparison Project Phase 6 (CMIP6)](https://gmd.copernicus.org/articles/13/2149/2020/)
   - Charlotte Pascoe et al.
   - Published on 6 May 2020. 
-- **TODO BROKEN LINK** [The future of sea ice modelling: where do we go from here?]()
+- [The future of sea ice modelling: where do we go from here?](https://journals.ametsoc.org/view/journals/bams/101/8/bamsD200073.xml)
   - Ed Blockley et al.
   - Published on 24 August 2020. 
 - [Earth System Model Evaluation Tool (ESMValTool) v2.0 – an extended set of large-scale diagnostics for quasi-operational and comprehensive evaluation of Earth system models in CMIP](https://gmd.copernicus.org/articles/13/3383/2020/)
@@ -65,7 +65,7 @@ header:
 - [Earth System Model Evaluation Tool (ESMValTool) v2.0 – diagnostics for extreme events, regional and impact evaluation, and analysis of Earth system models in CMIP](https://gmd.copernicus.org/articles/14/3159/2021/#top)
   - Weigel et al.
   - Published in June 2021 in the Geoscientific Model Development (GMD) journal. 
-- **TODO BROKEN LINK** [Highlights from a workshop on the latest updates on coupling technologies and coupled applications in Earth System modelling]()
+- [Highlights from a workshop on the latest updates on coupling technologies and coupled applications in Earth System modelling](https://journals.ametsoc.org/view/journals/bams/103/3/BAMS-D-21-0045.1.xml)
   - S. Valcke.
   - Published on 05 Oct. 2021 in BAMS. 
 - [The EC-Earth3 Earth System Model for the Climate Model Intercomparison Project 6](https://gmd.copernicus.org/preprints/gmd-2020-446/)
