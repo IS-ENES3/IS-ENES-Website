@@ -25,22 +25,22 @@ widget1:
   title: "Which Model Data?"
   url: 'https://is-enes3.github.io/IS-ENES-Website/sdm-which-model-data/'
   image: Banner_website_IS-ENES3.png
-  # text: 'IS-ENES3 is divided into 4 main objectives.'
+  text: Provides information on different data bases for climate model data
 widget2:
   title: "How to Access and Use Model Data?"
   url: 'https://is-enes3.github.io/IS-ENES-Website/sdm-access-use-data/'
   image: Banner_website_IS-ENES3.png
-  # text: 'Detailed description of the project Work Packages.'
+  text: Provides different types of access and a range of processing capabilities
 widget3:
   title: "How to Access Metadata?"
   url: 'https://is-enes3.github.io/IS-ENES-Website/sdm-access-metadata/'
   image: Banner_website_IS-ENES3.png
-  # text: 'The consortium comprises 22 partners from 11 countries.'
+  text: Informs on the ES-DOC model documentation and different standards for model data
 widget4:
   title: "How to Provide Data?"
   url: 'https://is-enes3.github.io/IS-ENES-Website/sdm-how-to-provide-data/'
   image: Banner_website_IS-ENES3.png
-  # text: 'The consortium comprises 22 partners from 11 countries.'
+  text: Is intended for climate model providers
 
 ---
 
