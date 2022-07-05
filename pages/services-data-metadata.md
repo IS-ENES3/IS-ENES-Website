@@ -44,3 +44,10 @@ widget4:
 
 ---
 
+
+IS-ENES offers services on model data and related metadata from the WCRP internationally coordinated experiments CMIP and CORDEX. These services are based on the international database Earth System Grid Federation (ESGF), supported in Europe by IS-ENES projects. 
+
+These services are intended for:
+- **Users of climate model data** from different communities, from **climate science to climate change impacts**, offering search, download, but also analytic capabilities and data processing tools. 
+- **Providers of climate model data** providing information on data ingestion, quality and citation
+
