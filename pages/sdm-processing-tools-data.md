@@ -43,6 +43,4 @@ Within the phase 3 of the IS-ENES project the following features will be develop
 - compute services
 - access to derived data products
 
-Visit the dedicated web interface [NEED OF A VALID LINK] to access to the products and services.
-
-See the Models & Tools section [ADD INTERNAL LINK] to find more information for developers.
+See the Models & Tools section to find more information for developers.
