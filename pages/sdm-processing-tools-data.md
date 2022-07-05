@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Data Processing Tools and Products
-subheadline: Combined with derived products
-# teaser: "ISENES3 workshops are wonderous."
+subheadline: 
+# teaser: 
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/sdm-processing-tools-data/"
