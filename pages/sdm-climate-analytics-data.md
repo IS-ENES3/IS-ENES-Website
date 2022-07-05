@@ -41,7 +41,7 @@ The ECAS is a service with institutional-based deployments addressing national r
 - **[UKRI/CEDA](#cas-ukri)**
 - **[CNRS-IPSL](#cas-ipsl)**
 
-Visit the service FAQs [PAGE TO BE CREATED] and find our contact and the link to use cases.
+Visit the service FAQs and find our contact and the link to use cases in this page.
 
 **Important note**: unfortunately we cannot offer unlimited resources. The ECAS only provides computer resources for pre- and post-processing (not suitable for simulation runs) in shared computing nodes. If you would like to use exclusive extensive resources, please apply to our [Analysis Platforms service](https://is-enes3.github.io/IS-ENES-Website/sdm-analysis-platforms-service). 
 
