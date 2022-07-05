@@ -33,7 +33,7 @@ IS-ENES3 is structured into 10 work packages:
 
 *Here is a schematic representation of IS-ENES3 objectives and organisation of work packages:*
 
-![work-packages](../images/schemaproject.png)
+![work-packages](../images/Schemaproject.png)
 
 
 ### List of IS-ENES3 Work Packages:
