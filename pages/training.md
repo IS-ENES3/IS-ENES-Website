@@ -23,7 +23,7 @@ header:
 
 ---
 
-### Some of our past training and schools are recorded on our [YouTube (YT)](https://is-enes3.github.io/IS-ENES-Website/lectures-tutorials-webinars.md) !
+### Some of our past training and schools are recorded on our [YouTube (YT)](https://is-enes3.github.io/IS-ENES-Website/publications.md) !
 
 ## Upcoming
 
