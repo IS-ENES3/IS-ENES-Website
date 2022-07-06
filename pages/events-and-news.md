@@ -33,7 +33,7 @@ widget3:
   url: 'https://is-enes3.github.io/IS-ENES-Website/workshops/'
   image: Banner_website_IS-ENES3.png
   text: 'Past and upcoming workshops, technical meetings and general assemblies'
-widget3:
+widget4:
   title: "Newsletters"
   url: 'https://is-enes3.github.io/IS-ENES-Website/design/newsletters/'
   image: Banner_website_IS-ENES3.png
