@@ -29,9 +29,9 @@ header:
 
 To contact us, please write an Email to <is-enes@ipsl.fr>.
 
-#### Mailing list
+#### Newsletter
 
-Please subscribe to our [mailing list](https://lists.enes.org/mailman/listinfo/is-enes3).
+Please subscribe to our [newsletter](https://lists.enes.org/mailman/listinfo/is-enes3).
 
 #### About the site
 
