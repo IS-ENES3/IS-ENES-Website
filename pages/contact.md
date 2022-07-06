@@ -35,4 +35,4 @@ Please subscribe to our [newsletter](https://lists.enes.org/mailman/listinfo/is-
 
 #### About the site
 
-To contact us about the site, please wite to <valeriu.predoi@ncas.ac.uk>.
+To contact us about the site, please write to <valeriu.predoi@ncas.ac.uk>.

@@ -21,12 +21,12 @@ header:
 widget1:
   title: "Deliverables"
   url: 'https://is-enes3.github.io/IS-ENES-Website/deliverables/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Deliverables.png
   text: 'IS-ENES3 deliverables.'
 widget2:
   title: "Milestones"
   url: 'https://is-enes3.github.io/IS-ENES-Website/milestones/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Milestones.png
   text: 'IS-ENES3 Milestones.'
 
 ---

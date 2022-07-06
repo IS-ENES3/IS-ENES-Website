@@ -21,17 +21,17 @@ header:
 widget1:
   title: "European Earth System Models"
   url: 'https://is-enes3.github.io/IS-ENES-Website/smt-european-esms/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_EESM.png
   text: Provides services on European global climate models used in CMIP
 widget2:
   title: "NEMO European Ocean Platform"
   url: 'https://is-enes3.github.io/IS-ENES-Website/smt-european-ocean-platform/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_European_Ocean_Platform.png
   text: Used in several European climate models
 widget3:
   title: "Common Software Tools"
   url: 'https://is-enes3.github.io/IS-ENES-Website/smt-common-software-tools/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Common_software_tool.png
   text: For developing, running and analysing climate models
 
 ---

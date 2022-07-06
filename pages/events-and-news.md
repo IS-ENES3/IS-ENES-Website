@@ -21,22 +21,22 @@ header:
 widget1:
   title: "Access Calls"
   url: 'https://is-enes3.github.io/IS-ENES-Website/access-calls/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Access_Calls.png
   text: 'Dedicated access to IS-ENES3 services on model tools and data analytics service'
 widget2:
   title: "Training"
   url: 'https://is-enes3.github.io/IS-ENES-Website/training/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Training.png
   text: 'Browse through our training material on software and model data'
 widget3:
   title: "Workshops"
   url: 'https://is-enes3.github.io/IS-ENES-Website/workshops/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Workshops.png
   text: 'Past and upcoming workshops, technical meetings and general assemblies'
 widget4:
   title: "Newsletters"
   url: 'https://is-enes3.github.io/IS-ENES-Website/design/newsletters/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Newsletters.png
   text: 'Our newsletters'
 
 ---
