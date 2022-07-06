@@ -1,4 +1,4 @@
-- menu_name: "Services"
+- menu_name: "Site Services"
 
 - name: "Contact"
   url: "/contact/"
@@ -6,8 +6,8 @@
 
 - name: "Subscribe to our newsletter"
   url: "https://lists.enes.org/mailman/listinfo/is-enes3"
-  title: "Subscribe to newsletter"
+  title: "Subscribe to IS-ENES3 newsletter"
 
 - name: "Privacy Policy"
   url: "/privacy/"
-  title: "IS-ENES3 privacy policy"
+  title: "IS-ENES3 Privacy Policy"
