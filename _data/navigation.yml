@@ -26,7 +26,7 @@
   - title: "Newsletters"
     url: "/design/newsletters"
 
-- title: "Services on Models&Tools"
+- title: "Services on Models & Tools"
   url: "/services-models-tools/"
   side: left
   dropdown:
@@ -37,7 +37,7 @@
   - title: "Common Software Tools"
     url: "/smt-common-software-tools"
 
-- title: "Services on Data&Metadata"
+- title: "Services on Data & Metadata"
   url: "/services-data-metadata/"
   side: left
   dropdown:
