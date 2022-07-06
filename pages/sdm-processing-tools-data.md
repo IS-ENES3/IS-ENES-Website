@@ -15,7 +15,7 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: "Data Processing <br> Tools and Products"
+    #title: "Data Processing <br> Tools and Products"
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/

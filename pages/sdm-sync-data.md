@@ -15,7 +15,7 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: "Data <br> synchronization"
+    #title: "Data <br> synchronization"
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
