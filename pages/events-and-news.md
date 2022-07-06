@@ -1,8 +1,6 @@
 ---
 layout: page-fullwidth-4widgets
 title: "Events and News"
-subheadline: "Watch our training and workshops on [YouTube](https://is-enes3.github.io/IS-ENES-Website/lectures-tutorials-webinars/) !"
-# teaser: "This tells you all about ISENES3 events, conferences, and all the most up-to-date news."
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/events-and-news/"
@@ -42,3 +40,5 @@ widget3:
   text: 'Our newsletters'
 
 ---
+
+## Watch our training and workshops on [YouTube](https://is-enes3.github.io/IS-ENES-Website/lectures-tutorials-webinars/) !
