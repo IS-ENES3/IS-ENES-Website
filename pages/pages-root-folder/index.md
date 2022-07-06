@@ -12,23 +12,22 @@ header:
     # caption_url: https://unsplash.com/
     image_fullwidth: "Banner_website_IS-ENES3_FULL_trimmed.png"
 widget1:
-  title: "Objectives"
-  url: 'https://is-enes3.github.io/IS-ENES-Website/objectives/'
+  title: "Workshops"
+  url: 'https://is-enes3.github.io/IS-ENES-Website/workshops/'
   image: nick-fewings-zF_pTLx_Dkg-unsplash.jpg
-  #text: 'Widget about <em>sciencey shtuff</em> that makes you smarter.'
 widget2:
-  title: "Description of Work"
-  url: 'https://is-enes3.github.io/IS-ENES-Website/description-of-work/'
+  title: "Training"
+  url: 'https://is-enes3.github.io/IS-ENES-Website/training/'
   image: headway-5QgIuuBxKwM-unsplash.jpg
   # text: 'Widget with <em>ISENES3</em> embedded video.<br/>1. Sciencey Shtuff 1<br/>2. Sciencey Shtuff 2'
   # video: '<a href="#" data-reveal-id="videoModal"><img src="https://is-enes3.github.io/IS-ENES-Website/images/porsche962Cvideo.jpg" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "Partners"
-  url: 'https://is-enes3.github.io/IS-ENES-Website/partners/'
-  image: cytonn-photography-n95VMLxqM2I-unsplash.jpg 
-  #text: 'Widget with <em>ISENES3</em> link and Twitter. Have a look at our <a href="https://is.enes.org/project/partners">ISENES3 Partners List</a> and call us at Twitter <a href="https://twitter.com/search?q=%23ISENES3">@ISENES3</a>.'
+  title: "Newsletter"
+  url: 'https://is-enes3.github.io/IS-ENES-Website/design/newsletters/'
+  image: cytonn-photography-n95VMLxqM2I-unsplash.jpg
 permalink: /index.html
 homepage: true
+
 ---
 
 ## Welcome to the IS-ENES3 project
@@ -36,7 +35,7 @@ homepage: true
 
 IS-ENES3, an Horizon 2020 project, is the third phase of the distributed e-infrastructure of the European Network for Earth System Modelling (ENES). 
 
-IS-ENES3: 
+**IS-ENES3:** 
 -	delivers the research infrastructure providing access to climate model data and tools to boost the understanding of past, present and future climate variability and changes.
 -	contributes to speeding up the development and use of models of the Earth’s complex climate system in Europe by sharing models, tools and expertise.
 -	supports the international standards and data services of the World Climate Research Program coordinated experiments for global and regional climate models **[CMIP](https://www.wcrp-climate.org/wgcm-cmip)** (Coupled Model Intercomparison Project), with a focus on CMIP6, and **[CORDEX](https://cordex.org/)** (Coordinated Regional Climate Downscaling Experiments). 
