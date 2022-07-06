@@ -22,16 +22,16 @@ header:
 widget1:
   title: "Objectives"
   url: 'https://is-enes3.github.io/IS-ENES-Website/objectives/'
-  image: pictoessai5objectives.png
+  image: picto_Objectives.png
   text: 'IS-ENES3 is divided into 3 main objectives.'
 widget2:
   title: "Description of Work"
   url: 'https://is-enes3.github.io/IS-ENES-Website/description-of-work/'
-  image: pictoessai7objectives.png
+  image: picto_DoW.png
   text: 'Detailed description of the project Work Packages.'
 widget3:
   title: "Partners"
   url: 'https://is-enes3.github.io/IS-ENES-Website/partners/'
-  image: pictoessai4objectives.png
+  image: picto_Partners.png
   text: 'The consortium comprises 22 partners from 11 countries.'
 ---
