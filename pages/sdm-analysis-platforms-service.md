@@ -11,7 +11,7 @@ tags:
     - background color
     - header
 header:
-    title: "Analysis Platforms <br> for CMIP6 and CORDEX"
+    #title: "Analysis Platforms <br> for CMIP6 and CORDEX"
     background-color: "#186F4D;"
     image_fullwidth: "Banner_website_IS-ENES3.png"
 

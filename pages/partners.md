@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Partners
+title: Partner Institutions
 subheadline: Partners Table
 # teaser: "ISENES3 Partners are many and varied."
 header:
@@ -15,7 +15,7 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: Partner <br> Institutions
+    #title: Partner <br> Institutions
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/

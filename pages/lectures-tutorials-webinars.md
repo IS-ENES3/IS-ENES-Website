@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth-7widgets
-title: Lectures and Webinars
+title: "Lectures, Tutorials and Webinars"
 teaser: "Click on the images to go to the YouTube playlists!"
 header:
    image_fullwidth: "header_homepage_13.jpg"
@@ -14,7 +14,7 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: Lectures <br> Tutorials and Webinars
+    #title: Lectures <br> Tutorials and Webinars
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
