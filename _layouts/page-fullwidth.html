@@ -15,6 +15,15 @@ format: page-fullwidth
 </div><!-- /.row -->
 {% endif %}
 
+{% comment %}
+*
+* Finally, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
 
 <div class="row t30">
 	<div class="medium-12 columns">
@@ -30,7 +39,6 @@ format: page-fullwidth
 			</p>
 			{% endif %}
 
-			{{ content }}
 		</article>
 	</div><!-- /.medium-12.columns -->
 </div><!-- /.row -->
@@ -76,14 +84,3 @@ format: page-fullwidth
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 {% endif %}
-
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->
