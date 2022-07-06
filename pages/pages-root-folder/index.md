@@ -14,17 +14,17 @@ header:
 widget1:
   title: "Workshops"
   url: 'https://is-enes3.github.io/IS-ENES-Website/workshops/'
-  image: nick-fewings-zF_pTLx_Dkg-unsplash.jpg
+  image: picto_Workshops.png
 widget2:
   title: "Training"
   url: 'https://is-enes3.github.io/IS-ENES-Website/training/'
-  image: headway-5QgIuuBxKwM-unsplash.jpg
+  image: picto_Training.png
   # text: 'Widget with <em>ISENES3</em> embedded video.<br/>1. Sciencey Shtuff 1<br/>2. Sciencey Shtuff 2'
   # video: '<a href="#" data-reveal-id="videoModal"><img src="https://is-enes3.github.io/IS-ENES-Website/images/porsche962Cvideo.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Newsletter"
   url: 'https://is-enes3.github.io/IS-ENES-Website/design/newsletters/'
-  image: cytonn-photography-n95VMLxqM2I-unsplash.jpg
+  image: picto_Newsletters.png
 permalink: /index.html
 homepage: true
 
