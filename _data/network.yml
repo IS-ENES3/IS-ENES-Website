@@ -1,14 +1,14 @@
-- menu_name: "Aknowledgements"
-
-- name: "Technical support by Valeriu Predoi"
-  url: "https://github.com/valeriupredoi"
-  class: "network-entypo"
-  title: "Technical support"
-
-- name: "Content by ♥Fanny&Sophie"
-  url: "http://foundation.zurb.com/"
-  class: "services-newsletter"
-  title: "Content by Fanny&Sophie - change here"
+#- menu_name: "Aknowledgements"
+#
+#- name: "Technical support by Valeriu Predoi"
+#  url: "https://github.com/valeriupredoi"
+#  class: "network-entypo"
+#  title: "Technical support"
+#
+#- name: "Content by ♥Fanny&Sophie"
+#  url: "http://foundation.zurb.com/"
+#  class: "services-newsletter"
+#  title: "Content by Fanny&Sophie - change here"
 
 #- name: "Change me here"
 #  url: "http://unsplash.com/"
