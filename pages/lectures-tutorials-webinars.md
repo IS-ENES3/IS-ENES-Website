@@ -28,7 +28,7 @@ widget2:
   title: "Training ECAS"
   url: 'https://www.youtube.com/watch?v=deQUK9k47uo&list=PLFvev1W5vG7P1VGITP3ys1GpXnhL--jIc'
   image: 'Training_ECAS.png'
-  text: IS-ENES3/EOSC Online Training on Data Analytics: How to skip high-volume data transfer and access free computing resources for your CMIP analyses (March 2021)
+  text: 'IS-ENES3/EOSC Online Training on Data Analytics: How to skip high-volume data transfer and access free computing resources for your CMIP analyses (March 2021)'
 widget3:
   title: "5th Coupling Workshop"
   url: 'https://www.youtube.com/watch?v=p5kQii_UNlU&list=PLFvev1W5vG7O-h0H1AYrXHtkPQ3zAOZjt'
