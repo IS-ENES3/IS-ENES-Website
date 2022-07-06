@@ -16,7 +16,7 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: "Services on <br> Data and Metadata"
+    #title: "Services on <br> Data and Metadata"
     #background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
