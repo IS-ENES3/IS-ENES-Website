@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth-6widgets
+layout: page-fullwidth-7widgets
 title: Lectures and Webinars
 teaser: "Click on the images to go to the YouTube playlists!"
 header:
@@ -53,7 +53,7 @@ widget7:
   title: "7th ENES HPC Workshop"
   url: 'https://www.youtube.com/watch?v=rLx8-t_5LYQ&list=PLFvev1W5vG7P56bYBrfQTaSYEPeijjolJ'
   image: 'HPCWS_YT.png'
-  text: 7th ENES HPC workshop (May 2022)
+  text: '7th ENES HPC workshop (May 2022)'
 
 ---
 
