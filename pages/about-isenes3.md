@@ -27,7 +27,7 @@ widget1:
 widget2:
   title: "Description of Work"
   url: 'https://is-enes3.github.io/IS-ENES-Website/description-of-work/'
-  image: pictoessai6objectives.png
+  image: pictoessai7objectives.png
   text: 'Detailed description of the project Work Packages.'
 widget3:
   title: "Partners"
