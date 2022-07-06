@@ -34,11 +34,11 @@ widget3:
   image: picto_Publications.png
 widget4:
   title: "Final Report"
-  url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-1-final-report/'
+  url: 'https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES_FinalReport_VF.pdf'
   image: picto_Final_Report.png
 widget5:
   title: "Strategy"
-  url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-1-strategy/'
+  url: 'https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ENES_foresight.pdf'
   image: picto_Strategy.png
 
 ---
