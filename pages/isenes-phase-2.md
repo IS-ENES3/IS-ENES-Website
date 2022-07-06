@@ -23,23 +23,23 @@ header:
 widget1:
   title: "The project"
   url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-2-project/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_About.png
 widget2:
   title: "Deliverables and Milestones"
   url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-2-deliverables/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Deliv_Milestones.png
 widget3:
   title: "Publications"
   url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-2-publications/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Publications.png
 widget4:
   title: "Final Report"
   url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-2-final-report/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Final_Report.png
 widget5:
   title: "Strategy"
   url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-2-strategy/'
-  image: Banner_website_IS-ENES3.png
+  image: picto_Strategy.png
 
 ---
 
