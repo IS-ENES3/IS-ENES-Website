@@ -1,7 +1,7 @@
 ---
 layout: page
 #show_meta: false
-# title: "Contact Us"
+title: "Contact Us"
 subheadline: "Get in touch with us!"
 # teaser: "We are always ready to serve your sciency needs"
 header:
@@ -16,7 +16,7 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: Contact
+    #title: Contact
     background-color: "#0B59FF;"  # dark blue
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/

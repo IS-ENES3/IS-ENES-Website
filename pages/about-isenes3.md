@@ -14,7 +14,7 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: About IS-ENES3
+    #title: About IS-ENES3
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/

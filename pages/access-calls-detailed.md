@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Access Calls
+title: "Access Calls (detailed)"
 #subheadline: ISENES3 Access Calls
 #teaser: "ISENES3 stuff SOS related to Access Calls."
 header:
@@ -15,7 +15,7 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: Access <br> Calls (detailed)
+    #title: Access <br> Calls (detailed)
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
