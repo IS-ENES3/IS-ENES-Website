@@ -22,12 +22,12 @@ header:
 widget1:
   title: "Objectives"
   url: 'https://is-enes3.github.io/IS-ENES-Website/objectives/'
-  image: pictoessai2objectives.png
+  image: pictoessai5objectives.png
   text: 'IS-ENES3 is divided into 3 main objectives.'
 widget2:
   title: "Description of Work"
   url: 'https://is-enes3.github.io/IS-ENES-Website/description-of-work/'
-  image: pictoessai3objectives.png
+  image: pictoessai6objectives.png
   text: 'Detailed description of the project Work Packages.'
 widget3:
   title: "Partners"
