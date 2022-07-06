@@ -2,12 +2,12 @@
 
 - name: "Contact"
   url: "/contact/"
-  title: "ISENES3 contact"
+  title: "IS-ENES3 contact"
 
-- name: "Mailinglist"
+- name: "Subscribe to our newsletter"
   url: "https://lists.enes.org/mailman/listinfo/is-enes3"
-  title: "Subscribe to mailinglist"
+  title: "Subscribe to newsletter"
 
 - name: "Privacy Policy"
   url: "/privacy/"
-  title: "ISENES3 privacy policy"
+  title: "IS-ENES3 privacy policy"
