@@ -25,7 +25,7 @@ author: phlow
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-# url: 'https://is-enes3.github.io/IS-ENES-Website/'
+url: 'https://is.enes.org'
 baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
