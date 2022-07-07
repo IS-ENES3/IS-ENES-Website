@@ -20,6 +20,7 @@ widget2:
   url: 'https://is-enes3.github.io/IS-ENES-Website/training/'
   image: picto_Training.png
   # text: 'Widget with <em>ISENES3</em> embedded video.<br/>1. Sciencey Shtuff 1<br/>2. Sciencey Shtuff 2'
+  # This is how to add a video inside the widget; content of video in content below
   # video: '<a href="#" data-reveal-id="videoModal"><img src="https://is-enes3.github.io/IS-ENES-Website/images/porsche962Cvideo.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Newsletter"
@@ -41,8 +42,6 @@ IS-ENES3, an Horizon 2020 project, is the third phase of the distributed e-infra
 -	supports the international standards and data services of the World Climate Research Program coordinated experiments for global and regional climate models **[CMIP](https://www.wcrp-climate.org/wgcm-cmip)** (Coupled Model Intercomparison Project), with a focus on CMIP6, and **[CORDEX](https://cordex.org/)** (Coordinated Regional Climate Downscaling Experiments). 
 
 The project gathers 22 partners, combining expertise in climate modelling, computational science, data management, climate impacts and climate services.  
-
-
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
