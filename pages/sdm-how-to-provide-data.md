@@ -111,7 +111,7 @@ As for CMIP5, the World Data Center for Climate (WDCC) offers the assignment of 
 - Example: EUR-44 results of SMHI for RCA4-v1 for all driving models
 
 **Documentation and Overview:**
-- WDCC’s DataCite DOI process is documented [here](https://www.dkrz.de/daten-en/data-services/Datapublication).
+- WDCC’s DataCite DOI process is documented [here](https://docs.dkrz.de/doc/dataservices/publishing_dissemination/index.html).
 
 **Contact and Information:**
 - WDC Climate: <data@dkrz.de>
