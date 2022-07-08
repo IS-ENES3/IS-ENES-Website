@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Check out our latest newsletters"
+title: "Check out our latest newsletters 📰"
 # teaser: "Blurp."
 categories:
   - design
