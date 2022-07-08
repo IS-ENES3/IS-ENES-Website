@@ -30,9 +30,18 @@ format: page-fullwidth
 			</p>
 			{% endif %}
 
-			{{ content }}
 		</article>
 	</div><!-- /.medium-12.columns -->
+</div><!-- /.row -->
+
+{% comment %}
+*
+* If there is content, spit it out here before widgets.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
 </div><!-- /.row -->
 
 {% comment %}
@@ -66,34 +75,4 @@ format: page-fullwidth
         {% if page.widget6.image or page.widget6.video or page.widget6.title %}
                 {% include _frontpage-widget.html widget=page.widget6 %}
         {% endif %}
-</div><!-- /.row -->
-
-
-{% comment %}
-*
-* First check, if there is a call for action-button
-*
-{% endcomment %}
-{% if page.callforaction.url contains 'http' %}
-{% assign url = '' %}
-{% else %}
-{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
-{% endif %}
-{% if page.callforaction %}
-    <div class="row t60 b60">
-        <div class="small-12 text-center columns">
-            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
-        </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
-{% endif %}
-
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
 </div><!-- /.row -->
