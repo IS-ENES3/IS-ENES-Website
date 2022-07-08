@@ -449,7 +449,7 @@ Specifically, the workshop included the following topics:
 
 ### <a name="CW2020"></a>5th Workshop on Coupling Technologies for Earth System Models
 
-**Find all details about this workshop on the [ENES Portal](https://portal.enes.org/coupling-workshops-)**
+**Find all details about this workshop on the [ENES Portal](https://portal.enes.org/coupling-workshops-detailed/#CW2020)**
 
 <hr style="border:2px solid gray">
 
