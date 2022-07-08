@@ -27,6 +27,8 @@ header:
 
 **Find all details about this workshop on the [ENES Portal](https://portal.enes.org/hpc-workshops-detailed/#hpc7)**
 
+![bsc2022](../images/barcelona-2022.png)
+
 <hr style="border:2px solid gray">
 
 ### <a name="isenes3-egu2022"></a>IS-ENES3 at EGU2022
