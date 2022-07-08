@@ -56,8 +56,8 @@ Title | Type
 [IS-ENES3 Webinar on Access to CORDEX and CMIP6 climate data](https://is-enes3.github.io/IS-ENES-Website/workshops#cordex-webinar) | Internal Link
 [First IS-ENES3 virtual Autumn School on Climate data use for impact assessments](https://is-enes3.github.io/IS-ENES-Website/training#autumn-school) | Internal Link
 [IS-ENES3 Workshop: Climate indices - an Eastern European perspective](https://is-enes3.github.io/IS-ENES-Website/workshops#climate-indices) | Internal Link
-[Fifth Workshop on Coupling Technologies for Earth System Models (CW2020)](https://portal.enes.org/community/community-workshops/fifth-workshop-on-coupling-technologies-for-earth-system-models) | ENES Portal Link
-[Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling](https://portal.enes.org/community/announcements/events/joint-is-enes3-esiwace2-virtual-workshop-on-new-opportunities-for-ml-and-ai-in-weather-and-climate-modelling) | ENES Portal Link
+[Fifth Workshop on Coupling Technologies for Earth System Models (CW2020)](https://portal.enes.org/coupling-workshops-detailed/#CW2020) | ENES Portal Link
+[Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling](https://is.enes.org/workshops-detailed/#ML-AI-WS) | ENES Portal Link
 [IS-ENES3 virtual workshop on requirements for a fast and scalable evaluation workflow (18-19 May 2021)](https://is-enes3.github.io/IS-ENES-Website/workshops#fast-scalable-evaluation) | Internal Link
 
 ### AGU2019
