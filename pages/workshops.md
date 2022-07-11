@@ -27,6 +27,8 @@ header:
 
 ## Upcoming
 
+#### [2022 CF Workshop](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#cfworkshop2022)(13-15 September 2022)
+
 ## Past
 
 #### [7th ENES HPC Workshop](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#bsc2022)(09-11 May 2022)
