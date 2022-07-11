@@ -27,11 +27,11 @@ header:
 
 ## Upcoming
 
-#### [2022 CF Workshop](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#cfworkshop2022)(13-15 September 2022)
+#### [2022 CF Workshop](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#cfworkshop2022) (13-15 September 2022)
 
 ## Past
 
-#### [7th ENES HPC Workshop](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#bsc2022)(09-11 May 2022)
+#### [7th ENES HPC Workshop](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#bsc2022) (09-11 May 2022)
 #### [IS-ENES3 at EGU2022](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#isenes3-egu2022) (23-27 May 2022)
 #### [2nd Technical ESMValTool Workshop 2021](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#esmv1) (23-25 Nov 2021)
 #### [IS-ENES3 virtual 2nd General Assembly](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#isenes3ga2) (04-06 Oct 2021)
