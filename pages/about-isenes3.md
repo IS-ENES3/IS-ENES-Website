@@ -18,7 +18,7 @@ header:
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
-    image_fullwidth: "propo_2b.png"
+    image_fullwidth: "propo_1a.png"
 widget1:
   title: "Objectives"
   url: 'https://is-enes3.github.io/IS-ENES-Website/objectives/'
