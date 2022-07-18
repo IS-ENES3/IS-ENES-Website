@@ -36,7 +36,7 @@ widget3:
 widget4:
   title: "Lectures, Tutorials, and Webinars"
   url: 'https://is-enes3.github.io/IS-ENES-Website/lectures-tutorials-webinars/'
-  image: picto_Lectures_Tutorials.png
+  image: picto_Lectures-Tutorials.png
   text: 
 
 ---
