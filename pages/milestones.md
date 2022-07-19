@@ -29,6 +29,7 @@ Title | Type
 [M2.1 - New Advice Structures Active](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M2.1.pdf) | File
 [M2.2 - Innovation Plan](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M2.2.pdf) | File
 [M2.3 - Sustainability Scoping Report](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M2.3_Sustainability_Scoping_Report.pdf) | File
+[M2.4 - The adapted process to build the ENES Foresight Infrastructure Strategy](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M2.4.pdf) | File
 [M3.1 - Report on user requirements](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M3.1_User_requirements.pdf) | File
 [M3.2 - Evaluation of the IS-ENES3 online Autumn School ‘Climate data use for impact assessments’](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M3.2_vf.pdf) | File
 [M3.3 - Evaluation of the first short trainings and webinars](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M3.3_vf.pdf) | File
