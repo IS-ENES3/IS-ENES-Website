@@ -20,7 +20,7 @@ header:
     #background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
-    image_fullwidth: "banniere_Services_Data_Metadata.jpg"
+    image_fullwidth: "banniere-Data_Metadata.jpg"
 widget1:
   title: "Which Model Data?"
   url: 'https://is-enes3.github.io/IS-ENES-Website/sdm-which-model-data/'
