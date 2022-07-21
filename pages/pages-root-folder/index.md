@@ -10,7 +10,7 @@ header:
     # background-color: "#186F4D;"
     # caption: This is a caption for the header image with link
     # caption_url: https://unsplash.com/
-    image_fullwidth: "banniere_HomePage_2.jpg"
+    image_fullwidth: "banniere_HomePage_1.jpg"
 widget1:
   title: "Workshops"
   url: 'https://is-enes3.github.io/IS-ENES-Website/workshops/'
