@@ -1,6 +1,5 @@
 ---
 layout: page-fullwidth-4widgets
-title: Dissemination
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/dissemination/"
@@ -17,7 +16,7 @@ header:
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
-    image_fullwidth: "propo_2a_flatten.png"
+    image_fullwidth: "banniere_dissemination.jpg"
 widget1:
   title: "Deliverables and Milestones"
   url: 'https://is-enes3.github.io/IS-ENES-Website/deliverables-milestones/'
