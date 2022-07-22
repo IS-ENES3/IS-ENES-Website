@@ -1,6 +1,5 @@
 ---
 layout: page-fullwidth
-title: "Services on Models and Tools"
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/services-models-tools/"
@@ -17,7 +16,7 @@ header:
     #background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
-    image_fullwidth: "propo_4a.png"
+    image_fullwidth: "banniere_models_tools.jpg"
 widget1:
   title: "European Earth System Models"
   url: 'https://is-enes3.github.io/IS-ENES-Website/smt-european-esms/'
