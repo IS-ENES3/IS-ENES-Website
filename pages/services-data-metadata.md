@@ -1,7 +1,6 @@
 ---
 layout: page-fullwidth-4widgets
 show_meta: false
-title: "Services on Data and Metadata"
 #subheadline: "data&Metadata"
 #teaser: "This tells you all about ISENES3 services related to data&metadata."
 header:
@@ -20,7 +19,7 @@ header:
     #background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
-    image_fullwidth: "banniere-Data_Metadata.jpg"
+    image_fullwidth: "banniere_data_metadata.jpg"
 widget1:
   title: "Which Model Data?"
   url: 'https://is-enes3.github.io/IS-ENES-Website/sdm-which-model-data/'
