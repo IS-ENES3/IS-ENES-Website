@@ -19,7 +19,7 @@ header:
     background-color: "#0B59FF;"  # dark blue
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
-    #image_fullwidth: "Banner_website_IS-ENES3.png"
+    #image_fullwidth: "banniere_about_is-enes.jpg"
 
 ---
 
