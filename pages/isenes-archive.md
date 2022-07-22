@@ -1,6 +1,5 @@
 ---
 layout: page-fullwidth
-title: "IS-ENES Archive"
 # subheadline: "An introduction to ISENES3"
 header:
    image_fullwidth: "header_homepage_13.jpg"
@@ -18,7 +17,7 @@ header:
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
-    image_fullwidth: "propo_3a.png"
+    image_fullwidth: "banniere_archive.jpg"
 widget1:
   title: "IS-ENES Phase 1"
   url: 'https://is-enes3.github.io/IS-ENES-Website/isenes-phase-1/'
