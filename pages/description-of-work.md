@@ -19,7 +19,7 @@ header:
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
-    image_fullwidth: "Bbanniere-about.jpg"
+    image_fullwidth: "banniere-about.jpg"
 
 ---
 
