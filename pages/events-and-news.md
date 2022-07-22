@@ -1,6 +1,5 @@
 ---
 layout: page-fullwidth-4widgets
-title: "Events and News"
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/events-and-news/"
@@ -17,7 +16,7 @@ header:
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
-    image_fullwidth: "banniere-events.jpg"
+    image_fullwidth: "banniere_about_is-enes.jpg"
 widget1:
   title: "Access Calls"
   url: 'https://is-enes3.github.io/IS-ENES-Website/access-calls/'
