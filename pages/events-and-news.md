@@ -16,7 +16,7 @@ header:
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
-    image_fullwidth: "banniere_about_is-enes.jpg"
+    image_fullwidth: "banniere_events.jpg"
 widget1:
   title: "Access Calls"
   url: 'https://is-enes3.github.io/IS-ENES-Website/access-calls/'
