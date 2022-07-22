@@ -40,4 +40,4 @@ widget4:
 
 ---
 
-## Watch our training and workshops on [YouTube](https://is-enes3.github.io/IS-ENES-Website/lectures-tutorials-webinars/) !
+**Watch our training and workshops on [YouTube](https://is-enes3.github.io/IS-ENES-Website/lectures-tutorials-webinars/) !**
