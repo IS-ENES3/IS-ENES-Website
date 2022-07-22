@@ -18,7 +18,7 @@ header:
     background-color: "#186F4D;"
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
-    image_fullwidth: "Banner_website_IS-ENES3.png"
+    image_fullwidth: "banniere_dissemination.jpg"
 widget1:
   title: "Climate Impact School"
   url: "https://www.youtube.com/watch?v=_42ltTQzY30&list=PLFvev1W5vG7NDEZhxObXDd1Bc5rnBpYrk"
