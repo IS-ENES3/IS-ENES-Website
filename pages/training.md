@@ -31,6 +31,7 @@ header:
 
 ## Past
 
+#### [Introduction to ESMValTool: a tool for evaluation of climate model data - Webinar and Online Workshop](https://is-enes3.github.io/IS-ENES-Website/training-detailed#esmvaltool-training) (13th and 27 June 2022)
 #### [IS-ENES3 Eastern Europe Spring Schools on Climate data and Impact assessments](https://is-enes3.github.io/IS-ENES-Website/training-detailed#ee-school) (17-19 May 2022)
 #### [IS-ENES3 Virtual clinic on bias-adjustment of climate model data](https://is-enes3.github.io/IS-ENES-Website/training-detailed#virt-clinic) (14-21 Oct 2021)
 #### [XIOS training sessions](https://is-enes3.github.io/IS-ENES-Website/training-detailed#xios) (15 Mar 2021 - 16 Apr 2021)
