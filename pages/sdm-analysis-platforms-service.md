@@ -76,7 +76,7 @@ Data and resources are continuously updated. A complete data pool might be in th
 
 ### Application procedure 
 
-Find the access provider(s) that host the data that you would like to directly access (see the resources descriptions and data catalogues above) and follow the instructions here. It is possible to perform test activities before the application to get familiar with the High Performance Computing environment, we can provide some preliminary CPU hours at your preferred host, just contact us, see the contact of all of the access providers in the section above. For test activities using the DKRZ Jupyterhub, please apply to the ENES Climate Analytic Service ([ECAS](https://is-enes3.github.io/IS-ENES-Website/sdm-climate-analytics-data).
+Find the access provider(s) that host the data that you would like to directly access (see the resources descriptions and data catalogues above) and follow the instructions here. It is possible to perform test activities before the application to get familiar with the High Performance Computing environment, we can provide some preliminary CPU hours at your preferred host, just contact us, see the contact of all of the access providers in the section above. For test activities using the DKRZ Jupyterhub, please **apply to the ENES Climate Analytic Service ([ECAS](https://is-enes3.github.io/IS-ENES-Website/sdm-climate-analytics-data))**.
 
 ### Timeline
 
