@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Privacy Policy
+title: Credits
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/privacy/"
+permalink: "/credits/"
 categories:
     - design
 tags:
