@@ -19,7 +19,7 @@ header:
     background-color: "#0B59FF;"  # dark blue
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
-    #image_fullwidth: "banniere_about_is-enes.jpg"
+    image_fullwidth: "banniere_about_is-enes.jpg"
 
 ---
 For the climate research community in Europe, models and tools make up the main research infrastructure for pushing forward the boundaries of climate science. This networking work-package is required to ensure that the partners develop those models and tools in a sustainable way for the benefit of as wide a community as possible based on user requirements. This IS-ENES3 Networking Activity differs compared with the objectives of ISENES2 both through a new work-package structure and through a greater emphasis on Networking Activities supporting the Joint Research Activities.
