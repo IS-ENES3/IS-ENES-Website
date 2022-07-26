@@ -20,7 +20,7 @@ header:
     background-color: "#0B59FF;"  # dark blue
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
-    #image_fullwidth: "banniere_accueil_enes.jpg"
+    image_fullwidth: "banniere_accueil_enes.jpg"
 ---
 
 ![typewriter](../images/typewriter-thumb.jpg)
