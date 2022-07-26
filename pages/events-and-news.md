@@ -34,7 +34,7 @@ widget3:
   text: 'Past and upcoming workshops, technical meetings and general assemblies'
 widget4:
   title: "Newsletters"
-  url: 'https://is-enes3.github.io/IS-ENES-Website/design/newsletters/'
+  url: 'https://is.enes.org/newsletters/'
   image: picto_Newsletters.png
   text: 'Our newsletters'
 

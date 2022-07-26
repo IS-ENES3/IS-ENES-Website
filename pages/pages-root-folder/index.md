@@ -24,7 +24,7 @@ widget2:
   # video: '<a href="#" data-reveal-id="videoModal"><img src="https://is-enes3.github.io/IS-ENES-Website/images/porsche962Cvideo.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Newsletter"
-  url: 'https://is-enes3.github.io/IS-ENES-Website/design/newsletters/'
+  url: 'https://is-enes3.github.io/IS-ENES-Website/newsletters/'
   image: picto_Newsletters.png
 permalink: /index.html
 homepage: true
