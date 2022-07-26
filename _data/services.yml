@@ -11,3 +11,7 @@
 - name: "Privacy Policy"
   url: "/privacy/"
   title: "IS-ENES3 Privacy Policy"
+
+- name: "Credits"
+  url: "/credits/"
+  title: "Site and photo credits"
