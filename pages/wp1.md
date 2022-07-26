@@ -4,7 +4,7 @@ title: "WP1: Coordination, dissemination and management of IS-ENES3"
 # subheadline: ISENES3 Work Summary
 # teaser: The work we do in ISENES3
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "banniere_archive.jpg"
 permalink: "/wp1/"
 categories:
     - design
