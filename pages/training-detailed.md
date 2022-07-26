@@ -24,10 +24,10 @@ header:
 ---
 
 ### <a name="esmvaltool-training"></a>Introduction to ESMValTool: a tool for evaluation of climate model data - Webinar and online workshop 
- - **Webinar : June 13th 2022, 10:00-11:30am CEST
+ - **Webinar : June 13th 2022, 10:00-11:30am CEST**
  - **Online Workshop: June 27th 2022, 1:00-5:00pm CEST **
 
-![esmvaltooltrainings](../images/ESMValTool-Webinar-and-Workshop-VF-resized.png)
+![esmvaltooltrainings](../images/ESMValTool-Webinar-and-Workshop-VF-resized2.png)
 
 The Earth System Model Evaluation Tool ([ESMValTool](https://esmvaltool.org/)) is a tool developed for evaluation of Earth System Models in CMIP (Climate Model Intercomparison Projects). It allows for routine comparison of single or multiple models, either against predecessor versions or against observations. It was developed especially to support climate model researchers, however, results from ESMValTool may also be useful for a broader range of users, especially those working on climate impacts and climate adaptation.
 
