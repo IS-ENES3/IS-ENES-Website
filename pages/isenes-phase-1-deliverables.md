@@ -23,7 +23,7 @@ header:
 
 ---
 
-Title | 
+
 :----:|:--------:
 
 [D2.2 - Policy position paper on "Climate data needs in support of the EU Climate Adaptation Strategy"](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES_D2.2.pdf) |
