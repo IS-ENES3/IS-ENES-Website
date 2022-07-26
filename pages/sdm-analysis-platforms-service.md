@@ -21,9 +21,9 @@ header:
 
 **Apply for direct access to compute facilities:**
 
-**- 1. Discover the model data you are interested on**
-**- 2. Run your scripts in the supercomputer**
-**- 3. Download the results**
+- 1. **Discover the model data you are interested on**
+- 2. **Run your scripts in the supercomputer**
+- 3. **Download the results**
 
 The ENES e-infrastructure project IS-ENES3 [H2020-INFRAIA](https://cordis.europa.eu/project/id/824084) addresses the Coupled Model Intercomparison Project ([CMIP](https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6)) challenges by developing, documenting, and deploying new and advanced models and tools, standards, and services to deal with unprecedented data volumes and model complexity. Data near processing capabilities at the IS-ENES3 High Performance Computing centers are now made accessible to a broader user community via the new Trans-national Access (TA) service.
 
@@ -35,20 +35,6 @@ Fifth Call Deadline: 20 December 2021
 
 (pre-access test activities are also possible)
 
- 
-
-Visit the demos
-
-       
-
-Run your multimodel comparison
-
-
-
-Calculate a climate index
-
-
-
 ### New server-side workflow for Big Data
 
 Server-side processing workflows significantly reduce the typical issues occurring in classical client-side workflows: heavy data transfer, strong memory requirements, and slow sequential processing. Server-side processing is therefore especially beneficial for Big Data users with low network bandwidth or limited access to high performance facilities.
@@ -59,7 +45,7 @@ The new IS-ENES3 processing capabilities support multi-model server-side data an
 
 **DKRZ:**
 
-- > 5 PByte of CMIP6, CMIP5 and CORDEX data onlie + >10 PByte archived data, besides some CMIP related projects (Obs4Mips,..), all data browsable at the specific catalogue (see the section below) that can be extended on demand,
+- 5 PByte of CMIP6, CMIP5 and CORDEX data onlie + >10 PByte archived data, besides some CMIP related projects (Obs4Mips,..), all data browsable at the specific catalogue (see the section below) that can be extended on demand,
 - access to interactive pre- and post- processing nodes as well as batch system access to the HPC system,
 - 100 TB of temporary storage,
 - 6400 CPU hours per call.
@@ -90,7 +76,7 @@ Data and resources are continuously updated. A complete data pool might be in th
 
 ### Application procedure 
 
-Find the access provider(s) that host the data that you would like to directly access (see the resources descriptions and data catalogues above) and follow the instructions here. It is possible to perform test activities before the application to get familiar with the High Performance Computing environment, we can provide some preliminary CPU hours at your preferred host, just contact us, see the contact of all of the access providers in the section above. For test activities using the DKRZ Jupyterhub, please apply to the ENES Climate Analytic Service ([ECAS][ADD LINK]).
+Find the access provider(s) that host the data that you would like to directly access (see the resources descriptions and data catalogues above) and follow the instructions here. It is possible to perform test activities before the application to get familiar with the High Performance Computing environment, we can provide some preliminary CPU hours at your preferred host, just contact us, see the contact of all of the access providers in the section above. For test activities using the DKRZ Jupyterhub, please apply to the ENES Climate Analytic Service ([ECAS](https://is-enes3.github.io/IS-ENES-Website/sdm-climate-analytics-data).
 
 ### Timeline
 
