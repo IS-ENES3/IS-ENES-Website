@@ -23,6 +23,34 @@ header:
 
 ---
 
+### <a name="esmvaltool-training"></a>Introduction to ESMValTool: a tool for evaluation of climate model data - Webinar and online workshop 
+ - **Webinar : June 13th 2022, 10:00-11:30am CEST
+ - **Online Workshop: June 27th 2022, 1:00-5:00pm CEST **
+
+![esmvaltooltrainings](../images/ESMValTool-Webinar-and-Workshop-VF-resized.png)
+
+The Earth System Model Evaluation Tool ([ESMValTool](https://esmvaltool.org/)) is a tool developed for evaluation of Earth System Models in CMIP (Climate Model Intercomparison Projects). It allows for routine comparison of single or multiple models, either against predecessor versions or against observations. It was developed especially to support climate model researchers, however, results from ESMValTool may also be useful for a broader range of users, especially those working on climate impacts and climate adaptation.
+
+- **Webinar**
+
+In order to make the ESMValTool results known to a broader public, a webinar is organized on **June 13th from 10:00-11:30 AM**. 
+
+During this webinar Klaus Zimmermann from SMHI will give an introduction to the ESMValTool (history of the tool, how it works, where results of the evaluations can be found, and how the results could be used, also by a wider range of users) followed by a time for questions. 
+
+- **Online workshop**
+
+For those interested to learn how to do evaluations themselves, an online workshop will be organized on **June 27th from 13:00-17:00 CEST**. 
+
+If you do not join the webinar, you can still register for this workshop. Remi Kazeroni from DLR and some colleagues will give support on installing and running ESMValTool. We will guide you through the official [ESMValTool Tutorial](https://esmvalgroup.github.io/ESMValTool_Tutorial/), which consists of a mix of lessons and exercises. You will get temporary accounts to access [Levante](https://docs.dkrz.de/doc/levante/index.html), an HPC supercomputer at DKRZ, Hamburg, Germany. The ESMValTool is installed for these accounts and all necessary data sets are available. We will use [Jupyterhub](https://jupyterhub.dkrz.de/hub/login?next=%2Fhub%2Fhome) and [Jupyterlab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html) to conveniently access Levante through your browser. No additional preparation is necessary; just make sure that your browser [supports Jupyterlab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html#supported-browsers). Requirements for the workshop: personal computer/laptop with an up-to-date browser (Firefox, Chrome, or Safari).
+
+***Limited to 25 participants***.
+
+- **EGU Session**
+
+There will also be a short course on how to use ESMValTool within a Jupyter notebook on May 25th at EGU2022, which can be found at session [SC5.14](https://meetingorganizer.copernicus.org/EGU22/session/43187).
+
+<hr style="border:2px solid gray">
+
 ### <a name="ee-school"></a>IS-ENES3 Eastern Europe Spring Schools on Climate data and Impact assessments
 - open when: **May 17, 2022**
 - duration: **May 17, 2022 08:30 AM to May 19, 2022 07:00 PM (Europe/Vienna / UTC200)**
