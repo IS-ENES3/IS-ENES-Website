@@ -25,7 +25,7 @@ header:
 
 ### <a name="esmvaltool-training"></a>Introduction to ESMValTool: a tool for evaluation of climate model data - Webinar and online workshop 
  - **Webinar : June 13th 2022, 10:00-11:30am CEST**
- - **Online Workshop: June 27th 2022, 1:00-5:00pm CEST **
+ - **Online Workshop: June 27th 2022, 1:00-5:00pm CEST**
 
 ![esmvaltooltrainings](../images/ESMValTool-Webinar-and-Workshop-VF-resized2.png)
 
