@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Credits
-header:
-   image_fullwidth: "header_homepage_13.jpg"
 permalink: "/credits/"
 categories:
     - design
@@ -10,12 +8,9 @@ tags:
     - design
     - background color
     - header
-#header:
-    #background-color: "#186F4D"
 header:
     #title: Credits
-    # background-color: "#186F4D;"
-    image_fullwidth: "banniere_accueil_enes.jpg"
+    image_fullwidth: "banniere_accueil_is-enes.jpg"
 
 ---
 
@@ -26,18 +21,18 @@ This site was built by Sophie Morellon, Fanny Adloff, and Valeriu Predoi.
 ### Images credits
 
 - « Welcome page » banner picture
-  Photo by NASA on Unsplash 
+  - Photo by NASA on [Unsplash](https://unsplash.com)
 - « About IS-ENES » banner picture
-  Earth: CEA – Frédéric Durillon – www.animea.com
+  - Earth: CEA – Frédéric Durillon – <www.animea.com>
 - « Events and News » banner picture
-  Photo by Aditya Rathod on Unsplash 
+  - Photo by Aditya Rathod on [Unsplash](https://unsplash.com)
 - « Services on Models and Tools » banner picture
-  SeaWiFS Project (NASA/GSFC & Orbimage)
+  - SeaWiFS Project (NASA/GSFC & Orbimage)
 - « Services on Data and Metadata » banner picture
-  Photo by shawnanggg on Unsplash
+  - Photo by shawnanggg on [Unsplash](https://unsplash.com)
 - « Dissemination » banner picture
-  Photo by Rick Sykes @ EGEMS Ltd. on Unsplash 
+  - Photo by Rick Sykes @ EGEMS Ltd. on [Unsplash](https://unsplash.com)
 - « Archive » banner picture
-  Renata Romeo / Ocean Image Bank
+  - Renata Romeo / Ocean Image Bank
 
 Banners and pictograms designed by Carole Petetin: <https://carolepetetin.com/>
