@@ -21,9 +21,9 @@ This site was built by Sophie Morellon, Fanny Adloff, Sylvie Joussaume and Valer
 ### Images credits
 
 - « Welcome page » banner picture
-  - Photo by NASA on [Unsplash](https://unsplash.com)
-- « About IS-ENES » banner picture
   - Earth: CEA – Frédéric Durillon – [www.animea.com](https://www.animea.com/)
+- « About IS-ENES » banner picture
+  - Photo by NASA on [Unsplash](https://unsplash.com)
 - « Events and News » banner picture
   - Photo by Aditya Rathod on [Unsplash](https://unsplash.com)
 - « Services on Models and Tools » banner picture
