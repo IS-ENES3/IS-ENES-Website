@@ -22,6 +22,20 @@ header:
     image_fullwidth: "banniere-events.jpg"
 
 ---
+### <a name="cf-training"></a>CF conventions virtual training
+- Date: **September 8th, 2022**
+
+There will be a **CF conventions virtual training event** on **Thursday 08 September 2022, 15:00-18:00 UTC**. 
+This will be the first in a series of training sessions organized by and for the CF community. It is aimed primarily at users new or fairly new to CF, and may also be useful to those with more experience. 
+
+Full details of the programme can be found at <https://cfconventions.org/Training/2022-Training-Workshop.html>
+
+The Climate and Forecast metadata conventions (CF) are a community-developed standard designed to promote the processing and sharing of climate and forecast model and observational output data, and derived data products. The conventions define metadata that provide a definitive description of what the data in each variable represents, and the spatial and temporal properties of the data. This enables users of data from different sources to decide which quantities are comparable, and facilitates building applications with powerful extraction, regridding, and display capabilities. The CF convention includes a standard name table, which defines strings that identify physical quantities.
+
+There are no registration fees for the training session. 
+You can register **[here](https://docs.google.com/forms/d/e/1FAIpQLSfl6Gn_rCrDjeCKetZtrNtn2ytohU3CEO9d4ejmyB2AnDBMqg/viewform)**. (This is also the form to use for registration at the 2022 CF workshop, however there is no obligation to also attend the workshop and it is fine if you only want to attend the training session).
+
+<hr style="border:2px solid gray">
 
 ### <a name="esmvaltool-training"></a>Introduction to ESMValTool: a tool for evaluation of climate model data - Webinar and online workshop 
  - **Webinar : June 13th 2022, 10:00-11:30am CEST**
