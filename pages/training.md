@@ -27,6 +27,7 @@ header:
 
 ## Upcoming
 
+#### [CF conventions virtual training](https://is-enes3.github.io/IS-ENES-Website/training-detailed#cf-training) (08 Sep 2022)
 #### [IS-ENES3 Data Science Summer School](https://is-enes3.github.io/IS-ENES-Website/training-detailed#ds-school) (01-07 Sep 2022)
 
 ## Past
