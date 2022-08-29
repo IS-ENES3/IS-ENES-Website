@@ -23,6 +23,22 @@ header:
 
 ---
 
+### <a name="cw2023"></a>Sixth Workshop on Coupling Technologies for Earth System Models (CW2023)
+
+The 6th Workshop on Coupling Technologies for Earth System Models (CW2023) will be held on **January 18-20, 2023** at the “Centre International de Conférences” on Météo-France campus in **Toulouse, France**. The workshop will be held in a **hybrid format** with remote attendance possible.
+
+Find all information on the [official webpage](https://portal.enes.org/coupling-workshops/). 
+
+<hr style="border:2px solid gray">
+
+### <a name="final-ga"></a>IS-ENES3 Final General Assembly
+
+The project Final General Assembly will be held on **January 16-18, 2023** at the “Centre International de Conférences” on Météo-France campus in **Toulouse, France**. The workshop will be held in a **hybrid format** with remote attendance possible.
+
+Further information will be provided in the coming weeks.
+
+<hr style="border:2px solid gray">
+
 ### <a name="cfworkshop2022"></a>2022 CF Workshop
 
 2022 CF Workshop will take place on 13-15 September 2022 hosted by [IFCA](https://ifca.unican.es/en-us) at Santander (Spain). After 2 successful virtual editions (2020 and 2021), the 2022 edition is organized as a hybrid event having in-person and on-line participants.
