@@ -36,6 +36,7 @@ Title | Type
 [M3.5 - Workshop on climate indices - Eastern Europe perspective](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M3.5_vf.pdf) | File
 [M4.1 - Development strategy workshop for European Platform for Sea Ice modelling](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M4.1_VF_wp.pdf) | File
 [M4.2 - New Technical Opportunities workshop in ML and AI](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M4.2_vf.pdf) | File
+[M4.3 - 7th ENES HPC workshop report](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M4.3.pdf) | File
 [M5.1 - Draft Architecture Design](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M5.1_Draft_Architecture_Design.pdf) | File
 [M5.2 - ESGF CMIP6 Summary](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M5.2_ESGF_CMIP6_Summary.pdf) | File
 [M5.3 - Requirements for technical standards for diagnostic tools](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M5.3_Requirements_for_technical_standards_for_diagnostic_tools.pdf) | File
