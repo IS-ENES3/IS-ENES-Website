@@ -83,9 +83,24 @@ The aim of the schools is to:
 
 <hr style="border:2px solid gray">
 
+### <a name="oasis-training"></a>IS-ENES3 Webinar: Code coupling: general concepts and latest news of the OASIS3-MCT coupler
+- **May 5th, 2022, 10:00-11:00 AM CEST**
+
+![oasistraining](../images/OASIS-MCT-3-resized.png)
+
+This webinar, first of a series of IS-ENES3 webinars, is organised by [CERFACS](https://cerfacs.fr/en/) to answer all questions you may have about code coupling and never dared to ask !
+
+The webinar will:  
+- Present how different possible implementations of a coupled application impact its global performance
+- Describe the different technical solutions and software available for code coupling in climate modelling
+- Give a general overview of the **[OASIS3-MCT coupler](https://oasis.cerfacs.fr/en/)**, describing its latest improvements achieved in the framework of the IS-ENES3 project
+
+**You can find the recording of the webinar [here](https://www.youtube.com/watch?v=SfskX5wKugM) and download the full presentation [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/20220505_WebinarCodeCoupling.pdf).**
+
+<hr style="border:2px solid gray">
+
 ### <a name="ds-school"></a>IS-ENES3 Data Science Summer School
-- open when: **Sep 01, 2022**
-- duration: **Sep 01, 2022 09:00 AM to Sep 07, 2022 05:00 PM (Europe/Vienna / UTC200)**
+- **Sep 01, 2022 09:00 AM to Sep 07, 2022 05:00 PM (Europe/Vienna / UTC200)**
 
 **At a glance** |
 :--------------:|:------------:
