@@ -117,7 +117,15 @@ Title | Type
 [Model evaluation expectations of European ESM communities: first results from a survey](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/SurveyEGU_v2.pdf) | PDF File
 
 ### EGU2022
-*Future*
+
+Title | Type
+:----:|:----:
+[Better Tailoring of Climate Information for End Users using Targeted Interfaces and Tools](https://zenodo.org/record/7092729#.YyhjSHZBw2w) | Zenodo Link
+[Storage growth mitigation through data analysis ready climate datasets using HDF5 Virtual Dataset](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/presentacion.pdf) | PDF File
+[ENES Data Space: an open, cloud-enabled data science environment for climate analysis](https://zenodo.org/record/7092782#.Yyhm9HZBw2w) | Zenodo Link
+[CPMIP: Computational evaluation of the new era of complex Earth System Models. Multi-model results from CMIP6 and challenges for the exascale computing](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/EGU2022_CPMIP_MarioAcosta.pdf) | PDF File
+[Emergence of a sub-ice platelet layer in mushy-layer sea ice model simulations](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Vancoppenolle_EGU22_compressed.pdf) | PDF File
+[Drivers of Antarctic sea-ice advance date](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/EGU22_KenzaHIMMICH.pdf) | PDF File
 
 ### EMS2021
 
