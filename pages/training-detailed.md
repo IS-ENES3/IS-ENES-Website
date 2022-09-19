@@ -59,6 +59,8 @@ If you do not join the webinar, you can still register for this workshop. Remi K
 
 ***Limited to 25 participants***.
 
+**You can download the workshop Introduction presentation [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESMValTool-Intro-Tutorial-ISENES3-June-2022_v2.pdf).**
+
 - **EGU Session**
 
 There will also be a short course on how to use ESMValTool within a Jupyter notebook on May 25th at EGU2022, which can be found at session [SC5.14](https://meetingorganizer.copernicus.org/EGU22/session/43187).
