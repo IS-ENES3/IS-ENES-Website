@@ -73,3 +73,6 @@ header:
 - [SWIRRL. Managing Provenance-aware and Reproducible Workspaces](https://direct.mit.edu/dint/article/doi/10.1162/dint_a_00129/109846/SWIRRL-Managing-Provenance-aware-and-Reproducible)
   - Alessandro Spinuso et al.
   - Published on 7 March 2022. 
+- [Benchmarking Regridding Libraries Used in Earth System Modelling](https://www.mdpi.com/2297-8747/27/2/31)
+  - S. Valcke, A. Piacentini, G. Jonville
+  - Published on 1 April 2022. 
