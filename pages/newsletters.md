@@ -9,6 +9,8 @@ header:
 
 ---
 
+#### [Newsletter 11 - September 2022](https://mailchi.mp/f8195f27c97f/is-enes3-newsletter-september-2022?e=669a346a59)
+
 #### [Newsletter 10 - March 2022](https://mailchi.mp/4dec2a91d400/is-enes3-march-15926664?e=669a346a59)
 
 #### [Newsletter 9 - December 2021](https://mailchi.mp/b42fb96ebb9f/is-enes3-newsletter-march-13472968?e=%5BUNIQID%5D)
