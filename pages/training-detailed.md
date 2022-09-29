@@ -22,6 +22,18 @@ header:
     image_fullwidth: "banniere-events.jpg"
 
 ---
+
+### <a name="ee-school"></a>IS-ENES3 Eastern Europe Autumn School on Climate Data and Impact Assessments
+- Date: **28-30 November 2022**
+
+An **IS-ENES3 Eastern Europe Autumn School on Climate data and Impact assessments** will be organised by [Charles Universit](https://cuni.cz/uken-1.html)y, in collaboration with the [Faculty of Physics of Belgrade](http://www.bg.ac.rs/en/members/faculties/PHY.php) and [KNMI](https://www.knmi.nl/home), on 28-30 November 2022 in Prague (Czech Republic).
+
+**Students will get to learn how to use tools to analyze and process climate data for climate change impact and adaptation studies** through lectures and practical exercises. Open specifically to climate and impact researchers and students from Central, Eastern and Southeastern Europe, this school aims at providing the necessary knowledge for interdisciplinary impact/adaptation studies on climate change, as well as fostering networking between students.
+
+The complete school program and registration procedure will be provided soon, stay tuned !
+
+<hr style="border:2px solid gray">
+
 ### <a name="cf-training"></a>CF conventions virtual training
 - Date: **September 8th, 2022**
 
