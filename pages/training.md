@@ -27,7 +27,7 @@ header:
 
 ## Upcoming
 
-
+#### [IS-ENES3 Eastern Europe Autumn School on Climate Data and Impact Assessments](https://is-enes3.github.io/IS-ENES-Website/training-detailed#ee-school) (28-30 Nov 2022)
 
 ## Past
 
