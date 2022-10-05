@@ -82,7 +82,7 @@ As an individual whose personal data are gathered as part of the aforementioned 
 
 If you have any queries concerning the processing of your personal data, you may address them at the following email: <is-enes@ipsl.fr>
 
-For any data related to the use of the IS-ENES3 website and the IS-ENES3 mailing lists, which are tools from the Deutsches Klimarechenzentrum (DKRZ), please see the [DKRZ private policy](https://www.dkrz.de/about-en/contact/en-datenschutzhinweise).
+For any data related to the use of the IS-ENES3 mailing lists, which are tools from the Deutsches Klimarechenzentrum (DKRZ), please see the [DKRZ private policy](https://www.dkrz.de/about-en/contact/en-datenschutzhinweise).
 
 #### (1) Processing of personal data by the Commission
 
