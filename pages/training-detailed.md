@@ -34,7 +34,7 @@ Since climate and impact researchers/students have different levels of backgroun
 
 Special occasion is given to participants to attend the final meeting with selected presentations of CORDEX FPS Convection (to be held last three days of the schools),  where they can get acquainted with the up-to-date activity in dynamical downscaling in very high resolution, so-called convection permitting access to the modelling, describing convection explicitly without parameterization.
 
-The aim of the schools is to:
+**The aim of the schools is to**:
 - get deeper insight on the issue of climate projections and up-to-date directions in downscaling of them for regional and local climate change impacts studies
 - get more knowledge about the various types and sources of climate data and tools/methods to analyse/process them and get experience in using these tools/methods/data
 - learn what is needed for interdisciplinary impact/adaptation studies on climate change
