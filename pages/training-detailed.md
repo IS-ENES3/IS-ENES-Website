@@ -23,14 +23,24 @@ header:
 
 ---
 
-### <a name="ee-school"></a>IS-ENES3 Eastern Europe Autumn School on Climate Data and Impact Assessments
-- Date: **28-30 November 2022**
+### <a name="eastern-europe-school"></a>IS-ENES3 Central & Eastern Europe Autumn Schools “From Climate Projections to Climate impacts via Regional Downscaling”
+- From **28 November - 2 December 2022**
 
-An **IS-ENES3 Eastern Europe Autumn School on Climate data and Impact assessments** will be organised by [Charles Universit](https://cuni.cz/uken-1.html)y, in collaboration with the [Faculty of Physics of Belgrade](http://www.bg.ac.rs/en/members/faculties/PHY.php) and [KNMI](https://www.knmi.nl/home), on 28-30 November 2022 in Prague (Czech Republic).
+The [Charles University](https://cuni.cz/uken-1.html), Faculty of Mathematics and Physics, Department of Atmospheric Physics, within the project IS-ENES3, with cooperation of [KNMI](https://www.knmi.nl/home) and the [Faculty of Physics of Belgrade](http://www.bg.ac.rs/en/members/faculties/PHY.php), **organises two parallel schools (with common days to CORDEX FPC Convection final General Assembly)** targeted to **climate and impact researchers from Central and Eastern Europe** on **28 November till 2 December 2022 in Prague (Czech Republic)**, [hotel Krystal](https://www.centrum-krystal.cz).
 
-**Students will get to learn how to use tools to analyze and process climate data for climate change impact and adaptation studies** through lectures and practical exercises. Open specifically to climate and impact researchers and students from Central, Eastern and Southeastern Europe, this school aims at providing the necessary knowledge for interdisciplinary impact/adaptation studies on climate change, as well as fostering networking between students.
+Climate change is one of the biggest challenges in our times. To be able to do climate change impact studies and to adapt to climate change, the understanding of the climate system behaviour - especially in higher resolution considering local conditions - is essential, and knowledge on climate data and experience on processing and analyzing climate data is needed. The main source of future data are climate projections, and we rely on regional downscaling for high resolution information. During the school, climate and impact researchers and students will get lectures on climate models and downscaling methods, on tools to analyze and process climate data and how to apply them for impact studies. This is combined with information where and how to access the necessary data, as well as dedicated time for tutorials and practical exercises in order to get experience with these data and tools.
 
-The complete school program and registration procedure will be provided soon, stay tuned !
+Since climate and impact researchers/students have different levels of background knowledge about climate, during the first two days the participants get different lectures and tools to work with. Starting the third day, climate and impact researchers/students will work together on an impact study.
+
+Special occasion is given to participants to attend the final meeting with selected presentations of CORDEX FPS Convection (to be held last three days of the schools),  where they can get acquainted with the up-to-date activity in dynamical downscaling in very high resolution, so-called convection permitting access to the modelling, describing convection explicitly without parameterization.
+
+The aim of the schools is to:
+- get deeper insight on the issue of climate projections and up-to-date directions in downscaling of them for regional and local climate change impacts studies
+- get more knowledge about the various types and sources of climate data and tools/methods to analyse/process them and get experience in using these tools/methods/data
+- learn what is needed for interdisciplinary impact/adaptation studies on climate change
+- create/broaden network on climate change and impact assessments
+
+More information will be provided soon. 
 
 <hr style="border:2px solid gray">
 
