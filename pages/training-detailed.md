@@ -40,7 +40,7 @@ Special occasion is given to participants to attend the final meeting with selec
 - learn what is needed for interdisciplinary impact/adaptation studies on climate change
 - create/broaden network on climate change and impact assessments
 
-More information will be provided soon. 
+Accommodation in double rooms and lunches will be covered by the organizers. Travel costs and dinners will be covered by participants.
 
 <hr style="border:2px solid gray">
 
