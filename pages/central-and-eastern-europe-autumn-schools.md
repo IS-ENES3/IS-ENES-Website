@@ -25,6 +25,8 @@ header:
 
 ---
 
+![pragueschool](../images/Prague_school_banner_v2_jpeg.jpg)
+
 ### <a name="eastern-europe-school"></a>IS-ENES3 Central & Eastern Europe Autumn Schools “From Climate Projections to Climate impacts via Regional Downscaling”
 - From **28 November - 2 December 2022**
 
