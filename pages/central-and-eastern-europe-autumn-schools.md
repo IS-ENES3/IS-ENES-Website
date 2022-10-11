@@ -27,8 +27,6 @@ header:
 
 ![pragueschool](../images/Prague_school_banner_v2_jpeg.jpg)
 
-### <a name="eastern-europe-school"></a>IS-ENES3 Central & Eastern Europe Autumn Schools “From Climate Projections to Climate impacts via Regional Downscaling”
-- From **28 November - 2 December 2022**
 
 The [Charles University](https://cuni.cz/uken-1.html), Faculty of Mathematics and Physics, Department of Atmospheric Physics, within the project IS-ENES3, with cooperation of [KNMI](https://www.knmi.nl/home) and the [Faculty of Physics of Belgrade](http://www.bg.ac.rs/en/members/faculties/PHY.php), **organises two parallel schools (with common days to CORDEX FPC Convection final General Assembly)** targeted to **climate and impact researchers from Central and Eastern Europe** on **28 November till 2 December 2022 in Prague (Czech Republic)**, [hotel Krystal](https://www.centrum-krystal.cz).
 
