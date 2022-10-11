@@ -27,7 +27,7 @@ header:
 
 ## Upcoming
 
-#### [IS-ENES3 Central & Eastern Europe Autumn Schools “From Climate Projections to Climate impacts via Regional Downscaling”](https://is-enes3.github.io/IS-ENES-Website/training-detailed#eastern-europe-school) (28 Nov-2 Dec 2022)
+#### [IS-ENES3 Central & Eastern Europe Autumn Schools “From Climate Projections to Climate impacts via Regional Downscaling”](https://is-enes3.github.io/IS-ENES-Website/central-and-eastern-europe-autumn-schools) (28 Nov-2 Dec 2022)
 
 ## Past
 
