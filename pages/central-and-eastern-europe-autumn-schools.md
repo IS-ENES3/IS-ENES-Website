@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Empty Template
+title: 
 # uncomment these if needed
 # subheadline: Empty Template
 # teaser: "Empty Template."
@@ -16,7 +16,7 @@ tags:
 #header:
     #background-color: "#186F4D"
 header:
-    title: Empty Template
+    title: 
     background-color: "#186F4D;"
     # uncomment if needed
     # caption: This is a caption for the header image with link
