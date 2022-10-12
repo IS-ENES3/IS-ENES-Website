@@ -1,0 +1,91 @@
+---
+layout: default
+format: page-fullwidth
+---
+{% if page.image.title %}
+<div class="row t30">
+	<div class="small-12 columns">
+		<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}">
+		{% if page.image.caption_url and page.image.caption %}
+		<p class="text-right caption">
+			<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
+		</p>
+		{% endif %}
+	</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+{% endif %}
+
+
+<div class="row t30">
+	<div class="medium-12 columns">
+		<article>
+			<header>
+				{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
+				<h1>{{ page.title }}</h1>
+			</header>
+
+			{% if page.teaser %}
+			<p class="teaser">
+				{{ page.teaser }}
+			</p>
+			{% endif %}
+
+		</article>
+	</div><!-- /.medium-12.columns -->
+</div><!-- /.row -->
+
+{% comment %}
+*
+* If there is content, spit it out here before widgets.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
+
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a title
+*
+{% endcomment %}
+<div class="row t60">
+        {% if page.widget1.image or page.widget1.video or page.widget1.title %}
+                {% include _frontpage-widget.html widget=page.widget1 %}
+        {% endif %}
+
+        {% if page.widget2.image or page.widget2.video or page.widget2.title %}
+                {% include _frontpage-widget.html widget=page.widget2 %}
+        {% endif %}
+
+        {% if page.widget3.image or page.widget3.video or page.widget3.title %}
+                {% include _frontpage-widget.html widget=page.widget3 %}
+        {% endif %}
+
+</div><!-- /.row -->
+<div class="row t60">
+        {% if page.widget4.image or page.widget4.video or page.widget4.title %}
+                {% include _frontpage-widget.html widget=page.widget4 %}
+        {% endif %}
+
+        {% if page.widget5.image or page.widget5.video or page.widget5.title %}
+                {% include _frontpage-widget.html widget=page.widget5 %}
+        {% endif %}
+
+        {% if page.widget6.image or page.widget6.video or page.widget6.title %}
+                {% include _frontpage-widget.html widget=page.widget6 %}
+        {% endif %}
+</div><!-- /.row -->
+<div class="row t60">
+        {% if page.widget7.image or page.widget7.video or page.widget7.title %}
+                {% include _frontpage-widget.html widget=page.widget7 %}
+        {% endif %}
+
+        {% if page.widget8.image or page.widget8.video or page.widget8.title %}
+                {% include _frontpage-widget.html widget=page.widget8 %}
+        {% endif %}
+
+        {% if page.widget9.image or page.widget9.video or page.widget9.title %}
+                {% include _frontpage-widget.html widget=page.widget9 %}
+        {% endif %}
+</div><!-- /.row -->
