@@ -57,6 +57,7 @@ Apply before November 7th by filling **[this form](https://docs.google.com/forms
 - Participants notification on acceptance: November 11, 2022.
 
 **Accommodations, meals and travel**
+
 Accommodation in double rooms and lunches will be covered by the organizers. Travel costs and dinners will be covered by participants.
 
 We aim at having around 20 persons per group (total of 40-50 participants).
