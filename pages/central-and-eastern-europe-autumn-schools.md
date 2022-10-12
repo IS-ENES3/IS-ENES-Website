@@ -42,5 +42,21 @@ Special occasion is given to participants to attend the final meeting with selec
 - learn what is needed for interdisciplinary impact/adaptation studies on climate change
 - create/broaden network on climate change and impact assessments
 
+**Target groups**
+- Climate researchers and students (Bachelor, MSc, PhD);
+- Impact researchers and students (Bachelor, MSc, PhD) on agriculture/forestry, hydrology/water management and health
+
+Priority will be given to Eastern and Central Europe researchers and students, but candidates from other EU countries can also apply for potential remaining seats.
+
+**Deadlines**
+- Registration deadline: **November 7, 2022.**
+- Participants notification on acceptance: November 11, 2022.
+
+**Accommodations, meals and travel**
 Accommodation in double rooms and lunches will be covered by the organizers. Travel costs and dinners will be covered by participants.
+
+We aim at having around 20 persons per group (total of 40-50 participants).
+The working language during the course will be English.
+
+**The Central & Eastern Europe Autumn Schools Privacy Policy** is available **[here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Privacy_Policy-Eastern_Europe_Schools.pdf)**.
 
