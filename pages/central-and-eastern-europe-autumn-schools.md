@@ -48,6 +48,9 @@ Special occasion is given to participants to attend the final meeting with selec
 
 Priority will be given to Eastern and Central Europe researchers and students, but candidates from other EU countries can also apply for potential remaining seats.
 
+**Application form**
+Apply before November 7th by filling **[this form](https://docs.google.com/forms/d/e/1FAIpQLSftL_ZSPzKLpV87g08IYXMI5iGAgWi46TFADuJG6Zk6bZYONA/viewform?usp=sf_link)** !
+
 **Deadlines**
 - Registration deadline: **November 7, 2022.**
 - Participants notification on acceptance: November 11, 2022.
