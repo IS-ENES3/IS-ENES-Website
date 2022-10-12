@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth-7widgets
+layout: page-fullwidth-9widgets
 title: "Lectures, Tutorials and Webinars"
 teaser: "Click on the images to go to the YouTube playlists!"
 header:
@@ -54,6 +54,11 @@ widget7:
   url: 'https://www.youtube.com/watch?v=rLx8-t_5LYQ&list=PLFvev1W5vG7P56bYBrfQTaSYEPeijjolJ'
   image: 'HPCWS_YT.png'
   text: '7th ENES HPC workshop (May 2022)'
+widget8:
+  title: "Introduction to ESMValTool (June 2022)"
+  url: 'https://www.youtube.com/watch?v=3tzU2zcCxUU'
+  image: 'KZ_EsmvaltoolIntro.png'
+  text: 'Introduction to ESMValTool (June 2022)'
 
 ---
 
