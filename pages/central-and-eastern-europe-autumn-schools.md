@@ -63,5 +63,7 @@ Accommodation in double rooms and lunches will be covered by the organizers. Tra
 We aim at having around 20 persons per group (total of 40-50 participants).
 The working language during the course will be English.
 
+If you have any questions, please write to: tomas.halenka[a]mff.cuni.cz
+
 **The Central & Eastern Europe Autumn Schools Privacy Policy** is available **[here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Privacy_Policy-Eastern_Europe_Schools.pdf)**.
 
