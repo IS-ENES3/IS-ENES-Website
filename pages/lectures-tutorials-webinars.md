@@ -61,7 +61,7 @@ widget8:
   text: 'Introduction to ESMValTool (June 2022)'
 widget9:
   title: "Data Science Summer School - Keynotes"
-  url: 'https://youtube.com/playlist?list=PL18_rB75vx1M3TMTnR8dkfLHYAa7447pF'
+  url: 'https://www.youtube.com/watch?v=bAR6TymbBTk&list=PL18_rB75vx1M3TMTnR8dkfLHYAa7447pF&index=1'
   image: 'Summer_school_youtube.png'
   text: 'IS-ENES3 Summer School on Data Science for Climate Modelling (Sept. 2022, Athens) - Keynotes'
 
