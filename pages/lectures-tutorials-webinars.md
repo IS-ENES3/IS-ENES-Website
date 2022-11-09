@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth-9widgets
+layout: page-fullwidth-18widgets
 title: "Lectures, Tutorials and Webinars"
 teaser: "Click on the images to go to the YouTube playlists!"
 header:
