@@ -64,6 +64,11 @@ widget9:
   url: 'https://www.youtube.com/watch?v=bAR6TymbBTk&list=PL18_rB75vx1M3TMTnR8dkfLHYAa7447pF&index=1'
   image: 'Summer_school_youtube.png'
   text: 'IS-ENES3 Summer School on Data Science for Climate Modelling (Sept. 2022, Athens) - Keynotes'
+widget10:
+  title: "Code Coupling"
+  url: 'https://www.youtube.com/watch?v=SfskX5wKugM'
+  image: 'Code_Coupling_YT.png'
+  text: 'General concepts and latest news of the OASIS3-MCT coupler (May 2022), Sophie Valcke (CERFACS)'
 
 
 ---
