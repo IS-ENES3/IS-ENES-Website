@@ -24,6 +24,7 @@ header:
 Title | Type
 :----:|:----:
 [D1.1 - Data Management Plan](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D1.1.pdf) | File
+[D2.2 - The ENES-RI Sustainability Plan](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D2.2_vf.pdf) | File
 [D3.1 - Initial requirements on model evaluation](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D3.1-vf.pdf) | File
 [D3.4 - CMIP documentation requirements](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D3.4.pdf)| File
 [D4.1 - Coupling workshop report](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D4.1_Coupling_workshop_report.pdf) | File
