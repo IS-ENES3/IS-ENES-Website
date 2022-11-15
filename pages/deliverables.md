@@ -45,6 +45,7 @@ Title | Type
 [D8.2 - OASIS3-`MCT_5.0` release](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D8.2.pdf) | File
 [D8.3 - XIOS development](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D8.3-VF.pdf) | File
 [D8.4 - Cylc / Rose Development Summary](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D8.4.pdf)| File
+[D8.5 - Update of the NEMO code](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D8.5.pdf)| File
 [D9.1 - ESMValTool version supporting irregular and unstructured grids](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D9.1.pdf) | File
 [D9.2 - ESMValTool version enabling model development usage](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D9.2_ESMValTool_version_enabling_model_development_usage.pdf) | File
 [D9.3 - ESMValTool version with ESGF coupling and distributed computation features](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ISENES3_D9.3.pdf) | File
