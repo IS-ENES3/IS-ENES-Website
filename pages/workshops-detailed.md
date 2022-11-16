@@ -50,6 +50,14 @@ Registration deadline: 30 August 2022
 
 <hr style="border:2px solid gray">
 
+### <a name="firstesmvaltoolworkshop2022"></a>1st ESMValTool Workshop 2022
+
+The first ESMValTool Workshop 2022 took place at DLR Oberpfaffenhofen from 13–15 June as a hybrid meeting. Participants were from BSC, DLR, Met Office, NLeSC, PML, SMHI, U Bremen and U Reading. The main goal of the workshop was to bring together the development community, discuss future strategies and provide updates on progress since the last workshop in November 2022. 
+
+**Find the detailed workshop report [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Summary_ESMValTool_Workshop_Jun_2022.pdf)**
+
+<hr style="border:2px solid gray">
+
 ### <a name="bsc2022"></a>7th ENES HPC Workshop Barcelona 2022
 
 **Find all details about this workshop on the [ENES Portal](https://portal.enes.org/hpc-workshops-detailed/#hpc7)**
