@@ -46,7 +46,7 @@ Contact: sophie.morellon[a]lsce.ipsl.fr
 
 The 6th Workshop on Coupling Technologies for Earth System Models (CW2023) will be held on **January 18-20, 2023** at the “Centre International de Conférences” on Météo-France campus in **Toulouse, France**. The workshop will be held in a **hybrid format** with remote attendance possible.
 
-Find all information on the [official webpage](https://portal.enes.org/coupling-workshops/). 
+Find all information on the [official webpage](https://portal.enes.org/cw2023-toulouse/). 
 
 <hr style="border:2px solid gray">
 
