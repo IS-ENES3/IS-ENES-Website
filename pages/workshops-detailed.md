@@ -23,6 +23,14 @@ header:
 
 ---
 
+### <a name="final-ga"></a>IS-ENES3 Final General Assembly
+
+The project Final General Assembly will be held on **January 16-18, 2023** at the “Centre International de Conférences” on Météo-France campus in **Toulouse, France**. The workshop will be held in a **hybrid format** with remote attendance possible.
+
+Further information will be provided in the coming weeks.
+
+<hr style="border:2px solid gray">
+
 ### <a name="cw2023"></a>Sixth Workshop on Coupling Technologies for Earth System Models (CW2023)
 
 The 6th Workshop on Coupling Technologies for Earth System Models (CW2023) will be held on **January 18-20, 2023** at the “Centre International de Conférences” on Météo-France campus in **Toulouse, France**. The workshop will be held in a **hybrid format** with remote attendance possible.
@@ -31,11 +39,11 @@ Find all information on the [official webpage](https://portal.enes.org/coupling-
 
 <hr style="border:2px solid gray">
 
-### <a name="final-ga"></a>IS-ENES3 Final General Assembly
+### <a name="esgf2023"></a>International ESGF Hybrid Conference Toulouse/Oak Ridge 
 
-The project Final General Assembly will be held on **January 16-18, 2023** at the “Centre International de Conférences” on Météo-France campus in **Toulouse, France**. The workshop will be held in a **hybrid format** with remote attendance possible.
+The International ESGF Hybrid Conference Toulouse/Oak Ridge will be held on **January 16-18, 2023** at the “Centre International de Conférences” on Météo-France campus in **Toulouse, France**, in parallel with the Coupling Workshop 2023. The workshop will be held in two different locations at the same time: Toulouse (France) for the EU side, Oak Ridge (USA) for the American side. 
 
-Further information will be provided in the coming weeks.
+Further information will be provided soon.
 
 <hr style="border:2px solid gray">
 
