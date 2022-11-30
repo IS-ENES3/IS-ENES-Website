@@ -26,8 +26,19 @@ header:
 ### <a name="final-ga"></a>IS-ENES3 Final General Assembly
 
 The project Final General Assembly will be held on **January 16-18, 2023** at the “Centre International de Conférences” on Météo-France campus in **Toulouse, France**. The workshop will be held in a **hybrid format** with remote attendance possible.
+The General Assembly will start on Mon. 16 January with a welcome coffee at 12:30pm CET, and end on Wed. 18 January at 1:00pm CET (lunch time included). 
 
-Further information will be provided in the coming weeks.
+Find the first draft of the **full programme** [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Agenda_IS-ENES3_Final_GA_V1.pdf) (only minor changes expected). 
+
+**Register here before December 23th,even if you attend online !**
+
+An IS-ENES3 social dinner will be organised on Tuesday 17th evening in downtown Toulouse, at the [Brasserie des Beaux-Arts](https://brasserielesbeauxarts.fr/).
+Before the social dinner you can join an historical sightseeing tour of downtown Toulouse with an English guide (starting at 6:30pm CET, for a 1h15 walking tour)!
+
+- [List of hotels in Toulouse](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/List_of_hotels_in_Toulouse.pdf)
+- [Access map to the venue](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Access_Plan_CIC.pdf)
+
+Contact: sophie.morellon[a]lsce.ipsl.fr
 
 <hr style="border:2px solid gray">
 
@@ -41,9 +52,18 @@ Find all information on the [official webpage](https://portal.enes.org/coupling-
 
 ### <a name="esgf2023"></a>International ESGF Hybrid Conference Toulouse/Oak Ridge 
 
-The International ESGF Hybrid Conference Toulouse/Oak Ridge will be held on **January 16-18, 2023** at the “Centre International de Conférences” on Météo-France campus in **Toulouse, France**, in parallel with the Coupling Workshop 2023. The workshop will be held in two different locations at the same time: Toulouse (France) for the EU side, Oak Ridge (USA) for the American side. 
+The International ESGF Hybrid Conference Toulouse/Oak Ridge will be held on **January 18-19, 2023** at the “Centre International de Conférences” on Météo-France campus in **Toulouse, France**, in parallel with the Coupling Workshop 2023. The workshop will be held in two different locations at the same time: Toulouse (France) for the EU side, Oak Ridge (USA) for the American side, with a visioconference system to link both places. 
 
-Further information will be provided soon.
+The workshop will start on Wed. 18 January at 2:00pm CET with a welcome coffee.
+Sessions will be held on:
+- Wednesday 18 afternoon and evening
+- Thursday 19 afternoon and evening
+Social dinners and evening sessions for both days will take place at the [Novotel Toulouse Centre Wilson](https://www.google.fr/maps/place/H%C3%B4tel+Novotel+Toulouse+Centre+Wilson/@43.6051828,1.4446689,17z/data=!3m2!4b1!5s0x12aebc9e9647c0d3:0x8aec8c04997407dd!4m8!3m7!1s0x12aebc9e0785e8eb:0x91ce3991b4d387cb!5m2!4m1!1i2!8m2!3d43.6051828!4d1.4468576?hl=fr)
+
+The detailed agenda and registration will be provided soon. 
+
+- [List of hotels in Toulouse](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/List_of_hotels_in_Toulouse.pdf)
+- [Access map to the venue](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Access_Plan_CIC.pdf)
 
 <hr style="border:2px solid gray">
 
