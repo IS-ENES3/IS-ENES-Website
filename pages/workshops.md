@@ -29,7 +29,7 @@ header:
 
 #### [IS-ENES3 Final General Assembly](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#final-ga) (16-18 January 2023)
 #### [Sixth Workshop on Coupling Technologies for Earth System Models](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#cw2023) (CW2023, 18-20 January 2023)
-#### [International ESGF Hybrid Conference Toulouse/Oak Ridge](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#esgf2023) (18-20 January 2023)
+#### [International ESGF Hybrid Conference Toulouse/Oak Ridge](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#esgf2023) (18-19 January 2023)
 
 ## Past
 
