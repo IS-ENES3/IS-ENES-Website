@@ -30,7 +30,7 @@ The General Assembly will start on Mon. 16 January with a welcome coffee at 12:3
 
 Find the first draft of the **full programme** [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Agenda_IS-ENES3_Final_GA_V1.pdf) (only minor changes expected). 
 
-**Register here before December 23th,even if you attend online !**
+**Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdse_55PLDL00rUrDQTrv7WzwCDWudNW2rAK_e6WdlJivDjHQ/viewform?usp=sf_link) before December 23th, even if you attend online !**
 
 An IS-ENES3 social dinner will be organised on Tuesday 17th evening in downtown Toulouse, at the [Brasserie des Beaux-Arts](https://brasserielesbeauxarts.fr/).
 Before the social dinner you can join an historical sightseeing tour of downtown Toulouse with an English guide (starting at 6:30pm CET, for a 1h15 walking tour)!
