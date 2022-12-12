@@ -48,14 +48,6 @@ Special occasion is given to participants to attend the final meeting with selec
 
 Priority will be given to Eastern and Central Europe researchers and students, but candidates from other EU countries can also apply for potential remaining seats.
 
-**Application form**
-
-**Apply before November 7th by filling [this form](https://docs.google.com/forms/d/e/1FAIpQLSftL_ZSPzKLpV87g08IYXMI5iGAgWi46TFADuJG6Zk6bZYONA/viewform?usp=sf_link)** !
-
-**Deadlines**
-- Registration deadline: **November 7, 2022.**
-- Participants notification on acceptance: November 11, 2022.
-
 **Accommodations, meals and travel**
 
 Accommodation in double rooms and lunches will be covered by the organizers. Travel costs and dinners will be covered by participants.
@@ -66,4 +58,21 @@ The working language during the course will be English.
 If you have any questions, please write to: tomas.halenka[a]mff.cuni.cz
 
 **The Central & Eastern Europe Autumn Schools Privacy Policy** is available **[here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Privacy_Policy-Eastern_Europe_Schools.pdf)**.
+
+<hr style="border:2px solid gray">
+
+**[Final agenda of the school](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Prague_program.pdf)**
+
+**Presentations of the school**
+
+- [Introduction to GCM and their outputs, Sylvie Joussaume](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/221128_IS-ENES3_GCM_SJoussaume_vf.pdf)
+- [Dynamical downscaling of GCM, Tomas Halenka](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Dynamical_Downscaling_Tomas_Halenka.pdf)
+- [Statistical downscaling and bias-correction, Christian Pagé](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/downscaling_autumnschool2022_CPAGE.pdf)
+- [Challenges in using climate data for impact studies, Peter Siegmund/ Janette Bessembinder](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/challenges_climate_data_use_Siegmund_28Nov2022.pdf)
+- [Data resources for climate variables, Peter Siegmund/ Janette Bessembinder](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/data_resources_Siegmund_28Nov2022.pdf)
+- [Climate4Impact (C4I) and icclim: Tools to ease access to climate data, Christian Pagé](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/c4i_icclim_autumnschool2022_CPAGE.pdf)
+- [Online portals and tools for obtaining, visualizing and processing climate data, P. Siegmund/ R. Dankers/ C. Page/J. Bessembinder](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/climate_data_portals_Siegmund_28Nov2022.pdf)
+- [Climate services, Rutger Dankers](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Climate_Services_Dankers_29Nov2022.pdf)
+- [Approaches to impact modelling, Rutger Dankers](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Impact_Modelling_Dankers_29Nov2022.pdf)
+
 
