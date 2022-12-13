@@ -157,9 +157,9 @@ Title | Type
 
 Title | Type
 :----:|:----:
-[EGI Conference 2020](https://zenodo.org/record/4282200#.YlQBQCbTVD9) | Zenodo Link
-[EGI Conference 2021](https://zenodo.org/record/5592431#.YlQBfibTVD9) | Zenodo Link
-[EGI Conference 2022](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Bridging_Cloud_and_HPC_towards_High_Performance_Data_Analytics_for_climate_science.pdf) | PDF File
+[2020 - ENES climate data infrastructure - S. Kindermann](https://zenodo.org/record/4282200#.YlQBQCbTVD9) | Zenodo Link
+[2021 - Climate modelling: computing and data challenges - S. Joussaume](https://zenodo.org/record/5592431#.YlQBfibTVD9) | Zenodo Link
+[2022 - Bridging Cloud and HPC towards High Performance Data Analytics for climate science - D. Elia et al.](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Bridging_Cloud_and_HPC_towards_High_Performance_Data_Analytics_for_climate_science.pdf) | PDF File
 
 ### Other
 
