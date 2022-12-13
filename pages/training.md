@@ -27,7 +27,7 @@ header:
 
 ## Upcoming
 
-*Some dissemination webianrs to be announced in 2023.*
+*Some dissemination webinars to be announced in 2023.*
 
 ## Past
 
