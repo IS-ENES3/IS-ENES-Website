@@ -26,14 +26,13 @@ The climate  modelling community has adopted several community standards related
 
 **- For data naming and format:**
 - the community uses the netcdf data standard and applies the Climate Forecast (CF) conventions, providing standard names for variables and common rules for data standardisation (e.g. units, geographical location information on data). 
-- 
--The list of variables to be provided for each CMIP6  experiment is described in the Data Request. 
+- The list of variables to be provided for each CMIP6  experiment is described in the Data Request. 
 
 **- Further documentation on models**, intercomparison projects and experiments are provided through ES-DOC, the Earth System Documentation. 
 
 IS-ENES supports services for providers and/or users related to the CF convention, the Data Request and ES-DOC. 
 
-### Climate and Forecast conventions ([CF](http://cfconventions.org/))**
+### Climate and Forecast conventions ([CF](http://cfconventions.org/))
 
 Metadata conventions to promote the processing and sharing of NetCDF files. The conventions regulate the coordinates description, the meaning of the grid cells, the data provenance, ... to favor self-describing data, without external tables needed for interpretation. 
 
@@ -41,7 +40,7 @@ Find here the **[Guidelines for contributors](https://github.com/cf-convention/c
 
 Users can access information on CF variables, standard names, units, etc. on **[the CF site](http://cfconventions.org/Data/cf-standard-names/79/build/cf-standard-name-table.html).** 
 
-### CMIP6 Data Request ([DR](https://cmip6dr.github.io/))** 
+### CMIP6 Data Request ([DR](https://cmip6dr.github.io/))
 
 The Data Request describes the list of output data to be provided to the archive by the modelling groups, as agreed by the CMIP panels. It is essentially a service for providers of data that gives a machine-readable “output filter” for model production. It specifies the variables, their frequency as well as the protocol for naming (experiment, time period, member). 
 
