@@ -30,7 +30,7 @@ The General Assembly will start on Mon. 16 January with a welcome coffee at 12:3
 
 Find the first draft of the **full programme** [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Agenda_IS-ENES3_Final_GA_V1.pdf) (only minor changes expected). 
 
-**Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdse_55PLDL00rUrDQTrv7WzwCDWudNW2rAK_e6WdlJivDjHQ/viewform?usp=sf_link) before December 23th, even if you attend online !**
+**Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdse_55PLDL00rUrDQTrv7WzwCDWudNW2rAK_e6WdlJivDjHQ/viewform?usp=sf_link) before December 23th if you attend onsite, and before January 12th if you attend virtually !**
 
 An IS-ENES3 social dinner will be organised on Tuesday 17th evening in downtown Toulouse, at the [Brasserie des Beaux-Arts](https://brasserielesbeauxarts.fr/).
 Before the social dinner you can join an historical sightseeing tour of downtown Toulouse with an English guide (starting at 6:30pm CET, for a 1h15 walking tour)!
@@ -58,6 +58,9 @@ The workshop will start on Wed. 18 January at 2:00pm CET with a welcome coffee.
 Sessions will be held on:
 - Wednesday 18 afternoon and evening
 - Thursday 19 afternoon and evening
+
+**Register [here](https://docs.google.com/forms/d/e/1FAIpQLSeKZFwWXbubepQqxFTvg2CuernAJBf0iFeBk78aCXQdX5-W-A/viewform?usp=sf_link) !**
+Deadline: **January 4th** if you come onsite, **Januuary 12th** of you attend virtually ! 
 
 Social dinners and evening sessions for both days will take place at the [Novotel Toulouse Centre Wilson](https://www.google.fr/maps/place/H%C3%B4tel+Novotel+Toulouse+Centre+Wilson/@43.6051828,1.4446689,17z/data=!3m2!4b1!5s0x12aebc9e9647c0d3:0x8aec8c04997407dd!4m8!3m7!1s0x12aebc9e0785e8eb:0x91ce3991b4d387cb!5m2!4m1!1i2!8m2!3d43.6051828!4d1.4468576?hl=fr).
 
