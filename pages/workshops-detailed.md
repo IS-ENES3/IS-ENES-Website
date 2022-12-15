@@ -56,15 +56,13 @@ The International ESGF Hybrid Conference Toulouse/Oak Ridge will be held on **Ja
 
 The workshop will start on Wed. 18 January at 2:00pm CET with a welcome coffee.
 Sessions will be held on:
-- Wednesday 18 afternoon and evening
-- Thursday 19 afternoon and evening
+Wednesday 18 : 2:45-6:00pm // 8:00-10:00pm CET
+Thursday 19 :  2:00-6:00pm // 8:00-10:00pm CET
 
 **Register [here](https://docs.google.com/forms/d/e/1FAIpQLSeKZFwWXbubepQqxFTvg2CuernAJBf0iFeBk78aCXQdX5-W-A/viewform?usp=sf_link) !**
-Deadline: **January 4th** if you come onsite, **Januuary 12th** of you attend virtually ! 
+Deadline: **January 4th** if you come onsite, **January 12th** of you attend virtually ! 
 
 Social dinners and evening sessions for both days will take place at the [Novotel Toulouse Centre Wilson](https://www.google.fr/maps/place/H%C3%B4tel+Novotel+Toulouse+Centre+Wilson/@43.6051828,1.4446689,17z/data=!3m2!4b1!5s0x12aebc9e9647c0d3:0x8aec8c04997407dd!4m8!3m7!1s0x12aebc9e0785e8eb:0x91ce3991b4d387cb!5m2!4m1!1i2!8m2!3d43.6051828!4d1.4468576?hl=fr).
-
-The detailed agenda and registration will be provided soon. 
 
 - [List of hotels in Toulouse](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/List_of_hotels_in_Toulouse.pdf)
 - [Access map to the venue](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Access_Plan_CIC.pdf)
