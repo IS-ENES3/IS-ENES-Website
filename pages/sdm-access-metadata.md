@@ -28,7 +28,7 @@ The climate  modelling community has adopted several community standards related
 - the community uses the netcdf data standard and applies the Climate Forecast (CF) conventions, providing standard names for variables and common rules for data standardisation (e.g. units, geographical location information on data). 
 - The list of variables to be provided for each CMIP6  experiment is described in the Data Request. 
 
-**- Further documentation on models**, intercomparison projects and experiments are provided through ES-DOC, the Earth System Documentation. 
+**- Further documentation** on models, intercomparison projects and experiments are provided through **ES-DOC**, the Earth System Documentation. 
 
 IS-ENES supports services for providers and/or users related to the CF convention, the Data Request and ES-DOC. 
 
