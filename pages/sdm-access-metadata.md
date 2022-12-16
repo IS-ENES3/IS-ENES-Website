@@ -45,7 +45,7 @@ Users can access information on CF variables, standard names, units, etc. on **[
 The Data Request describes the list of output data to be provided to the archive by the modelling groups, as agreed by the CMIP panels. It is essentially a service for providers of data that gives a machine-readable “output filter” for model production. It specifies the variables, their frequency as well as the protocol for naming (experiment, time period, member). 
 
 - **[The Web View](https://clipc-services.ceda.ac.uk/dreq/mipVars.html)** provides a list of all variables and experiments as well as separate  search for variables
-- **The [Python package](https://pypi.org/project/dreqPy/)** provides an [XML document](https://w3id.ord/cmip6dr) specifying the the CMIP6 data request and a python API.
+- **The [Python package](https://pypi.org/project/dreqPy/)** provides an XML document specifying the the CMIP6 data request and a python API.
 - **For more information contact** : <martin.juckes@stfc.ac.uk.>
 
 ### Earth System Model Documentation
