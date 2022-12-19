@@ -44,6 +44,7 @@ Title | Type
 [M6.1 - ENES ESM resources updated](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M6.1.pdf) | File
 [M6.2 - Reviewer for services appointed](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M6.2.pdf) | File
 [M6.3 - ENES ESM resources updated, RP2](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M6.3.pdf) | File
+[M6.4 - ENES ESM resources updated, RP3](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M6.4.pdf) | File
 [M7.1 - ENES CDI help desk](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M7.1.pdf) | File
 [M7.2 - Set up of review committee and user selection panel](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M7.2.pdf) | File
 [M7.3 - Improved version of evaluation portal](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M7.3.pdf) | File
