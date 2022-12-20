@@ -23,6 +23,15 @@ header:
 
 ---
 
+### <a name="cylc-webinar"></a>IS-ENES3 Webinar on Cylc
+- On **16 March - 10:00-11:00am**
+
+Cylc is a general purpose workflow engine that orchestrates cycling systems very efficiently.
+It is used for production weather, climate, and environmental forecasting on HPC systems, but is not specialized to those domains.
+In this webinar we will explain what Cylc is, describe its main features and cover recent developments.
+
+Regsitration to be coming soon.
+
 ### <a name="eastern-europe-school"></a>IS-ENES3 Central & Eastern Europe Autumn Schools “From Climate Projections to Climate impacts via Regional Downscaling”
 - From **28 November - 2 December 2022**
 
