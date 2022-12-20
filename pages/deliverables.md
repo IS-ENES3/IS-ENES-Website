@@ -32,6 +32,7 @@ Title | Type
 [D4.3 - CPMIP performance metrics and community advice](https://zenodo.org/record/6394049#.YkxFuzyxXkN) | Link
 [D5.1 - Compute service requirements and state of the art approaches](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D5.1_Compute_service_requirements_and_state_of_the_art_approaches.pdf) | Link
 [D5.2 -Technical standards for diagnostic tools](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D5.2.pdf) | File
+[D5.3 - Architecture Design Plans](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D5.3.pdf) | File
 [D5.4 - IS-ENES3 involvement in ESGF](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D5.4_ESGF_involvement.pdf) | File
 [D5.5 - Style guide on coding standards](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D5.5.pdf) | File
 [D6.1 - First periodical report on service statistics for models and tools](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3-VA1-D6.1.pdf) | File
