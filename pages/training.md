@@ -27,7 +27,7 @@ header:
 
 ## Upcoming
 
-#### [IS-ENES3 Webinar on Cylc](https://is-enes3.github.io/IS-ENES-Website/cylc-webinar) (16 March 2023)
+#### [IS-ENES3 Webinar on Cylc](https://is-enes3.github.io/IS-ENES-Website/training-detailed#cylc-webinar) (16 March 2023)
 
 ## Past
 
