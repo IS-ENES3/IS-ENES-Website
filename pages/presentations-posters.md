@@ -84,7 +84,9 @@ Title | Type
 [Developing Community standards-based Search Tools for Earth System Model Data using STAC](https://zenodo.org/record/5930282#.Ykwl7SbTVD9) | Zenodo Link
 
 ### AGU2022
-*Future*
+Title | Type
+:----:|:----:
+[Climate Data Analysis Tools Along With Pre-Computed Climate Indices Datasets to Support Climate Action - C. Pagé](https://zenodo.org/record/7463316#.Y6GssHbMI2w) | Zenodo Link
 
 ### EGU2019
 
@@ -160,6 +162,7 @@ Title | Type
 [2020 - ENES climate data infrastructure - S. Kindermann](https://zenodo.org/record/4282200#.YlQBQCbTVD9) | Zenodo Link
 [2021 - Climate modelling: computing and data challenges - S. Joussaume](https://zenodo.org/record/5592431#.YlQBfibTVD9) | Zenodo Link
 [2022 - Bridging Cloud and HPC towards High Performance Data Analytics for climate science - D. Elia et al.](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Bridging_Cloud_and_HPC_towards_High_Performance_Data_Analytics_for_climate_science.pdf) | PDF File
+[2022 - Processing large datasets using EGI-ACE EOSC resources for the climate community - C. Pagé](https://zenodo.org/record/7463227#.Y6HSGRWZM2x) | Zenodo link
 
 ### Other
 
@@ -167,11 +170,15 @@ Title | Type
 :----:|:----:
 [IPCC WG1 Training on Data and Software Development - June 2019](https://zenodo.org/record/3368459#.Xx6h-y3pM_UCollaborative%20frameworks%20and%20best%20practices) | Zenodo Link
 [Scientific Gateways 2019](https://zenodo.org/record/3546232#.YlAiICbTVD-) | Zenodo Link
+[Scientific Gateways 2021](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/c4i_icclim_SG2021_CPAGE.pdf) | PDF File
+[Scientific Gateways 2022 - Making Climate Data Actionable: Pre-Computed Climate Indices Provided in an Interactive Platform, C. Pagé](https://zenodo.org/record/7463300#.Y6HSuBWZM2x) | Zenodo Link
 [Climate Science2Policy 2020](https://zenodo.org/record/4282167#.YlAiPybTVD9) | Zenodo Link
 [Research Data Alliance (RDA) Plenary Meeting 2020](https://zenodo.org/record/4282222#.YlAiWybTVD9) | Zenodo Link
 [C3S Workshops](https://zenodo.org/record/4674539#.YlAieybTVD9) | Zenodo Link
 [EOSC Symposium 2021](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Implications_for_EOSC_Architecture_A_Common_Approach_to_Data_Ecosystems_and_Data_Spaces_v0.5.pdf) | PDF File
-[Scientific Gateways 2021](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/c4i_icclim_SG2021_CPAGE.pdf) | PDF File
+[EOSC Symposium 2022 - Building a Climate indices dataset for climate change impacts assessment, C. Pagé](https://zenodo.org/record/7463262#.Y6HScRWZM2x) | Zenodo
+[EOSC User Day 2022 - Building actionable climate products for end users using EGI-ACE resources, C. Pagé, A.Aoun](https://zenodo.org/record/7463283#.Y6HTJRWZM2x) | Zenodo Link
+[SciDataCon 2022 - Challenges in the road toward better FAIR support in downstream climate products, C. Pagé](https://zenodo.org/record/7463341#.Y6HTZBWZM2x) | Zenodo Link
 [ClimateData.ca Conference](https://zenodo.org/record/5930348#.YlAi9SbTVD9) | Zenodo Link
 [WGCM-24](https://zenodo.org/record/5930437#.YlAjFibTVD9) | Zenodo Link
 [EuroHPC Summit week (March 2022)](https://zenodo.org/record/6394413#.YlAjLybTVD9) | Zenodo Link
