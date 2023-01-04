@@ -34,7 +34,7 @@ By clicking on the **Acronym** in the Table below, you will find a brief descrip
 Acronym | Name of the modelling group | Level | Contact
 :-------: | :------------------------: | :--------: | :--------:
 [CMCC-ESM2](https://is-enes3.github.io/IS-ENES-Website/smt-european-esms-detailed#cmcc-esm2) | Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC) | Level 1 | Pier Giuseppe Fogli: <piergiuseppe.fogli@cmcc.it>
-[CNRM-CM6](https://is-enes3.github.io/IS-ENES-Website/smt-european-esms-detailed#cnrm-cm6) | CNRM-CERFACS | Level 1 & 2 | CNRM-CM6 mail: <contact.cmip@meteo.fr>
+[CNRM-CM6](https://is-enes3.github.io/IS-ENES-Website/smt-european-esms-detailed#cnrm-cm6) | CNRM-CERFACS | Level 1 | CNRM-CM6 mail: <contact.cmip@meteo.fr>
 [EC-Earth3](https://is-enes3.github.io/IS-ENES-Website/smt-european-esms-detailed#ec-earth3) | EC-Earth consortium | Level 1 & 2 | Shuting Yang: <shuting@dmi.dk>
 [IPSL-CM6](https://is-enes3.github.io/IS-ENES-Website/smt-european-esms-detailed#ipsl-cm6) | Institute Pierre-Simon Laplace (IPSL) | Level 1 | Arnaud Caubel: <arnaud.caubel@lsce.ipsl.fr>
 [MPI-ESM](https://is-enes3.github.io/IS-ENES-Website/smt-european-esms-detailed#mpi-esm) | Max-Planck-Institut für Meteorologie (MPI-M) | Level 1 | Michael Botzet: <michael.botzet@mpimet.mpg.de>
