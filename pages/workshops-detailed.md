@@ -28,7 +28,7 @@ header:
 The project Final General Assembly will be held on **January 16-18, 2023** at the “Centre International de Conférences” on Météo-France campus in **Toulouse, France**. The workshop will be held in a **hybrid format** with remote attendance possible.
 The General Assembly will start on Mon. 16 January with a welcome coffee at 12:30pm CET, and end on Wed. 18 January at 1:00pm CET (lunch time included). 
 
-Find the **full programme** [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Agenda_IS-ENES3_Final_GA_V2.pdf). 
+Find the **full programme** [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Agenda_IS-ENES3_Final_GA_vf.pdf). 
 
 **Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdse_55PLDL00rUrDQTrv7WzwCDWudNW2rAK_e6WdlJivDjHQ/viewform?usp=sf_link) before December 23th if you attend onsite, and before January 12th if you attend virtually !**
 
