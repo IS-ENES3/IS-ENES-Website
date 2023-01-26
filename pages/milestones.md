@@ -53,6 +53,7 @@ Title | Type
 [M8.2 - Cylc/Rose development priorities agreed](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M8.2.pdf) | File
 [M8.3 - Final list of developments for OASIS3-`MCT_5.0`](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M8.3-vf.pdf) | File
 [M8.4 - Definition of NEMO optimization strategy](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M8.4.pdf) | File
+[M8.5 - Documentation of the NEMO Sea ice Model](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M8.5.pdf) | File
 [M9.1 - Release of enhanced ESMValTool documentation for VA1 Activity](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M9.1.pdf) | File
 [M9.2 - Release of enhanced ESMValTool version for WP7/VA2 activity](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M9.2.pdf) | File
 [M10.1 - Technical requirements on the software stack](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M10.1.pdf) | File
