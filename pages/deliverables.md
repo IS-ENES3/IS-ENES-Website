@@ -56,4 +56,5 @@ Title | Type
 [D10.1 - Architectural document of the ENES CDI software stack](https://zenodo.org/record/4309892#.Ykw7jDyxXkN) | Link
 [D10.2 - First release of the ENES CDI software stack](https://zenodo.org/record/4450012#.YkxFyDyxXkO) | Link
 [D10.3 - Second release of the ENES CDI software stack](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D10.3.pdf) | File
+[D10.4 - CMIP6 documentation](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D10.4.pdf) | File
 [IS-ENES3 White Paper on provenance handling in the model evaluation process (contribution to D3.3)](https://zenodo.org/record/5759571#.YkxFwzyxXkN) | Link
