@@ -26,6 +26,7 @@ Title | Type
 [M1.1 - IS-ENES3 Kick-off meeting](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M1.1_vf.pdf) | File
 [M1.3 - IS-ENES3 Virtual First General Assembly](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M1.3_vf.pdf) | File
 [M1.4 - IS-ENES3 Virtual Second General Assembly](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M1.4.pdf) | File
+[M1.5 - IS-ENES3 Final General Assembly](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M1.5.pdf) | File
 [M2.1 - New Advice Structures Active](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M2.1.pdf) | File
 [M2.2 - Innovation Plan](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M2.2.pdf) | File
 [M2.3 - Sustainability Scoping Report](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M2.3_Sustainability_Scoping_Report.pdf) | File
