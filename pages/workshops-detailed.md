@@ -31,39 +31,39 @@ Find the **full programme** [here](https://raw.githubusercontent.com/IS-ENES3/IS
 
 **Presentations**
 
-- IS-ENES3 Overview, *Sylvie Joussaume, Bryan Lawrence*
+- [IS-ENES3 Overview](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf), *Sylvie Joussaume, Bryan Lawrence*
 
 ***Session 1 - Obj. 2 – Models, tools and HPC (incl. Evaluation tools)***
-- Software tools: OASIS, XIOS and Cylc – *Sophie Valcke*
-- CPMIP: Synthesis and main lessons for CMIP7 – *Mario Acosta, Jean-Claude André*
-- NEMO performance – *Italo Epicoco, NEMO HPC WG*
-- ESMValTool – *Rémi Kazeroni, Saskia Loosveldt*
-- Services on models and tools: legacy for ENES-RI – *Uwe Fladrich, Eric Maisonnave*
+- [Software tools: OASIS, XIOS and Cylc](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Sophie Valcke*
+- [CPMIP: Synthesis and main lessons for CMIP7](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Mario Acosta, Jean-Claude André*
+- [NEMO performance](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Italo Epicoco, NEMO HPC WG*
+- [ESMValTool](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Rémi Kazeroni, Saskia Loosveldt*
+- [Services on models and tools: legacy for ENES-RI](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Uwe Fladrich, Eric Maisonnave*
 
 ***Session 2 - Obj. 3 – Exploitation of model data***
-- ESGF: Main achievements for CMIP6, main evolutions and towards CMIP7 – *Phil Kershaw, Paola Nassisi*
-- Development of analytics services – *Stephan Kindermann*
-- Supporting standards for CF and Data Request – *Martin Juckes, Antonio Cofino*
-- ES-DOC: metadata and errata service – *David Hassel, Guillaume Levavasseur, Atef Ben Nasser*
-- Climate4impact portal – *Alessandro Spinuso, Christian Pagé*
-- Climate indices – *Christian Pagé*
+- [ESGF: Main achievements for CMIP6, main evolutions and towards CMIP7](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Phil Kershaw, Paola Nassisi*
+- [Development of analytics services](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Stephan Kindermann*
+- [Supporting standards for CF and Data Request](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Martin Juckes, Antonio Cofino*
+- [ES-DOC: metadata and errata service](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *David Hassel, Guillaume Levavasseur, Atef Ben Nasser*
+- [Climate4impact portal](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Alessandro Spinuso, Christian Pagé*
+- [Climate indices](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Christian Pagé*
 
 ***Session 3 - Obj. 1 - Integration, sustainability and strategy***
-- Enlarging the user base: main achievements from trainings and schools – lessons for the future – *Janette Bessembinder, Peter Siegmund and Vladimir Djurdjevic*
-- Sustainable infrastructure: towards ENES-RI – *Fanny Adloff, Michael Lautenschlager*
-- Strategy: elements and discussion on recommendations – *Bryan Lawrence*
+- [Enlarging the user base: main achievements from trainings and schools – lessons for the future](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Janette Bessembinder, Peter Siegmund and Vladimir Djurdjevic*
+- [Sustainable infrastructure: towards ENES-RI](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Fanny Adloff, Michael Lautenschlager*
+- [Strategy: elements and discussion on recommendations](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Bryan Lawrence*
 
 ***Session 4 - Introducing new ESM projects***
-- OptimESM – *Torben Königk*
-- EERIE – *Malcolm Roberts*
+- [OptimESM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Torben Königk*
+- [EERIE](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Malcolm Roberts*
 
 ***Session 5 - What’s next? IS-ENES in the European and international landscape***
-- Preparing CMIP7: task groups/info from the WIP – *Martin Juckes*
-- Copernicus C3S – *Guillaume Levavasseur*
-- Climateurope2 – *Christian Pagé, Alessandro Spinuso*
-- EGI collaboration with IS-ENES – *Tiziana Ferrari*
-- IS-ENES collaboration with EUDAT and some EOSC projects – *Hannes Thiemann & Stephan Kindermann*
-- From ESiWACE2 to ESiWACE3 – *Mario Acosta*
+- [Preparing CMIP7: task groups/info from the WIP](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Martin Juckes*
+- [Copernicus C3S](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Guillaume Levavasseur*
+- [Climateurope2](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Christian Pagé, Alessandro Spinuso*
+- [EGI collaboration with IS-ENES](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Tiziana Ferrari*
+- [IS-ENES collaboration with EUDAT and some EOSC projects](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Hannes Thiemann & Stephan Kindermann*
+- [From ESiWACE2 to ESiWACE3](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Mario Acosta*
 
 <hr style="border:2px solid gray">
 
