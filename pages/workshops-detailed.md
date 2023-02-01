@@ -25,20 +25,45 @@ header:
 
 ### <a name="final-ga"></a>IS-ENES3 Final General Assembly
 
-The project Final General Assembly will be held on **January 16-18, 2023** at the “Centre International de Conférences” on Météo-France campus in **Toulouse, France**. The workshop will be held in a **hybrid format** with remote attendance possible.
-The General Assembly will start on Mon. 16 January with a welcome coffee at 12:30pm CET, and end on Wed. 18 January at 1:00pm CET (lunch time included). 
+The project Final General Assembly was held on **January 16-18, 2023** at the “Centre International de Conférences” on Météo-France campus in **Toulouse, France**. The workshop was held in a **hybrid format** with remote attendance possible.
 
 Find the **full programme** [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Agenda_IS-ENES3_Final_GA_vf.pdf). 
 
-**Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdse_55PLDL00rUrDQTrv7WzwCDWudNW2rAK_e6WdlJivDjHQ/viewform?usp=sf_link) before December 23th if you attend onsite, and before January 12th if you attend virtually !**
+**Presentations**
 
-An IS-ENES3 social dinner will be organised on Tuesday 17th evening in downtown Toulouse, at the [Brasserie des Beaux-Arts](https://brasserielesbeauxarts.fr/).
-Before the social dinner you can join an historical sightseeing tour of downtown Toulouse with an English guide (starting at 6:30pm CET, for a 1h15 walking tour)!
+- IS-ENES3 Overview, *Sylvie Joussaume, Bryan Lawrence*
 
-- [List of hotels in Toulouse](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/List_of_hotels_in_Toulouse.pdf)
-- [Access map to the venue](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Access_Plan_CIC.pdf)
+***Session 1 - Obj. 2 – Models, tools and HPC (incl. Evaluation tools)***
+Software tools: OASIS, XIOS and Cylc – *Sophie Valcke*
+CPMIP: Synthesis and main lessons for CMIP7 – *Mario Acosta, Jean-Claude André*
+NEMO performance – *Italo Epicoco, NEMO HPC WG*
+ESMValTool – *Rémi Kazeroni, Saskia Loosveldt*
+Services on models and tools: legacy for ENES-RI – *Uwe Fladrich, Eric Maisonnave*
 
-Contact: sophie.morellon[a]lsce.ipsl.fr
+***Session 2 - Obj. 3 – Exploitation of model data***
+ESGF: Main achievements for CMIP6, main evolutions and towards CMIP7 – *Phil Kershaw, Paola Nassisi*
+Development of analytics services – *Stephan Kindermann*
+Supporting standards for CF and Data Request – *Martin Juckes, Antonio Cofino*
+ES-DOC: metadata and errata service – *David Hassel, Guillaume Levavasseur, Atef Ben Nasser*
+Climate4impact portal – *Alessandro Spinuso, Christian Pagé*
+Climate indices – *Christian Pagé*
+
+***Session 3 - Obj. 1 - Integration, sustainability and strategy***
+Enlarging the user base: main achievements from trainings and schools – lessons for the future – *Janette Bessembinder, Peter Siegmund and Vladimir Djurdjevic*
+Sustainable infrastructure: towards ENES-RI – *Fanny Adloff, Michael Lautenschlager*
+Strategy: elements and discussion on recommendations – *Bryan Lawrence*
+
+***Session 4 - Introducing new ESM projects***
+OptimESM – *Torben Königk*
+EERIE – *Malcolm Roberts*
+
+***Session 5 - What’s next? IS-ENES in the European and international landscape***
+Preparing CMIP7: task groups/info from the WIP – *Martin Juckes*
+Copernicus C3S – *Guillaume Levavasseur*
+Climateurope2 – *Christian Pagé, Alessandro Spinuso*
+EGI collaboration with IS-ENES – *Tiziana Ferrari*
+IS-ENES collaboration with EUDAT and some EOSC projects – *Hannes Thiemann & Stephan Kindermann*
+From ESiWACE2 to ESiWACE3 – *Mario Acosta*
 
 <hr style="border:2px solid gray">
 
@@ -62,9 +87,6 @@ The workshop will start on Wed. 18 January at 2:00pm CET with a welcome coffee.
 Deadline: **January 4th** if you come onsite, **January 12th** of you attend virtually ! 
 
 Social dinners and evening sessions for both days will take place at the [Novotel Toulouse Centre Wilson](https://www.google.fr/maps/place/H%C3%B4tel+Novotel+Toulouse+Centre+Wilson/@43.6051828,1.4446689,17z/data=!3m2!4b1!5s0x12aebc9e9647c0d3:0x8aec8c04997407dd!4m8!3m7!1s0x12aebc9e0785e8eb:0x91ce3991b4d387cb!5m2!4m1!1i2!8m2!3d43.6051828!4d1.4468576?hl=fr).
-
-- [List of hotels in Toulouse](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/List_of_hotels_in_Toulouse.pdf)
-- [Access map to the venue](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/Access_Plan_CIC.pdf)
 
 <hr style="border:2px solid gray">
 
