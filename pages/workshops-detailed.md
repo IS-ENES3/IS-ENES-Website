@@ -31,39 +31,39 @@ Find the **full programme** [here](https://raw.githubusercontent.com/IS-ENES3/IS
 
 **Presentations**
 
-- [IS-ENES3 Overview](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf), *Sylvie Joussaume, Bryan Lawrence*
+- [IS-ENES3 Overview](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_Overview_SJoussaume.pdf), *Sylvie Joussaume, Bryan Lawrence*
 
 ***Session 1 - Obj. 2 – Models, tools and HPC (incl. Evaluation tools)***
-- [Software tools: OASIS, XIOS and Cylc](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Sophie Valcke*
-- [CPMIP: Synthesis and main lessons for CMIP7](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Mario Acosta, Jean-Claude André*
-- [NEMO performance](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Italo Epicoco, NEMO HPC WG*
-- [ESMValTool](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Rémi Kazeroni, Saskia Loosveldt*
-- [Services on models and tools: legacy for ENES-RI](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Uwe Fladrich, Eric Maisonnave*
+- [Software tools: OASIS, XIOS and Cylc](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_Tools-SValcke.pdf) – *Sophie Valcke*
+- [CPMIP: Synthesis and main lessons for CMIP7](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_CPMIP-MarioAcosta_Jean-Claude.pdf) – *Mario Acosta, Jean-Claude André*
+- [NEMO performance](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_NEMO_HPCWG_Epicoco.pdf) – *Italo Epicoco, NEMO HPC WG*
+- [ESMValTool](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_ESMValTool.pdf) – *Rémi Kazeroni, Saskia Loosveldt*
+- [Services on models and tools: legacy for ENES-RI](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_Services-models-tools.pdf) – *Uwe Fladrich, Eric Maisonnave*
 
 ***Session 2 - Obj. 3 – Exploitation of model data***
-- [ESGF: Main achievements for CMIP6, main evolutions and towards CMIP7](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Phil Kershaw, Paola Nassisi*
-- [Development of analytics services](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Stephan Kindermann*
-- [Supporting standards for CF and Data Request](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Martin Juckes, Antonio Cofino*
-- [ES-DOC: metadata and errata service](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *David Hassel, Guillaume Levavasseur, Atef Ben Nasser*
-- [Climate4impact portal](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Alessandro Spinuso, Christian Pagé*
-- [Climate indices](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Christian Pagé*
+- [ESGF: Main achievements for CMIP6, main evolutions and towards CMIP7](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_ESGF_Main-achievements-for-CMIP6-main-evolutions-and-towards-CMIP7_Kershaw_Nassisi.pdf) – *Phil Kershaw, Paola Nassisi*
+- [Development of analytics services](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_Presentation-Analytics_Services.pdf) – *Stephan Kindermann*
+- [Supporting standards for CF and Data Request](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_Supporting-standards-for-CF-and-Data-Request_Juckes-Cofino.pdf) – *Martin Juckes, Antonio Cofino*
+- [ES-DOC: metadata and errata service](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_Metadata-and-errata-service_Hassel-Nasser.pdf) – *David Hassel, Guillaume Levavasseur, Atef Ben Nasser*
+- [Climate4impact portal](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_Climate4Impact.pdf) – *Alessandro Spinuso, Christian Pagé*
+- [Climate indices](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_Climate_indices_Pagé.pdf) – *Christian Pagé*
 
 ***Session 3 - Obj. 1 - Integration, sustainability and strategy***
-- [Enlarging the user base: main achievements from trainings and schools – lessons for the future](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Janette Bessembinder, Peter Siegmund and Vladimir Djurdjevic*
-- [Sustainable infrastructure: towards ENES-RI](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Fanny Adloff, Michael Lautenschlager*
-- [Strategy: elements and discussion on recommendations](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Bryan Lawrence*
+- [Enlarging the user base: main achievements from trainings and schools – lessons for the future](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_Presentation-JanetteB_VladimirD_PeterS.pdf) – *Janette Bessembinder, Peter Siegmund and Vladimir Djurdjevic*
+- [Sustainable infrastructure: towards ENES-RI](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_sustainability_Adloff.pdf) – *Fanny Adloff, Michael Lautenschlager*
+- [Strategy: elements and discussion on recommendations](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3-Foresight 2023-Draft1.pdf) – *Bryan Lawrence*
 
 ***Session 4 - Introducing new ESM projects***
-- [OptimESM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Torben Königk*
-- [EERIE](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Malcolm Roberts*
+- [OptimESM](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_OptimESM-IS-ENES_18Jan2023-TorbenKoenigk.pdf) – *Torben Königk*
+- [EERIE](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_MalcolmRoberts_IS-ENES_Jan2023.pdf) – *Malcolm Roberts*
 
 ***Session 5 - What’s next? IS-ENES in the European and international landscape***
-- [Preparing CMIP7: task groups/info from the WIP](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Martin Juckes*
-- [Copernicus C3S](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Guillaume Levavasseur*
-- [Climateurope2](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Christian Pagé, Alessandro Spinuso*
-- [EGI collaboration with IS-ENES](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Tiziana Ferrari*
-- [IS-ENES collaboration with EUDAT and some EOSC projects](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Hannes Thiemann & Stephan Kindermann*
-- [From ESiWACE2 to ESiWACE3](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ESGF_Conference_Draft_Agenda.pdf) – *Mario Acosta*
+- [Preparing CMIP7: task groups/info from the WIP](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_CMIP-Task-Teams.pdf) – *Martin Juckes*
+- [Copernicus C3S](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_Copernicus-C3S.pdf) – *Guillaume Levavasseur*
+- [Climateurope2](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_Climateurope2_Pagé.pdf) – *Christian Pagé, Alessandro Spinuso*
+- [EGI collaboration with IS-ENES](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_EGI_Federation.pdf) – *Tiziana Ferrari*
+- [IS-ENES collaboration with EUDAT and some EOSC projects](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_Presentation-EOSC.pdf) – *Hannes Thiemann & Stephan Kindermann*
+- [From ESiWACE2 to ESiWACE3](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_ESiWACE3_Intro_MarioAcosta.pdf) – *Mario Acosta*
 
 <hr style="border:2px solid gray">
 
