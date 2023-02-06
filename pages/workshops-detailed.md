@@ -31,6 +31,8 @@ Find the **full programme** [here](https://raw.githubusercontent.com/IS-ENES3/IS
 
 **Presentations**
 
+- [IS-ENES3 WP reports (WP2 to WP10)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_WP2_to_WP10_report.pdf)
+
 - [IS-ENES3 Overview](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_Final_GA_Overview_SJoussaume.pdf), *Sylvie Joussaume, Bryan Lawrence*
 
 ***Session 1 - Obj. 2 – Models, tools and HPC (incl. Evaluation tools)***
