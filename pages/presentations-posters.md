@@ -49,7 +49,7 @@ No. | Conference
 
 Title | Type
 :----:|:----:
-[IS-ENES3 Kick-off meeting](https://is-enes3.github.io/IS-ENES-Website/workshops#kickoff) | Internal Link
+[IS-ENES3 Kick-off meeting](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#kickoff) | Internal Link
 [IS-ENES3 Virtual 1st General Assembly](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#isenes3ga1) | Internal Link
 [IS-ENES3 2nd General Assembly](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed/#isenes3ga2) | Internal Link
 [IS-ENES3 Final General Assembly](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed/#final-ga) | Internal Link
