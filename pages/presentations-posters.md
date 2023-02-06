@@ -52,6 +52,7 @@ Title | Type
 [IS-ENES3 Kick-off meeting](https://is-enes3.github.io/IS-ENES-Website/workshops#kickoff) | Internal Link
 [IS-ENES3 Virtual 1st General Assembly](https://is-enes3.github.io/IS-ENES-Website/workshops#isenes3ga1) | Internal Link
 [IS-ENES3 2nd General Assembly](https://is-enes3.github.io/IS-ENES-Website/workshops#isenes3ga2) | Internal Link
+[IS-ENES3 Final General Assembly](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed/#final-ga) | Internal Link
 [IS-ENES3 Virtual workshop on Compute and Analytics (2 Dec. 2019)](https://is-enes3.github.io/IS-ENES-Website/workshops#compute-analytics) | Internal Link
 [IS-ENES3 Webinar on Access to CORDEX and CMIP6 climate data](https://is-enes3.github.io/IS-ENES-Website/workshops#cordex-webinar) | Internal Link
 [First IS-ENES3 virtual Autumn School on Climate data use for impact assessments](https://is-enes3.github.io/IS-ENES-Website/training#autumn-school) | Internal Link
