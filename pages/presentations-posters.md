@@ -59,7 +59,7 @@ Title | Type
 [IS-ENES3 Workshop: Climate indices - an Eastern European perspective](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed/#climate-indices) | Internal Link
 [Fifth Workshop on Coupling Technologies for Earth System Models (CW2020)](https://portal.enes.org/coupling-workshops-detailed/#CW2020) | ENES Portal Link
 [Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling](https://is.enes.org/workshops-detailed/#ML-AI-WS) | ENES Portal Link
-[IS-ENES3 virtual workshop on requirements for a fast and scalable evaluation workflow (18-19 May 2021)](https://is-enes3.github.io/IS-ENES-Website/workshops#fast-scalable-evaluation) | Internal Link
+[IS-ENES3 virtual workshop on requirements for a fast and scalable evaluation workflow (18-19 May 2021)](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed/#fast-scalable-evaluation) | Internal Link
 [IS-ENES3 Central&Eastern Europe Autumn School: From Climate Projections to Climate impacts via Regional Downscaling (28 Nov-2 Dec 2022)](https://is-enes3.github.io/IS-ENES-Website/central-and-eastern-europe-autumn-schools) | Internal Link
 
 ### AGU2019
