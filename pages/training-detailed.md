@@ -171,6 +171,8 @@ The webinar will:
 ### <a name="ds-school"></a>IS-ENES3 Data Science Summer School
 - **Sep 01, 2022 09:00 AM to Sep 07, 2022 05:00 PM (Europe/Vienna / UTC200)**
 
+**[Watch the video clip from the School !](https://youtu.be/3J3PTeZSrDs)**
+
 **At a glance** |
 :--------------:|:------------:
 What: | One week, fully funded Summer School
