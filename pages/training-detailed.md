@@ -26,7 +26,7 @@ header:
 ### <a name="cylc-webinar"></a>IS-ENES3 Webinar on Cylc
 - On **16 March - 10:00-11:00am CET**
 
-![cylc-webinar](../images/cylc-logo-colour.png)
+![cylc-webinar](../images/Cylc-Webinar-v2.png)
 
 [Cylc](https://cylc.github.io/) is a general purpose workflow engine that orchestrates cycling systems very efficiently.
 It is used for production weather, climate, and environmental forecasting on HPC systems, but is not specialized to those domains.
