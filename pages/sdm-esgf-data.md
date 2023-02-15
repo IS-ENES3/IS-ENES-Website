@@ -30,20 +30,22 @@ Here is the list of European ESGF portals. Find the one hosting the data of your
 
 ![DKRZlogo](../images/DKRZ_Logo_281x127_2014.png) 
 
-**[German Climate Computing Centre](https://www.dkrz.de/de)**
-long term archived data is also available via the [WDCC](https://www.wdc-climate.de/ui/)
+**Access from the [DKRZ ESGF node](https://esgf-data.dkrz.de/projects/esgf-dkrz/)**
 
 ![cedalogo](../images/ceda.png)  
 
-**[Centre for Environmental Data Analysis](https://www.ceda.ac.uk/)** (CEDA)
+**Access from the [CEDA ESGF node](https://esgf-index1.ceda.ac.uk/projects/esgf-ceda/)** 
 
 ![ipsllogo](../images/IPSL-logo.png)  
 
-**[Institut Pierre Simon Laplace](https://www.ipsl.fr/en/home-en/)** (IPSL)
+**Access from the [IPSL ESGF node](https://esgf-node.ipsl.upmc.fr/projects/esgf-ipsl/)** 
 
 ![nsc-liu-logo](../images/nsc-liu-logo.png) 
 
-**National Supercomputer Centre ([NSC](https://www.nsc.liu.se/)), Linköping University, Swedish Meteorological and Hydrological Institute ([SMHI](https://www.smhi.se/q/Stockholm/2673730))**
+**Access from the [NSC ESGF node](https://esg-dn1.nsc.liu.se/projects/esgf-liu/)**
+
+Long term archived data are also available at [WDCC](https://is.enes.org/sdm-long-term-data/).
+
 
 
 
