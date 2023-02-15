@@ -25,7 +25,7 @@ header:
 
 **The [Climate4Impact portal](https://dev.climate4impact.eu/c4i-frontend/) is a user interface and a collection of services dedicated to climate change impact modellers, impact and adaptation consultants, and other experts using climate change data.**
 
-Bridging the gap from Global Climate Model data to Impact models input data
+Bridging the gap from global and regional climate model data to impact models input data
 
 - Access to data, also remotely (no need for data download or software installation)
 - Quick looks of Global and Regional Climate models, as well as some downscaled higher resolution climate data
