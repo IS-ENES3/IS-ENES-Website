@@ -30,7 +30,11 @@ header:
 
 [Cylc](https://cylc.github.io/) is a general purpose workflow engine that orchestrates cycling systems very efficiently.
 It is used for production weather, climate, and environmental forecasting on HPC systems, but is not specialized to those domains.
-In this webinar we will explain what Cylc is, describe its main features and cover recent developments.
+In this webinar, Oliver Sanders from the [Met Office](https://www.metoffice.gov.uk/) will explain what Cylc is, describe its main features and cover recent developments.
+
+The webinar will last about 45 minutes with 15 additional minutes for questions.
+
+In order to receive the connection link, please **register by completing [this form](https://forms.gle/CJBspLc4wGTPqsCCA)** before **March 14th**. 
 
 <hr style="border:2px solid gray">
 
