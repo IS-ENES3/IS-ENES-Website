@@ -25,8 +25,7 @@ header:
 
 ### ENES ESGF data portals
 
-Here is the list of European ESGF portals. Find the one hosting the data of your interest and [search and download](https://esgf.github.io/esgf-user-support/) climate data free of charge. 
-
+Access climate model data from the European ESGF index nodes. You can [search and download](https://esgf.github.io/esgf-user-support/) ESGF data from CMIP and CORDEX free of charge:
 
 ![DKRZlogo](../images/DKRZ_Logo_281x127_2014.png) 
 
