@@ -23,7 +23,7 @@ header:
 
 ---
 
-**The [Climate4Impact portal](www.climate4impact.eu) is a user interface and a collection of services dedicated to climate change impact modellers, impact and adaptation consultants, and other experts using climate change data.**
+**The [Climate4Impact portal](https://www.climate4impact.eu) is a user interface and a collection of services dedicated to climate change impact modellers, impact and adaptation consultants, and other experts using climate change data.**
 
 Bridging the gap from global and regional climate model data to impact models input data
 
