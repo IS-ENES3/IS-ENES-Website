@@ -60,3 +60,4 @@ Title | Type
 [M10.1 - Technical requirements on the software stack](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M10.1.pdf) | File
 [M10.2 - CMIP Data Request Schema 2.0](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M10-2_DataRequestSchema_1-1.pdf) | File
 [M10.3 - Climate indicators/indicesand file metadata specifications and tools](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M10.3.pdf) | File
+[M10.4 - Climate indices and file metadata specifications and tools - Update of M10.3](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M10.4.pdf) | File
