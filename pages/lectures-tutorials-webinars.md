@@ -30,7 +30,7 @@ widget2:
   image: 'Training_ECAS.png'
   text: 'IS-ENES3/EOSC Online Training on Data Analytics: How to skip high-volume data transfer and access free computing resources for your CMIP analyses (March 2021)'
 widget3:
-  title: "5th Coupling Workshop"
+  title: "5th Coupling Workshop (2020)"
   url: 'https://www.youtube.com/watch?v=p5kQii_UNlU&list=PLFvev1W5vG7O-h0H1AYrXHtkPQ3zAOZjt'
   image: 'Coupling_Workshop.png'
   text: 5th Workshop on Coupling Technologies for Earth System Models, Sept 2020
@@ -69,7 +69,11 @@ widget10:
   url: 'https://www.youtube.com/watch?v=SfskX5wKugM'
   image: 'Code_Coupling_YT.png'
   text: 'General concepts and latest news of the OASIS3-MCT coupler (May 2022), Sophie Valcke (CERFACS)'
-
-
+widget11:
+  title: "6th Coupling Workshop (2023)"
+  url: 'https://www.youtube.com/watch?v=9dK_BP6LXZM&list=PLFvev1W5vG7NVX4AMbERCgMfEe--wTUMN&ab_channel=IS-ENES3H2020'
+  image: 'Coupled-Systems-I.png'
+  text: '6th Workshop on Coupling Technologies for Earth System Models, Toulouse, January 2023'
+  
 ---
 
