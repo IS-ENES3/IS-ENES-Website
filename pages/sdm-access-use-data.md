@@ -34,7 +34,7 @@ widget3:
   title: "Long-term Archive"
   url: 'https://is-enes3.github.io/IS-ENES-Website/sdm-long-term-data/'
   image: picto_Model_Data_3.png
-  text: 'Access IPCC-DDC and long-term archive'
+  text: 'Access IPCC-DDC and long-term archive for older climate simulations'
 widget4:
   title: "Climate Analytics Service"
   url: 'https://is-enes3.github.io/IS-ENES-Website/sdm-climate-analytics-data/'
