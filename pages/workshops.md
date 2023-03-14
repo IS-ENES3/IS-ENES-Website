@@ -27,12 +27,13 @@ header:
 
 ## Upcoming
 
-#### [IS-ENES3 Final General Assembly](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#final-ga) (16-18 January 2023)
-#### [Sixth Workshop on Coupling Technologies for Earth System Models](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#cw2023) (CW2023, 18-20 January 2023)
-#### [International ESGF Hybrid Conference Toulouse/Oak Ridge](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#esgf2023) (18-19 January 2023)
+#### [IS-ENES3 @ EGU2023](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#isenes3-egu2023) (23–28 April 2023)
 
 ## Past
 
+#### [IS-ENES3 Final General Assembly](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#final-ga) (16-18 January 2023)
+#### [Sixth Workshop on Coupling Technologies for Earth System Models](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#cw2023) (CW2023, 18-20 January 2023)
+#### [International ESGF Hybrid Conference Toulouse/Oak Ridge](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#esgf2023) (18-19 January 2023)
 #### [2022 CF Workshop](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#cfworkshop2022) (13-15 September 2022)
 #### [1st ESMValTool Workshop 2022](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#firstesmvaltoolworkshop2022) (13-15 June 2022)
 #### [7th ENES HPC Workshop](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#bsc2022) (09-11 May 2022)
