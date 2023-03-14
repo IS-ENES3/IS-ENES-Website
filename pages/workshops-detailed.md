@@ -23,6 +23,37 @@ header:
 
 ---
 
+### <a name="isenes3-egu2023e"></a>IS-ENES3 at EGU2023
+- Date: **23–28 April 2023**
+
+![egu2022](../images/egu-2022.png)
+
+- ESSI2.2 - [An EOSC-enabled Data Space environment for the climate community](https://meetingorganizer.copernicus.org/EGU23/EGU23-7074.html), by Fabrizio Antonio et al.
+- ESSI2.8 - [Virtual aggregations to improve scientific ETL and data analysis for datasets from the Earth System Grid Federation](https://meetingorganizer.copernicus.org/EGU23/EGU23-16117.html), by Ezequiel Cimadevilla et al.
+- ESSI2.9 - [Challenges of integrating large infrastructures using the example of ENES-CDI and EOSC](https://meetingorganizer.copernicus.org/EGU23/EGU23-14294.html), by Hannes Thiemann et al.
+
+- ESSI3.3 - [ Navigating the Realities of FAIR and Open Data in Research Data Repositories: a Balancing Act Between Fostering Open Science vs Meeting Reporting Requirements | PICO](https://meetingorganizer.copernicus.org/EGU23/session/45405)
+  - [Tracking and reporting peta-scale data exploitation within the Earth System Grid Federation through the ESGF Data Statistics service](https://meetingorganizer.copernicus.org/EGU23/EGU23-6831.html), by Alessandra Nuzzo et al.
+  - [Tools to support climate researchers for long-tail research data in a FAIR context](https://meetingorganizer.copernicus.org/EGU23/EGU23-8170.html), by Christian Pagé et al.
+
+- ESSI3.5 - [Provenance powered microservices: a flexible and generic approach fostering reproducible research in Earth Science](https://meetingorganizer.copernicus.org/EGU23/EGU23-2744.html), by Alessandro Spinuso et al.
+
+- ESSI3.6 - [Collaborative Science Through Free and Open Source Software Tools and Frameworks in Earth sciences (Geo, Weather, Climate) | PICO](https://meetingorganizer.copernicus.org/EGU23/session/45401)
+  - [User-friendly climate data discovery and analysis with ESMValCore](https://meetingorganizer.copernicus.org/EGU23/EGU23-9782.html), by Bouwe Andela et al.
+  - [Evaluation of Native Earth System Model Output with ESMValTool](https://meetingorganizer.copernicus.org/EGU23/EGU23-7461.html), by Manuel Schlund and al.
+
+- SPM74 - [ESMValTool community meeting](https://meetingorganizer.copernicus.org/EGU23/session/47852). Convener: Bouwe Andela.
+
+***Sessions in which IS-ENES3 members are co-conveners***
+- ESSI2.5 - [Research data infrastructures in ESS facing user needs, sustainability, and cultural change](https://meetingorganizer.copernicus.org/EGU23/session/45424)
+  - Convener: Daniel Nüst
+  - Co-conveners: Christin Henzen, Kirsten Elger, Christian Pagé, Heinrich Widmann, Kerstin Lehnert
+- SC5.6 - [Getting started with Python in climate science](https://meetingorganizer.copernicus.org/EGU23/session/46568)
+  - Convener: Shalenys Bedoya-Valestt 
+  - Co-conveners: Christian Pagé, Ichiko Sugiyama
+
+<hr style="border:2px solid gray">
+
 ### <a name="final-ga"></a>IS-ENES3 Final General Assembly
 
 The project Final General Assembly was held on **January 16-18, 2023** at the “Centre International de Conférences” on Météo-France campus in **Toulouse, France**. The workshop was held in a **hybrid format** with remote attendance possible.
