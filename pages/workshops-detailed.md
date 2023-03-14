@@ -32,13 +32,13 @@ header:
 - ESSI2.8 - [Virtual aggregations to improve scientific ETL and data analysis for datasets from the Earth System Grid Federation](https://meetingorganizer.copernicus.org/EGU23/EGU23-16117.html), by Ezequiel Cimadevilla et al.
 - ESSI2.9 - [Challenges of integrating large infrastructures using the example of ENES-CDI and EOSC](https://meetingorganizer.copernicus.org/EGU23/EGU23-14294.html), by Hannes Thiemann et al.
 
-- ESSI3.3 - [ Navigating the Realities of FAIR and Open Data in Research Data Repositories: a Balancing Act Between Fostering Open Science vs Meeting Reporting Requirements | PICO](https://meetingorganizer.copernicus.org/EGU23/session/45405)
+- ESSI3.3 - [ Navigating the Realities of FAIR and Open Data in Research Data Repositories: a Balancing Act Between Fostering Open Science vs Meeting Reporting Requirements - PICO](https://meetingorganizer.copernicus.org/EGU23/session/45405)
   - [Tracking and reporting peta-scale data exploitation within the Earth System Grid Federation through the ESGF Data Statistics service](https://meetingorganizer.copernicus.org/EGU23/EGU23-6831.html), by Alessandra Nuzzo et al.
   - [Tools to support climate researchers for long-tail research data in a FAIR context](https://meetingorganizer.copernicus.org/EGU23/EGU23-8170.html), by Christian Pagé et al.
 
 - ESSI3.5 - [Provenance powered microservices: a flexible and generic approach fostering reproducible research in Earth Science](https://meetingorganizer.copernicus.org/EGU23/EGU23-2744.html), by Alessandro Spinuso et al.
 
-- ESSI3.6 - [Collaborative Science Through Free and Open Source Software Tools and Frameworks in Earth sciences (Geo, Weather, Climate) | PICO](https://meetingorganizer.copernicus.org/EGU23/session/45401)
+- ESSI3.6 - [Collaborative Science Through Free and Open Source Software Tools and Frameworks in Earth sciences (Geo, Weather, Climate) - PICO](https://meetingorganizer.copernicus.org/EGU23/session/45401)
   - [User-friendly climate data discovery and analysis with ESMValCore](https://meetingorganizer.copernicus.org/EGU23/EGU23-9782.html), by Bouwe Andela et al.
   - [Evaluation of Native Earth System Model Output with ESMValTool](https://meetingorganizer.copernicus.org/EGU23/EGU23-7461.html), by Manuel Schlund and al.
 
