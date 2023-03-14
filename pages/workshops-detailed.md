@@ -23,7 +23,7 @@ header:
 
 ---
 
-### <a name="isenes3-egu2023e"></a>IS-ENES3 at EGU2023
+### <a name="isenes3-egu2023"></a>IS-ENES3 at EGU2023
 - Date: **23–28 April 2023**
 
 ![egu2022](../images/egu-2022.png)
