@@ -118,6 +118,8 @@ You can register **[here](https://docs.google.com/forms/d/e/1FAIpQLSfl6Gn_rCrDje
 
 ![esmvaltooltrainings](../images/ESMValTool-Webinar-and-Workshop-VF-resized2.png)
 
+**Find the recording of the ESMValTool webinar on [our YouTube channel](https://www.youtube.com/watch?v=3tzU2zcCxUU&ab_channel=IS-ENES3H2020) ! **
+
 The Earth System Model Evaluation Tool ([ESMValTool](https://esmvaltool.org/)) is a tool developed for evaluation of Earth System Models in CMIP (Climate Model Intercomparison Projects). It allows for routine comparison of single or multiple models, either against predecessor versions or against observations. It was developed especially to support climate model researchers, however, results from ESMValTool may also be useful for a broader range of users, especially those working on climate impacts and climate adaptation.
 
 - **Webinar**
@@ -165,6 +167,8 @@ The aim of the schools is to:
 
 ![oasistraining](../images/OASIS-MCT-3-resized.png)
 
+**You can find the recording of the webinar [here](https://www.youtube.com/watch?v=SfskX5wKugM) and download the full presentation [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/20220505_WebinarCodeCoupling.pdf).**
+
 This webinar, first of a series of IS-ENES3 webinars, is organised by [CERFACS](https://cerfacs.fr/en/) to answer all questions you may have about code coupling and never dared to ask !
 
 The webinar will:  
@@ -172,14 +176,13 @@ The webinar will:
 - Describe the different technical solutions and software available for code coupling in climate modelling
 - Give a general overview of the **[OASIS3-MCT coupler](https://oasis.cerfacs.fr/en/)**, describing its latest improvements achieved in the framework of the IS-ENES3 project
 
-**You can find the recording of the webinar [here](https://www.youtube.com/watch?v=SfskX5wKugM) and download the full presentation [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/20220505_WebinarCodeCoupling.pdf).**
-
 <hr style="border:2px solid gray">
 
 ### <a name="ds-school"></a>IS-ENES3 Data Science Summer School
 - **Sep 01, 2022 09:00 AM to Sep 07, 2022 05:00 PM (Europe/Vienna / UTC200)**
 
 **[Watch the video clip from the School !](https://youtu.be/3J3PTeZSrDs)**
+**Watch the keynotes talks of the Summer School [here](https://www.youtube.com/watch?v=bAR6TymbBTk&list=PL18_rB75vx1M3TMTnR8dkfLHYAa7447pF&index=1&ab_channel=Inst.Informatics%26Telecomms%2CNCSRDemokritos)**
 
 **At a glance** |
 :--------------:|:------------:
