@@ -28,7 +28,7 @@ Title | Type
 [D2.4 - Final report on governance activities](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D2.4.pdf) | File
 [D3.1 - Initial requirements on model evaluation](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D3.1-vf.pdf) | File
 [D3.2 - Report on Evaluation of three IS-ENES3 Schools ‘Climate data use for impact assessments’ (2020-2021) and the IS-ENES3 Summer School on Data Science for Climate Modelling (2022)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D3.2.pdf) | File
-[D3.3 - Standards Synthesis)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D3.3.pdf) | File
+[D3.3 - Standards Synthesis](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D3.3.pdf) | File
 [D3.4 - CMIP documentation requirements](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D3.4.pdf)| File
 [D4.1 - Coupling workshop report](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D4.1_Coupling_workshop_report.pdf) | File
 [D4.2 - Development strategy for sea ice modelling in NEMO](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D4.2_Development_strategy_for_sea_ice_modelling_in_NEMO.pdf) | File
