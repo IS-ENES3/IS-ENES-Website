@@ -104,6 +104,8 @@ Find the **full programme** [here](https://raw.githubusercontent.com/IS-ENES3/IS
 
 ### <a name="cw2023"></a>Sixth Workshop on Coupling Technologies for Earth System Models (CW2023)
 
+**Watch the full recording of the CW2023 on [our Youtube channel](https://www.youtube.com/watch?v=9dK_BP6LXZM&list=PLFvev1W5vG7NVX4AMbERCgMfEe--wTUMN&ab_channel=IS-ENES3H2020) !**
+
 The 6th Workshop on Coupling Technologies for Earth System Models (CW2023) will be held on **January 18-20, 2023** at the “Centre International de Conférences” on Météo-France campus in **Toulouse, France**. The workshop will be held in a **hybrid format** with remote attendance possible.
 
 Find all information on the [official webpage](https://portal.enes.org/cw2023-toulouse/). 
@@ -140,6 +142,8 @@ The first ESMValTool Workshop 2022 took place at DLR Oberpfaffenhofen from 13–
 <hr style="border:2px solid gray">
 
 ### <a name="bsc2022"></a>7th ENES HPC Workshop Barcelona 2022
+
+**Watch the recording of the workshop on [our YouTube channel](https://www.youtube.com/watch?v=rLx8-t_5LYQ&list=PLFvev1W5vG7P56bYBrfQTaSYEPeijjolJ&ab_channel=IS-ENES3H2020)** !
 
 **Find all details about this workshop on the [ENES Portal](https://portal.enes.org/hpc-workshops-detailed/#hpc7)**
 
@@ -476,6 +480,8 @@ Specifically, the workshop included the following topics and presentations:
 ### <a name="ML-AI-WS"></a>Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling
 - When: **Mar 16, 2021 03:00 PM to Mar 18, 2021 06:30 PM (Europe/Paris / UTC100)**
 
+**Watch the recording of the ML/AI workshop on [our YouTube channel](https://www.youtube.com/watch?v=P0RtRdLvAGA&list=PLFvev1W5vG7NP2xSRRorQabHWKKwJqw54&ab_channel=IS-ENES3H2020) !**
+
 ![MLAIWorkshop](../images/ML-AI_Workshop_banner_V2.png)
 
 Organised jointly by the H2020 projects IS-ENES3 and ESiWACE2, the workshop was held virtually from the 16th to 18th March 2021 (3.5h per day). 
@@ -564,6 +570,8 @@ Specifically, the workshop included the following topics:
 <hr style="border:2px solid gray">
 
 ### <a name="CW2020"></a>5th Workshop on Coupling Technologies for Earth System Models
+
+**Watch the recording of the CW2020 on [our YouTube channel](https://www.youtube.com/watch?v=p5kQii_UNlU&list=PLFvev1W5vG7O-h0H1AYrXHtkPQ3zAOZjt&ab_channel=IS-ENES3H2020) !**
 
 **Find all details about this workshop on the [ENES Portal](https://portal.enes.org/coupling-workshops-detailed/#CW2020)**
 
