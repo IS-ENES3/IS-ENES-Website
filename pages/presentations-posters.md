@@ -49,18 +49,26 @@ No. | Conference
 
 Title | Type
 :----:|:----:
-[IS-ENES3 Kick-off meeting](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#kickoff) | Internal Link
-[IS-ENES3 Virtual 1st General Assembly](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#isenes3ga1) | Internal Link
-[IS-ENES3 2nd General Assembly](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed/#isenes3ga2) | Internal Link
-[IS-ENES3 Final General Assembly](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed/#final-ga) | Internal Link
-[IS-ENES3 Virtual workshop on Compute and Analytics (2 Dec. 2019)](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#compute-analytics) | Internal Link
-[IS-ENES3 Webinar on Access to CORDEX and CMIP6 climate data](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#cordex-webinar) | Internal Link
+[IS-ENES3 Kick-off meeting (January 2019)](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#kickoff) | Internal Link
+[IS-ENES3 Virtual 1st General Assembly (March 2021)](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#isenes3ga1) | Internal Link
+[IS-ENES3 2nd General Assembly (October 2021)](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed/#isenes3ga2) | Internal Link
+[IS-ENES3 Final General Assembly (January 2023)](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed/#final-ga) | Internal Link
+[IS-ENES3 Virtual workshop on Compute and Analytics (Dec. 2019)](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#compute-analytics) | Internal Link
+[IS-ENES3 Webinar on Access to CORDEX and CMIP6 climate data (June 2020)](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#cordex-webinar) | Internal Link
 [First IS-ENES3 virtual Autumn School on Climate data use for impact assessments](https://is-enes3.github.io/IS-ENES-Website/training-detailed/#autumn-school) | Internal Link
 [IS-ENES3 Workshop: Climate indices - an Eastern European perspective](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed/#climate-indices) | Internal Link
 [Fifth Workshop on Coupling Technologies for Earth System Models (CW2020)](https://portal.enes.org/coupling-workshops-detailed/#CW2020) | ENES Portal Link
-[Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling](https://is.enes.org/workshops-detailed/#ML-AI-WS) | ENES Portal Link
+[Sixth Workshop on Coupling Technologies for Earth System Models (CW2023)](https://portal.enes.org/cw2023-toulouse/) | ENES Portal Link
+[Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling (March 2021)](https://is.enes.org/workshops-detailed/#ML-AI-WS) | ENES Portal Link
 [IS-ENES3 virtual workshop on requirements for a fast and scalable evaluation workflow (18-19 May 2021)](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed/#fast-scalable-evaluation) | Internal Link
 [IS-ENES3 Central&Eastern Europe Autumn School: From Climate Projections to Climate impacts via Regional Downscaling (28 Nov-2 Dec 2022)](https://is-enes3.github.io/IS-ENES-Website/central-and-eastern-europe-autumn-schools) | Internal Link
+[7th ENES HPC Workshop (May 2022)](https://portal.enes.org/hpc-workshops-detailed/#hpc7) | ENES Portal Link
+[IS-ENES3 Webinar: Code coupling: general concepts and latest news of the OASIS3-MCT coupler (May 2022)](https://is.enes.org/training-detailed/#oasis-training) | Internal Link
+[Introduction to ESMValTool: a tool for evaluation of climate model data - Webinar (June 2022)](https://is.enes.org/training-detailed/#esmvaltool-training) | Internal Link
+[IS-ENES3 Webinar for the EU Outermost territories: Introduction to the IS-ENES3 climate data services (Oct. 2022)](https://is.enes.org/training-detailed/#outermost-territories) | Internal Link
+
+
+
 
 ### AGU2019
 
@@ -173,6 +181,7 @@ Title | Type
 [Scientific Gateways 2019](https://zenodo.org/record/3546232#.YlAiICbTVD-) | Zenodo Link
 [Scientific Gateways 2021](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/c4i_icclim_SG2021_CPAGE.pdf) | PDF File
 [Scientific Gateways 2022 - Making Climate Data Actionable: Pre-Computed Climate Indices Provided in an Interactive Platform, C. Pagé](https://zenodo.org/record/7463300#.Y6HSuBWZM2x) | Zenodo Link
+[Scientific Gateways 2022 - Bridging Cloud and HPC towards High Performance Data Analytics for climate science, D. Elia](https://indico.egi.eu/event/5882/contributions/16716/attachments/14761/19001/3.%20Bridging%20Cloud%20and%20HPC%20towards%20High%20Performance%20Data%20Analytics%20for%20climate%20science.pdf) | External Link
 [Climate Science2Policy 2020](https://zenodo.org/record/4282167#.YlAiPybTVD9) | Zenodo Link
 [Research Data Alliance (RDA) Plenary Meeting 2020](https://zenodo.org/record/4282222#.YlAiWybTVD9) | Zenodo Link
 [C3S Workshops](https://zenodo.org/record/4674539#.YlAieybTVD9) | Zenodo Link
@@ -182,4 +191,8 @@ Title | Type
 [SciDataCon 2022 - Challenges in the road toward better FAIR support in downstream climate products, C. Pagé](https://zenodo.org/record/7463341#.Y6HTZBWZM2x) | Zenodo Link
 [ClimateData.ca Conference](https://zenodo.org/record/5930348#.YlAi9SbTVD9) | Zenodo Link
 [WGCM-24](https://zenodo.org/record/5930437#.YlAjFibTVD9) | Zenodo Link
-[EuroHPC Summit week (March 2022)](https://zenodo.org/record/6394413#.YlAjLybTVD9) | Zenodo Link
+[EuroHPC Summit week  - Modelling Climate Change, S. Joussaume (March 2022)](https://zenodo.org/record/6394413#.YlAjLybTVD9) | Zenodo Link
+[AMS 2022 - icclim: Calculating Climate Indices and Indicators Made Easy, C. Pagé](https://zenodo.org/record/5913283#.ZBH5IHbMJaR) | Zenodo Link
+[AMS 2023 - Climate Data Analysis Tools and Datasets to Support Climate Action, C. Pagé](https://zenodo.org/record/7589533#.ZBH6cnbMJaR) | Zenodo Link
+[ICES Foundation Biennal Workshop VI - Panel on HPC, Digital twins, evolution of climate models & new meteo codes, S. Joussaume](http://www.icesfoundation.org/UsersFiles/FCKeditorFiles/file/ICES%20Biennial%20Presentations/SJoussaume.pdf) | External Link
+
