@@ -24,6 +24,7 @@ header:
 ---
 
 ### Some of our past workshops are recorded on our [YouTube (YT)](https://is-enes3.github.io/IS-ENES-Website/lectures-tutorials-webinars/) !
+You can also find all those resources in the "Dissemination" section (Presentations - Lectures/Tutorials/Webinars)
 
 ## Upcoming
 
@@ -32,11 +33,11 @@ header:
 ## Past
 
 #### [IS-ENES3 Final General Assembly](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#final-ga) (16-18 January 2023)
-#### [Sixth Workshop on Coupling Technologies for Earth System Models](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#cw2023) (CW2023, 18-20 January 2023)
+#### [Sixth Workshop on Coupling Technologies for Earth System Models](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#cw2023) (CW2023, 18-20 January 2023)(YT)
 #### [International ESGF Hybrid Conference Toulouse/Oak Ridge](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#esgf2023) (18-19 January 2023)
 #### [2022 CF Workshop](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#cfworkshop2022) (13-15 September 2022)
 #### [1st ESMValTool Workshop 2022](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#firstesmvaltoolworkshop2022) (13-15 June 2022)
-#### [7th ENES HPC Workshop](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#bsc2022) (09-11 May 2022)
+#### [7th ENES HPC Workshop](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#bsc2022) (09-11 May 2022)(YT)
 #### [IS-ENES3 at EGU2022](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#isenes3-egu2022) (23-27 May 2022)
 #### [2nd Technical ESMValTool Workshop 2021](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#esmv1) (23-25 Nov 2021)
 #### [IS-ENES3 virtual 2nd General Assembly](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#isenes3ga2) (04-06 Oct 2021)
@@ -49,7 +50,7 @@ header:
 #### [Joint IS-ENES3/ESiWACE2 Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#ML-AI-WS) (16-18 Mar 2021)(YT)
 #### [4th Climate4Impact Coding Sprint](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#C4I4th) (28-29 Jan 2021)
 #### [7th Technical ESMValTool Coding workshop](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#7thESMValTool) (24-26 Nov 2020)
-#### [5th Workshop on Coupling Technologies for Earth System Models](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#CW2020) (21-24 Sep 2020)
+#### [5th Workshop on Coupling Technologies for Earth System Models](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#CW2020) (21-24 Sep 2020)(YT)
 #### [3rd Climate4Impact Coding Sprint](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#C4I3th) (16-17 Jun 2020)
 #### [IS-ENES3 webinar on the Access on CORDEX and CMIP6 climate data](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#cordex-webinar)  (15 Jun 2020)(YT)
 #### [The 2020 Climate and Forecast metadata Convention](https://is-enes3.github.io/IS-ENES-Website/workshops-detailed#CFConvention2020) (09-11 Jun 2020)
