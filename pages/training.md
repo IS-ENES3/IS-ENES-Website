@@ -24,6 +24,7 @@ header:
 ---
 
 ### Some of our past training and schools are recorded on our [YouTube (YT)](https://is-enes3.github.io/IS-ENES-Website/lectures-tutorials-webinars) !
+You can also find all those resources in the "Dissemination" section (Presentations - Lectures/Tutorials/Webinars)
 
 ## Upcoming
 
@@ -34,10 +35,10 @@ header:
 #### [IS-ENES3 Central & Eastern Europe Autumn Schools “From Climate Projections to Climate impacts via Regional Downscaling”](https://is-enes3.github.io/IS-ENES-Website/central-and-eastern-europe-autumn-schools) (28 Nov-2 Dec 2022)
 #### [IS-ENES3 Webinar for the EU Outermost territories: Introduction to the IS-ENES3 climate data services](https://is-enes3.github.io/IS-ENES-Website/training-detailed#outermost-territories) (12 Oct 2022)
 #### [CF conventions virtual training](https://is-enes3.github.io/IS-ENES-Website/training-detailed#cf-training) (08 Sep 2022)
-#### [IS-ENES3 Data Science Summer School](https://is-enes3.github.io/IS-ENES-Website/training-detailed#ds-school) (01-07 Sep 2022)
-#### [Introduction to ESMValTool: a tool for evaluation of climate model data - Webinar and Online Workshop](https://is-enes3.github.io/IS-ENES-Website/training-detailed#esmvaltool-training) (13th and 27 June 2022)
+#### [IS-ENES3 Data Science Summer School](https://is-enes3.github.io/IS-ENES-Website/training-detailed#ds-school) (01-07 Sep 2022) (YT)
+#### [Introduction to ESMValTool: a tool for evaluation of climate model data - Webinar and Online Workshop](https://is-enes3.github.io/IS-ENES-Website/training-detailed#esmvaltool-training) (13th and 27 June 2022) (YT)
 #### [IS-ENES3 Eastern Europe Spring Schools on Climate data and Impact assessments](https://is-enes3.github.io/IS-ENES-Website/training-detailed#ee-school) (17-19 May 2022)
-### [IS-ENES3 Webinar: Code coupling: general concepts and latest news of the OASIS3-MCT coupler](https://is-enes3.github.io/IS-ENES-Website/training-detailed#oasis-training)(05 May 2022)
+### [IS-ENES3 Webinar: Code coupling: general concepts and latest news of the OASIS3-MCT coupler](https://is-enes3.github.io/IS-ENES-Website/training-detailed#oasis-training)(05 May 2022) (YT)
 #### [IS-ENES3 Virtual clinic on bias-adjustment of climate model data](https://is-enes3.github.io/IS-ENES-Website/training-detailed#virt-clinic) (14-21 Oct 2021)
 #### [XIOS training sessions](https://is-enes3.github.io/IS-ENES-Website/training-detailed#xios) (15 Mar 2021 - 16 Apr 2021)
 #### [Online Training on Data Analytics: How to skip high-volume data transfer and access free computing resources for your CMIP analyses](https://is-enes3.github.io/IS-ENES-Website/training-detailed#da-cmip) (08-09 Mar 2021)(YT)
