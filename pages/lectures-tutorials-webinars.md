@@ -73,7 +73,7 @@ widget11:
   title: "Climate Impact School"
   url: "https://www.youtube.com/watch?v=_42ltTQzY30&list=PLFvev1W5vG7NDEZhxObXDd1Bc5rnBpYrk"
   image: 'Climate_Impact_School.png'
-  text: 'SCHOOL: Virtual Autumn School on Climate data use for impact assessments (Nov-Dec 2020). 11 talks (from 3à min to 1 hour).'
+  text: 'SCHOOL: Virtual Autumn School on Climate data use for impact assessments (Nov-Dec 2020). 11 talks (from 30 min to 1 hour).'
 widget12:
   title: "Data Science Summer School - Keynotes"
   url: 'https://www.youtube.com/watch?v=bAR6TymbBTk&list=PL18_rB75vx1M3TMTnR8dkfLHYAa7447pF&index=1'
