@@ -23,8 +23,6 @@ header:
 
 ---
 
-**Data from WCRP internationally coordinated experiments hosted in the ENES Data Federation.**
-
 **The ENES Climate Data Infrastructure provides access to model data from the WCRP internationally coordinated experiments CMIP and CORDEX.** 
 
 **CMIP, the [Coupled Model Intercomparison Project](https://www.wcrp-climate.org/wgcm-cmip)**, provides a common set of numerical experiments for global climate models with the objectives to evaluate models, lead to improvements in the model simulations and provide a better understanding of past, present and future climates.
