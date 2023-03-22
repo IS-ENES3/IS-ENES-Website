@@ -48,6 +48,7 @@ Title | Type
 [D7.1 - First KPI and TA report for ENES CDI data services](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D7.1.pdf) | File
 [D7.2 - First external review report for ENES CDI services](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D7.2.pdf) | File
 [D7.3 - Second KPI and TA report for ENES CDI data services](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3-D7.3.pdf) | File
+[D7.4 - Second external review report for ENES CDI services](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D7.4.pdf) | File
 [D7.5 - Report on operational support for CMIP documentation](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D7.5.pdf) | File
 [D8.1 - NEMO sea ice model code](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D8.1_NEMO-seaice-code_Sept-2021_FINAL.pdf)| File
 [D8.2 - OASIS3-`MCT_5.0` release](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D8.2.pdf) | File
