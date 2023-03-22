@@ -22,9 +22,22 @@ header:
     image_fullwidth: "banniere-events.jpg"
 
 ---
+### <a name="si3-webinar"></a>IS-ENES3 Webinar on SI3
+- On **11 May 2023 - 10:30-12:00pm CEST**
+
+*More information to be provided soon.*
+
+<hr style="border:2px solid gray">
+
+### <a name="c4i-webinar"></a>IS-ENES3 Webinar on the Climate4Impact portal and icclim
+- On **13 April 2023 - 10:00-12:00am CEST**
+
+*More information to be provided soon.*
+
+<hr style="border:2px solid gray">
 
 ### <a name="cylc-webinar"></a>IS-ENES3 Webinar on Cylc
-- On **16 March - 10:00-11:00am CET**
+- On **16 March 2023 - 10:00-11:00am CET**
 
 ![cylc-webinar](../images/Cylc-Webinar-v2-mini.png)
 
