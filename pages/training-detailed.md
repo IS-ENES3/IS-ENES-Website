@@ -46,7 +46,7 @@ However, no hands-on will be provided during the webinar.
 
 <hr style="border:2px solid gray">
 
-### <a name="cylc-webinar"></a>IS-ENES3 Webinar on Cylc
+### <a name="cylc-webinar"></a>IS-ENES3 Webinar: Introduction to the Cylc engine workflow
 - On **16 March 2023 - 10:00-11:00pm CET**
 
 **You can find the slides [here](https://cylc.github.io/cylc-presentations/IS-ENES3-2023/dist) and watch the recorded webinar on [our YouTube channel](https://youtu.be/MHC-PCuy_94) !**
