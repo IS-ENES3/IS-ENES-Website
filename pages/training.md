@@ -34,7 +34,7 @@ You can also find all those resources in the "Dissemination" section (Presentati
 
 ## Past
 
-#### [IS-ENES3 Webinar on Cylc](https://is-enes3.github.io/IS-ENES-Website/training-detailed#cylc-webinar) (16 March 2023) (YT)
+#### [IS-ENES3 Webinar: Introduction to the Cylc engine workflow](https://is-enes3.github.io/IS-ENES-Website/training-detailed#cylc-webinar) (16 March 2023) (YT)
 #### [IS-ENES3 Central & Eastern Europe Autumn Schools “From Climate Projections to Climate impacts via Regional Downscaling”](https://is-enes3.github.io/IS-ENES-Website/central-and-eastern-europe-autumn-schools) (28 Nov-2 Dec 2022)
 #### [IS-ENES3 Webinar for the EU Outermost territories: Introduction to the IS-ENES3 climate data services](https://is-enes3.github.io/IS-ENES-Website/training-detailed#outermost-territories) (12 Oct 2022)
 #### [CF conventions virtual training](https://is-enes3.github.io/IS-ENES-Website/training-detailed#cf-training) (08 Sep 2022)
