@@ -49,8 +49,6 @@ In this webinar, Oliver Sanders from the [Met Office](https://www.metoffice.gov.
 
 <hr style="border:2px solid gray">
 
-**Register [here](https://docs.google.com/forms/d/e/1FAIpQLSe2vznf7ZFe_6sUJniAoFQRQ-3mY5MSM9ntkA5dt-gsyyEJpA/viewform?usp=sf_link) before March 14th, 2023 !**
-
 ### <a name="eastern-europe-school"></a>IS-ENES3 Central & Eastern Europe Autumn Schools “From Climate Projections to Climate impacts via Regional Downscaling”
 - From **28 November - 2 December 2022**
 
