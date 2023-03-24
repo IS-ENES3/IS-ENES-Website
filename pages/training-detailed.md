@@ -30,9 +30,19 @@ header:
 <hr style="border:2px solid gray">
 
 ### <a name="c4i-webinar"></a>IS-ENES3 Webinar on the Climate4Impact portal and icclim
-- On **13 April 2023 - 10:00-12:00pm CEST**
+- On **13 April 2023 - 10:00-11:00pm CEST**
 
-*More information to be provided soon.*
+In this one-hour webinar, Alessandro Spinuso (KNMI) and Christian Pagé (CERFACS) will present [icclim](https://icclim.readthedocs.io/en/stable/), a Python library to compute climate indices, as well as the [Climate4Impact portal v2](https://www.climate4impact.eu/c4i-frontend/). 
+
+**- Agenda:**
+- icclim: a flexible tool to analyse climate simulations (30')
+- C4I v2 Platform, Use and Technology (15')
+- Question (15')
+
+Participants to the webinar are encouraged to register to the Climate4Impact portal beforehand and try it out before the webinar.
+However, no hands-on will be provided during the webinar.
+
+**If you wish to attend, register by completing [this form](https://docs.google.com/forms/d/e/1FAIpQLScl8aW52Sjdm88GllGLtbWB86w8kaDGbYbXYGRWRbt7arD2XQ/viewform?usp=sf_link) before April 11th !**
 
 <hr style="border:2px solid gray">
 
