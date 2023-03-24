@@ -39,7 +39,7 @@ header:
 ### <a name="cylc-webinar"></a>IS-ENES3 Webinar on Cylc
 - On **16 March 2023 - 10:00-11:00pm CET**
 
-**You can find the slides [here](https://cylc.github.io/cylc-presentations/IS-ENES3-2023/dist/1) and watch the recorded webinar on [our YouTube channel](https://youtu.be/MHC-PCuy_94) !**
+**You can find the slides [here](https://cylc.github.io/cylc-presentations/IS-ENES3-2023/dist) and watch the recorded webinar on [our YouTube channel](https://youtu.be/MHC-PCuy_94) !**
 
 ![cylc-webinar](../images/Cylc-Webinar-v2-mini.png)
 
