@@ -222,6 +222,13 @@ Driven by the theoretical background provided by domain, data and computer scien
 - open when: **Oct 14, 2021**
 - duration: **Oct 14, 2021 10:00 AM to Oct 21, 2021 12:00 PM (Europe/Vienna / UTC200)**
 
+**You can watch the recorded talks on [our YouTube channel](https://www.youtube.com/watch?v=F580TTmhGGM&list=PLFvev1W5vG7Mer99UeH_bXQfsA40CdwGR&index=1)!**
+
+Three videos:
+- Bias adjustment: Methods, Performance and Challenges - D. Maraun
+- Technical aspects of bias corrections: Towards "multivariate approaches" - M. Vrac
+- Climadjust - J. de Saenz de la Torre Lasierra
+
 **Dates of the clinic**
 
 The virtual clinic is divided into two meetings.
