@@ -25,6 +25,7 @@ Title | Type
 :----:|:----:
 [D1.1 - Data Management Plan](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D1.1.pdf) | File
 [D2.2 - The ENES-RI Sustainability Plan](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D2.2_vf.pdf) | File
+[D2.3 - Final Report on Innovation](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D2.3.pdf) | File
 [D2.4 - Final report on governance activities](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D2.4.pdf) | File
 [D3.1 - Initial requirements on model evaluation](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D3.1-vf.pdf) | File
 [D3.2 - Report on Evaluation of three IS-ENES3 Schools ‘Climate data use for impact assessments’ (2020-2021) and the IS-ENES3 Summer School on Data Science for Climate Modelling (2022)](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D3.2.pdf) | File
@@ -35,6 +36,7 @@ Title | Type
 [D4.1 - Coupling workshop report](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D4.1_Coupling_workshop_report.pdf) | File
 [D4.2 - Development strategy for sea ice modelling in NEMO](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D4.2_Development_strategy_for_sea_ice_modelling_in_NEMO.pdf) | File
 [D4.3 - CPMIP performance metrics and community advice](https://zenodo.org/record/6394049#.YkxFuzyxXkN) | Link
+[D4.5 - White paper on innovation on tools, platforms, and techniques](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D4.5.pdf) | Link
 [D5.1 - Compute service requirements and state of the art approaches](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D5.1_Compute_service_requirements_and_state_of_the_art_approaches.pdf) | Link
 [D5.2 -Technical standards for diagnostic tools](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D5.2.pdf) | File
 [D5.3 - Architecture Design Plans](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D5.3.pdf) | File
