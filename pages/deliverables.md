@@ -62,6 +62,7 @@ Title | Type
 [D9.2 - ESMValTool version enabling model development usage](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D9.2_ESMValTool_version_enabling_model_development_usage.pdf) | File
 [D9.3 - ESMValTool version with ESGF coupling and distributed computation features](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/ISENES3_D9.3.pdf) | File
 [D9.4 - Seamless Evaluation with the ESMValTool](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D9.4.pdf) | File
+[D9.5 - Final IS-ENES3 ESMValTool version](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D9.5.pdf) | File
 [D10.1 - Architectural document of the ENES CDI software stack](https://zenodo.org/record/4309892#.Ykw7jDyxXkN) | Link
 [D10.2 - First release of the ENES CDI software stack](https://zenodo.org/record/4450012#.YkxFyDyxXkO) | Link
 [D10.3 - Second release of the ENES CDI software stack](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D10.3.pdf) | File
