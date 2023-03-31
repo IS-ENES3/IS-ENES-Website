@@ -50,6 +50,7 @@ Title | Type
 [M7.1 - ENES CDI help desk](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M7.1.pdf) | File
 [M7.2 - Set up of review committee and user selection panel](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M7.2.pdf) | File
 [M7.3 - Improved version of evaluation portal](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M7.3.pdf) | File
+[M7.4 - Complete ENES-CDI long term archival for CMIP6](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M7.4.pdf) | File
 [M8.1 - A set of unit tests for XIOS](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M8.1.pdf) | File
 [M8.2 - Cylc/Rose development priorities agreed](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M8.2.pdf) | File
 [M8.3 - Final list of developments for OASIS3-`MCT_5.0`](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_M8.3-vf.pdf) | File
