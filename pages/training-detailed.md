@@ -36,7 +36,7 @@ In this seminar, organised with CNRS-IPSL and Met Office, we will review capabil
 <hr style="border:2px solid gray">
 
 ### <a name="c4i-webinar"></a>IS-ENES3 Webinar on the Climate4Impact portal and icclim
-- On **13 April 2023 - 10:00-11:00pm CEST**
+- On **13 April 2023 - 10:00-11:00am CEST**
 
 ![icclim-webinar](../images/C4I-icclim-webinar-v4.png)
 
