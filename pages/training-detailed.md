@@ -67,6 +67,13 @@ In this webinar, Oliver Sanders from the [Met Office](https://www.metoffice.gov.
 
 <hr style="border:2px solid gray">
 
+### <a name="c4i-winter-training"></a>Winter trainings on the Climate4Impact portal and icclim at Universities in the Netherlands
+- On **7 February 2023**
+
+On Feb 7th at [Wageningen University Research (WUR)](https://www.wur.nl/en/wageningen-university.htm) and Feb 8th at [Delft University of Technology (TU Delft)](https://www.tudelft.nl/en/), IS-ENES3 organized trainings on accessing and processing climate data using [climate4impact (C4I)](https://www.climate4impact.eu/c4i-frontend/) and [icclim](https://icclim.readthedocs.io/en/stable/). Christian Pagé from CERFACS presented to students how to use the interactive C4I platform to calculate climate indices using icclim, and practical exercises were proposed to the students. There has been some very good feedback from the students and professors, and some actions are being undertaken to use those tools in future classes in the next semester.
+
+<hr style="border:2px solid gray">
+
 ### <a name="eastern-europe-school"></a>IS-ENES3 Central & Eastern Europe Autumn Schools “From Climate Projections to Climate impacts via Regional Downscaling”
 - From **28 November - 2 December 2022**
 
