@@ -79,3 +79,6 @@ header:
 - [Evaluation of native Earth system model output with ESMValTool v2.6.0](https://gmd.copernicus.org/articles/16/315/2023/gmd-16-315-2023.pdf)
   - M. Schlund et al.
   - Published on 11 January 2023
+- [Light Under Arctic Sea Ice in Observations and Earth System Models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JC018161) 
+  - M. Lebrun et al.
+  - Published on 07 February 2023
