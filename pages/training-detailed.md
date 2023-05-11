@@ -25,13 +25,13 @@ header:
 ### <a name="si3-webinar"></a>IS-ENES3 Webinar on SI3
 - On **11 May 2023 - 10:30-12:00pm CEST**
 
+**You can download the webinar slides [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/SI3_webinar_2023_lowres.pdf).**
+
 ![si3-webinar](../images/SI3-Webinar-v2.png)
 
 **SI3** (say “sea ice cubed”) is the NEMO sea ice model since version 4. It replaces previously used sea ice models (CICE, GELATO, LIM). SI3 is a 2+1D continuum sea ice model, primarily designed for climate sciences, but also useful for sea ice geophysics and operational oceanography. 
 
-In this seminar, organised with CNRS-IPSL and Met Office, we will review capabilities of the latest SI3 version and address practical questions of users.
-
-**In order to receive the connection link, you can register [here](https://docs.google.com/forms/d/e/1FAIpQLSeyPzNWb2Rz1H90JINTjaI1i6d8u52jJUqD_oVOThJiaMYJ3g/viewform?usp=sf_link) before May 9th !**
+In this webinar, organised with CNRS-IPSL and Met Office, we will review capabilities of the latest SI3 version and address practical questions of users.
 
 <hr style="border:2px solid gray">
 
@@ -49,8 +49,6 @@ In this one-hour webinar, Alessandro Spinuso (KNMI) and Christian Pagé (CERFACS
 
 Participants to the webinar are encouraged to register to the Climate4Impact portal beforehand and try it out before the webinar.
 However, no hands-on will be provided during the webinar.
-
-**If you wish to attend, register by completing [this form](https://docs.google.com/forms/d/e/1FAIpQLScl8aW52Sjdm88GllGLtbWB86w8kaDGbYbXYGRWRbt7arD2XQ/viewform?usp=sf_link) before April 11th !**
 
 <hr style="border:2px solid gray">
 
