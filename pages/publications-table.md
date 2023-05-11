@@ -76,6 +76,9 @@ header:
 - [Benchmarking Regridding Libraries Used in Earth System Modelling](https://www.mdpi.com/2297-8747/27/2/31)
   - S. Valcke, A. Piacentini, G. Jonville
   - Published on 1 April 2022. 
+- [Implementation of FAIR principles in the IPCC: the WGI AR6 Atlas repository](https://www.nature.com/articles/s41597-022-01739-y#citeas) 
+  - Iturbide, M., Fernández, J., Gutiérrez, J.M. et al.
+  - Published on October 2022
 - [Evaluation of native Earth system model output with ESMValTool v2.6.0](https://gmd.copernicus.org/articles/16/315/2023/gmd-16-315-2023.pdf)
   - M. Schlund et al.
   - Published on 11 January 2023
