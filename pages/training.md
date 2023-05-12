@@ -28,10 +28,9 @@ You can also find all those resources in the "Dissemination" section (Presentati
 
 ## Upcoming
 
-#### [IS-ENES3 Webinar on SI3](https://is-enes3.github.io/IS-ENES-Website/training-detailed#si3-webinar) (11 May 2023)
-
 ## Past
 
+#### [IS-ENES3 Webinar on SI3](https://is-enes3.github.io/IS-ENES-Website/training-detailed#si3-webinar) (11 May 2023) (YT)
 #### [IS-ENES3 Webinar on the Climate4Impact Portal and icclim](https://is-enes3.github.io/IS-ENES-Website/training-detailed#c4i-webinar) (13 April 2023)
 #### [IS-ENES3 Webinar: Introduction to the Cylc engine workflow](https://is-enes3.github.io/IS-ENES-Website/training-detailed#cylc-webinar) (16 March 2023) (YT)
 #### [Winter trainings on the C4I Portal and icclim at Universities in the Netherlands](https://is-enes3.github.io/IS-ENES-Website/training-detailed#c4i-winter-training) (7 February 2023)
