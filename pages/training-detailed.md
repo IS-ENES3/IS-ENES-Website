@@ -26,7 +26,8 @@ header:
 - On **11 May 2023 - 10:30-12:00pm CEST**
 
 **You can download the webinar slides [here](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/SI3_webinar_2023_lowres.pdf).**
-**You can watch the recording of the webinar [here](https://youtu.be/3FhXtbXoWfM)
+
+**You can watch the recording of the webinar [here](https://youtu.be/3FhXtbXoWfM)**
 
 ![si3-webinar](../images/SI3-Webinar-v2.png)
 
