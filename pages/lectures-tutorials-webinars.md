@@ -19,6 +19,7 @@ header:
     #caption: This is a caption for the header image with link
     #caption_url: https://unsplash.com/
     image_fullwidth: "banniere_dissemination.jpg"
+
 widget1:
   title: "CORDEX and CMIP"
   url: 'https://www.youtube.com/watch?v=SSjod5McTZo&list=PLFvev1W5vG7Nv-wzntcCp46XbqJKWaqRB'
@@ -28,68 +29,73 @@ widget2:
   title: "Code Coupling Webinar"
   url: 'https://www.youtube.com/watch?v=SfskX5wKugM'
   image: 'Code_Coupling_YT.png'
-  text: 'WEBINAR: General concepts and latest news of the OASIS3-MCT coupler (May 2022). 1 hour video.'
+  text: 'WEBINAR: General concepts and latest news of the OASIS3-MCT coupler (May 2022). 1-hour video.'
 widget3:
   title: "Introduction to ESMValTool (June 2022)"
   url: 'https://www.youtube.com/watch?v=3tzU2zcCxUU'
   image: 'KZ_EsmvaltoolIntro.png'
-  text: 'WEBINAR: Introduction to ESMValTool (June 2022). 1 hour video.'
+  text: 'WEBINAR: Introduction to ESMValTool (June 2022). 1-hour video.'
 widget4:
   title: "International climate change science cooperation"
   url: 'https://www.youtube.com/watch?v=vtgPFXjV6m4&t=3s&ab_channel=CMCCChannel'
   image: 'CMCC-ESGF-webinar.png'
-  text: 'WEBINAR: "Tracking, reporting and visualising data within the Earth System Grid Federation", given by CMCC (November 2022). 1 hour video.'
+  text: 'WEBINAR: "Tracking, reporting and visualising data within the Earth System Grid Federation", given by CMCC (November 2022). 1-hour video.'
 widget5:
   title: "Introduction to the Cylc workflow engine"
   url: 'https://www.youtube.com/watch?v=MHC-PCuy_94'
   image: 'Cylc-webinar.png'
-  text: 'WEBINAR: "Introduction to the Cylc workflow engine", given by the Met Office (March 2023). 30 minutes video.'  
+  text: 'WEBINAR: "Introduction to the Cylc workflow engine", given by the Met Office (March 2023). 30-min video.'  
 widget6:
+  title: "The Sea Ice modelling Integrated Initiative (SI3)"
+  url: 'https://www.youtube.com/watch?v=3FhXtbXoWfM&ab_channel=IS-ENES3H2020'
+  image: 'SI3.png'
+  text: 'WEBINAR: Introduction to the Sea Ice modelling Integrated Initiative (SI3) (May 2023). 40-min video.'
+widget7:
   title: "Training ECAS"
   url: 'https://www.youtube.com/watch?v=deQUK9k47uo&list=PLFvev1W5vG7P1VGITP3ys1GpXnhL--jIc'
   image: 'Training_ECAS.png'
   text: 'TRAINING: IS-ENES3/EOSC Online Training on Data Analytics: How to skip high-volume data transfer and access free computing resources for your CMIP analyses (March 2021). 6 talks (from 15 min to 1h).'
-widget7:
+widget8:
   title: "Bias-adjustment of climate model data"
   url: 'https://www.youtube.com/watch?v=F580TTmhGGM&list=PLFvev1W5vG7Mer99UeH_bXQfsA40CdwGR'
   image: 'Maraun.png'
   text: 'TRAINING: IS-ENES3 Virtual clinic on bias-adjustment of climate model data (October 2021). 3 talks of 1h.'  
-widget8:
+widget9:
   title: "Compute and Analytics"
   url: 'https://www.youtube.com/watch?v=Kr9IIa4JL08&list=PLFvev1W5vG7N69d4mD0Aa6FgNiuisQDcl'
   image: 'Compute_and_analytics.png'
   text: 'WORKSHOP: Virtual workshop on Compute and analytics (Dec. 2019). 11 talks (from 15 to 40 min).'
-widget9:
+widget10:
   title: "5th Coupling Workshop (2020)"
   url: 'https://www.youtube.com/watch?v=p5kQii_UNlU&list=PLFvev1W5vG7O-h0H1AYrXHtkPQ3zAOZjt'
   image: 'Coupling_Workshop.png'
   text: 'WORKSHOP: 5th Workshop on Coupling Technologies for Earth System Models (Sept 2020). 35 talks of 15 min.'
-widget10:
+widget11:
   title: "ML-AI Workshop"
   url: 'https://www.youtube.com/watch?v=P0RtRdLvAGA&list=PLFvev1W5vG7NP2xSRRorQabHWKKwJqw54'
   image: 'ML-AI_Workshop.png'
   text: 'WORKSHOP: Virtual Workshop on New Opportunities for ML and AI in Weather and Climate Modelling (March 2021). 20 talks (from 16 to 30 min).'
-widget11:
+widget12:
   title: "7th ENES HPC Workshop"
   url: 'https://www.youtube.com/watch?v=rLx8-t_5LYQ&list=PLFvev1W5vG7P56bYBrfQTaSYEPeijjolJ'
   image: 'HPCWS_YT.png'
   text: 'WORKSHOP: 7th ENES HPC workshop (May 2022). 7 videos (from 1:15 to 4 hours).'
-widget12:
+widget13:
   title: "6th Coupling Workshop (2023)"
   url: 'https://www.youtube.com/watch?v=9dK_BP6LXZM&list=PLFvev1W5vG7NVX4AMbERCgMfEe--wTUMN&ab_channel=IS-ENES3H2020'
   image: 'Coupled-Systems-I.png'
   text: 'WORKSHOP: 6th Workshop on Coupling Technologies for Earth System Models, Toulouse, (January 2023). 5 videos (from 1:15 to 2:20).'
-widget13:
+widget14:
   title: "Climate Impact School"
   url: "https://www.youtube.com/watch?v=_42ltTQzY30&list=PLFvev1W5vG7NDEZhxObXDd1Bc5rnBpYrk"
   image: 'Climate_Impact_School.png'
   text: 'SCHOOL: Virtual Autumn School on Climate data use for impact assessments (Nov-Dec 2020). 11 talks (from 30 min to 1 hour).'
-widget14:
+widget15:
   title: "Data Science Summer School - Keynotes"
   url: 'https://www.youtube.com/watch?v=bAR6TymbBTk&list=PL18_rB75vx1M3TMTnR8dkfLHYAa7447pF&index=1'
   image: 'Summer_school_youtube.png'
   text: 'SCHOOL: IS-ENES3 Summer School on Data Science for Climate Modelling (Sept. 2022, Athens) - Keynotes. 4 talks (from 0:45 to 1:30)'
-widget15:
+widget16:
   title: "Introduction to ES-DOC"
   url: 'https://www.youtube.com/watch?v=sF50iFZzzmI&t=2424s'
   image: 'es-doc.png'
