@@ -24,6 +24,7 @@ header:
 Title | Type
 :----:|:----:
 [D1.1 - Data Management Plan](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D1.1.pdf) | File
+[D2.1 - Infrastructure Strategy for Earth System Modelling for 2024-2033](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_IS-ENES3_D2.1-vf.pdf) | File
 [D2.2 - The ENES-RI Sustainability Plan](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D2.2_vf.pdf) | File
 [D2.3 - Final Report on Innovation](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D2.3.pdf) | File
 [D2.4 - Final report on governance activities](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D2.4.pdf) | File
