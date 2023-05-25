@@ -66,8 +66,8 @@ Title | Type
 [IS-ENES3 Webinar: Code coupling: general concepts and latest news of the OASIS3-MCT coupler (May 2022)](https://is.enes.org/training-detailed/#oasis-training) | Internal Link
 [Introduction to ESMValTool: a tool for evaluation of climate model data - Webinar (June 2022)](https://is.enes.org/training-detailed/#esmvaltool-training) | Internal Link
 [IS-ENES3 Webinar for the EU Outermost territories: Introduction to the IS-ENES3 climate data services (Oct. 2022)](https://is.enes.org/training-detailed/#outermost-territories) | Internal Link
-
-
+[IS-ENES3 Webinar on the Climate4Impact portal and icclim (April 2023)](https://is.enes.org/training-detailed/c4i-webinar) | Internal Link
+[IS-ENES3 Webinar: Introduction to the Sea Ice modelling Integrated Initiative (May 2023)](https://is.enes.org/training-detailed/si3-webinar) | Internal Link
 
 
 ### AGU2019
