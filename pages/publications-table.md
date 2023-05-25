@@ -85,3 +85,5 @@ header:
 - [Light Under Arctic Sea Ice in Observations and Earth System Models](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JC018161) 
   - M. Lebrun et al.
   - Published on 07 February 2023
+
+OASIS3-MCT Technical reports are available on the [OASIS Coupler website](https://oasis.cerfacs.fr/en/pulications-and-references/).
