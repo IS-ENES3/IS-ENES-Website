@@ -195,4 +195,4 @@ Title | Type
 [AMS 2022 - icclim: Calculating Climate Indices and Indicators Made Easy, C. Pagé](https://zenodo.org/record/5913283#.ZBH5IHbMJaR) | Zenodo Link
 [AMS 2023 - Climate Data Analysis Tools and Datasets to Support Climate Action, C. Pagé](https://zenodo.org/record/7589533#.ZBH6cnbMJaR) | Zenodo Link
 [ICES Foundation Biennal Workshop VI - Panel on HPC, Digital twins, evolution of climate models & new meteo codes, S. Joussaume](http://www.icesfoundation.org/UsersFiles/FCKeditorFiles/file/ICES%20Biennial%20Presentations/SJoussaume.pdf) | External Link
-
+[Perspectives on the Future of Climate Modelling, B. Lawrence - Balajifest 2023](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/lawrence_balajifest.pdf) | PDF File
