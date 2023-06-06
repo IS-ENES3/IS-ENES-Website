@@ -72,3 +72,5 @@ Title | Type
 [D10.4 - CMIP6 documentation](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D10.4.pdf) | File
 [D10.5 - Final release of the ENES CDI software stack](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D10.5.pdf) | File
 [IS-ENES3 White Paper on provenance handling in the model evaluation process (contribution to D3.3)](https://zenodo.org/record/5759571#.YkxFwzyxXkN) | Link
+[D2.1_numbered - Infrastructure Strategy for Earth System Modelling for 2024-2033]](https://raw.githubusercontent.com/IS-ENES3/IS-ENES-Website/main/pdf_documents/IS-ENES3_D2.1_numbered.pdf) | File
+
